@@ -1,16 +1,25 @@
 import math # for distance calculation
 import re
+import random
+import linecache
 
 class Graph():
     def __init__(self, vertices):
         self.original_dataset = vertices
         self.vertices = {}
         self.visited = {}
+        self.total_distance = 0
+
+        # Cities Setup
+        self.line_num = 0  # For the city selection
+        self.shuffleCities()
+        
         for point in vertices:
             self.vertices[point[0]] = {
                 "point":(point[1], point[2]),
                 "edges":[],
-                "id":point[0]
+                "id":point[0],
+                "city":self.getNextCity()
             }
         self.visited[1] = self.vertices[1]
         self.prims(self.vertices[1])
@@ -22,7 +31,6 @@ class Graph():
             val = self.vertices[key]
             if (key not in self.visited):
                 distance = self.calculateDistance(current_point['point'], val['point'])
-                # print(distance)
                 self.distances[key] = distance
         
         # Find Shortest Key
@@ -31,8 +39,9 @@ class Graph():
             return
         min_key = min(self.distances, key=lambda k: self.distances[k]) 
         node = self.vertices.get(min_key)
-        current_point['edges'].append(min_key)
+        current_point['edges'].append((min_key, self.distances[min_key]))
         self.visited[min_key] = node
+        self.distances = {}
         self.prims(node)
 
 
@@ -42,12 +51,55 @@ class Graph():
         distance = math.sqrt(x + y)
         return distance
 
-    def tsp(self):
-        
+    def tsp_init(self):
+        print("\n\nTSP")
+        prior_city = self.vertices[1]['city']
+        print("\nStart City: ", prior_city)
+        self.tsp(self.vertices[1]['edges'][0], prior_city)
+
+    def tsp(self, node, prior_city):
+        node_id = node[0]
+        distance = node[1]
+        self.total_distance += distance
+        city = self.vertices[node_id]['city']
+        print(prior_city, "-->",city,'\tDistance of:', distance,'\n')
+        if (len(self.vertices[node_id]['edges']) > 0):
+            self.tsp(self.vertices[node_id]['edges'][0], city)
+        else:
+            self.end_tsp(self.vertices[node_id])
+
+    def end_tsp(self, prior_city_node):
+        home_node = self.vertices[1]
+        distance = self.calculateDistance(home_node['point'], prior_city_node['point'])
+        self.total_distance += distance
+        print(prior_city_node['city'], "-->",home_node['city'],'\tDistance of:', distance,'\n')
+        print('End of Tour! Total Distance of: ',self.total_distance,'\n')
 
     def printMST(self):
         for element in self.vertices:
             print(element['edges'])
+
+    def getNextCity(self):
+        # Choose some random number between 1 and 20000
+        if (self.line_num == 0):
+            self.line_num = random.randint(1, 20000)
+        city_data = linecache.getline('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/world-cities_shuffle.csv', self.line_num)
+        city_list = city_data.strip().split(',')
+        print(city_list[1])
+        if (city_list[1] != 'United States'):
+            self.line_num+=1
+            return self.getNextCity()
+        self.line_num+=1
+        return city_list[0]
+    
+    def shuffleCities(self):
+        fid = open("/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/world-cities_csv.csv", "r")
+        li = fid.readlines()
+        fid.close()
+        random.shuffle(li)
+        fid = open("/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/world-cities_shuffle.csv", "w")
+        fid.writelines(li)
+        fid.close()
 
 def parse_file(path):
     with open(path) as file:
@@ -77,6 +129,8 @@ def parse_file(path):
 #             [9, 6, 7]] 
 
 points = parse_file('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/a280.tsp.txt')
-
+print('\n\n\n\n')
 graph = Graph(points)
-# graph.printMST()
+# print(graph.vertices)
+graph.tsp_init()
+
