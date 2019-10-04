@@ -4,7 +4,8 @@ import random
 import linecache
 
 class Graph():
-    def __init__(self, vertices):
+    def __init__(self, vertices, name):
+        self.data_set_name = name
         self.original_dataset = vertices
         self.vertices = {}
         self.visited = {}
@@ -52,28 +53,40 @@ class Graph():
         return distance
 
     def tsp_init(self):
-        print("\n\nTSP")
-        prior_city = self.vertices[1]['city']
-        print("\nStart City: ", prior_city)
-        self.tsp(self.vertices[1]['edges'][0], prior_city)
+            results = open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/mst-heuristic/output/output.txt', 'w+')
+            results.write("## TSP OUTPUT FILE - APPROXIMATION ALGORITHM ##\n")
+            print("\n\nTSP")
+            prior_city = self.vertices[1]['city']
+            results.write(self.data_set_name+"Start City: "+ prior_city+'\n')
+            print("\nStart City: ", prior_city)
+            results.close()
+            self.tsp(self.vertices[1]['edges'][0], prior_city)
 
     def tsp(self, node, prior_city):
+        results = open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/mst-heuristic/output/output.txt', 'a+')
         node_id = node[0]
         distance = node[1]
         self.total_distance += distance
         city = self.vertices[node_id]['city']
-        print(prior_city, "-->",city,'\tDistance of:', distance,'\n')
+        results.write('\n')
+        results.write(prior_city+ " --> "+city+'         Distance of:'+ str(distance))
+        print('\n'+prior_city+ " --> "+city+'         Distance of:'+ str(distance))
         if (len(self.vertices[node_id]['edges']) > 0):
+            results.close()
             self.tsp(self.vertices[node_id]['edges'][0], city)
         else:
+            results.close()
             self.end_tsp(self.vertices[node_id])
 
     def end_tsp(self, prior_city_node):
-        home_node = self.vertices[1]
-        distance = self.calculateDistance(home_node['point'], prior_city_node['point'])
-        self.total_distance += distance
-        print(prior_city_node['city'], "-->",home_node['city'],'\tDistance of:', distance,'\n')
-        print('End of Tour! Total Distance of: ',self.total_distance,'\n')
+        with open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/mst-heuristic/output/output.txt', 'a+') as results:
+            home_node = self.vertices[1]
+            distance = self.calculateDistance(home_node['point'], prior_city_node['point'])
+            self.total_distance += distance
+            results.write('\n'+prior_city_node['city']+ " --> "+home_node['city']+'         Distance of:'+ str(distance)+'\n')
+            results.write('\nEnd of Tour! Total Distance of: '+str(self.total_distance))
+            print(prior_city_node['city'], "-->",home_node['city'],'         Distance of:', distance,'\n')
+            print('End of Tour! Total Distance of: ',self.total_distance,'\n')
 
     def printMST(self):
         for element in self.vertices:
@@ -105,32 +118,17 @@ def parse_file(path):
     with open(path) as file:
         points = []
         for line in file:
+            if ("NAME" in line):
+                name = line
             if (not re.search('[a-zA-Z]', line)):
                 this_line = line.strip().split(' ')
                 this_line = list(filter(None, this_line))
                 this_line = [ int(x) for x in this_line ]
                 print(this_line)
                 points.append(this_line)
-        return points
+        return (points, name)
 
-# points = [  [1, 1, 1], 
-#             [2, 4, 1], 
-#             [3, 1, 4], 
-#             [4, 3, 4], 
-#             [5, 5, 3]] 
-# points = [  [1, 1, 1], 
-#             [2, 1, 3], 
-#             [3, 2, 2], 
-#             [4, 3, 2], 
-#             [5, 3, 4],
-#             [6, 5, 3],
-#             [7, 5, 1],
-#             [8, 4, 1],
-#             [9, 6, 7]] 
 
-points = parse_file('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/a280.tsp.txt')
-print('\n\n\n\n')
-graph = Graph(points)
-# print(graph.vertices)
+data = parse_file('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/kroB200.tsp.txt')
+graph = Graph(data[0], data[1])
 graph.tsp_init()
-

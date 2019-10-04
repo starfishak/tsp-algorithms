@@ -1,0 +1,286 @@
+## TSP OUTPUT FILE - APPROXIMATION ALGORITHM ##
+NAME : a280
+Start City: Chanhassen
+
+Chanhassen --> Fruit Cove         Distance of:17.88854381999832
+Fruit Cove --> South Bradenton         Distance of:8.94427190999916
+South Bradenton --> Lancaster         Distance of:18.439088914585774
+Lancaster --> Montclair         Distance of:10.770329614269007
+Montclair --> Brockton         Distance of:8.94427190999916
+Brockton --> Cleveland         Distance of:16.492422502470642
+Cleveland --> Greater Northdale         Distance of:10.0
+Greater Northdale --> Collinsville         Distance of:10.770329614269007
+Collinsville --> Sherwood         Distance of:8.0
+Sherwood --> Olympia         Distance of:8.0
+Olympia --> Trenton         Distance of:8.0
+Trenton --> Maumelle         Distance of:8.0
+Maumelle --> Laurel         Distance of:8.0
+Laurel --> Wilmington         Distance of:8.0
+Wilmington --> Moses Lake         Distance of:16.0
+Moses Lake --> Minnetonka         Distance of:8.0
+Minnetonka --> Bridgeview         Distance of:8.0
+Bridgeview --> Holiday         Distance of:8.0
+Holiday --> Deltona         Distance of:8.0
+Deltona --> Tallahassee         Distance of:8.0
+Tallahassee --> Winter Garden         Distance of:8.0
+Winter Garden --> Myrtle Grove         Distance of:8.0
+Myrtle Grove --> Butte         Distance of:12.0
+Butte --> East Moline         Distance of:8.0
+East Moline --> Newark         Distance of:8.0
+Newark --> Marina         Distance of:8.0
+Marina --> Northridge         Distance of:14.422205101855956
+Northridge --> Saint Charles         Distance of:11.313708498984761
+Saint Charles --> Bayside         Distance of:8.0
+Bayside --> Riverside         Distance of:8.0
+Riverside --> Dover         Distance of:8.0
+Dover --> Lewiston Orchards         Distance of:8.0
+Lewiston Orchards --> Saratoga Springs         Distance of:8.0
+Saratoga Springs --> Radcliff         Distance of:8.0
+Radcliff --> Stow         Distance of:16.0
+Stow --> Boone         Distance of:8.0
+Boone --> Pittsfield         Distance of:8.0
+Pittsfield --> Rochester         Distance of:8.0
+Rochester --> Franklin         Distance of:8.0
+Franklin --> Asheville         Distance of:8.0
+Asheville --> Frankfort         Distance of:8.0
+Frankfort --> Santa Barbara         Distance of:11.313708498984761
+Santa Barbara --> Margate         Distance of:18.439088914585774
+Margate --> Lawrenceville         Distance of:10.0
+Lawrenceville --> Nogales         Distance of:42.5205832509386
+Nogales --> Lansing         Distance of:8.0
+Lansing --> Thousand Oaks         Distance of:8.0
+Thousand Oaks --> Holbrook         Distance of:8.0
+Holbrook --> Loves Park         Distance of:8.0
+Loves Park --> West Allis         Distance of:8.0
+West Allis --> Lodi         Distance of:8.0
+Lodi --> Laramie         Distance of:8.0
+Laramie --> New South Memphis         Distance of:8.0
+New South Memphis --> University Park         Distance of:8.0
+University Park --> Orange         Distance of:8.0
+Orange --> Rancho Cordova         Distance of:8.0
+Rancho Cordova --> San Leandro         Distance of:8.0
+San Leandro --> Ozark         Distance of:16.0
+Ozark --> Clifton         Distance of:11.313708498984761
+Clifton --> Wheaton         Distance of:14.422205101855956
+Wheaton --> San Marcos         Distance of:8.94427190999916
+San Marcos --> Wooster         Distance of:8.0
+Wooster --> Ashland         Distance of:8.0
+Ashland --> North Glendale         Distance of:8.0
+North Glendale --> Georgetown         Distance of:8.0
+Georgetown --> Fort Worth         Distance of:8.0
+Fort Worth --> Palos Hills         Distance of:8.0
+Palos Hills --> Erie         Distance of:8.0
+Erie --> Bismarck         Distance of:8.0
+Bismarck --> Rancho San Diego         Distance of:8.0
+Rancho San Diego --> Belton         Distance of:8.0
+Belton --> Fremont         Distance of:8.0
+Fremont --> Jacksonville         Distance of:17.88854381999832
+Jacksonville --> Springdale         Distance of:8.0
+Springdale --> Ceres         Distance of:16.0
+Ceres --> Fairwood         Distance of:8.0
+Fairwood --> Golden         Distance of:8.0
+Golden --> Belle Glade         Distance of:8.0
+Belle Glade --> Maywood         Distance of:8.0
+Maywood --> Grandview         Distance of:8.0
+Grandview --> Altamonte Springs         Distance of:8.0
+Altamonte Springs --> Floral Park         Distance of:8.0
+Floral Park --> Alamogordo         Distance of:8.0
+Alamogordo --> Idaho Falls         Distance of:11.313708498984761
+Idaho Falls --> Independence         Distance of:16.0
+Independence --> Kahului         Distance of:8.0
+Kahului --> Spring Hill         Distance of:8.0
+Spring Hill --> Belleville         Distance of:8.0
+Belleville --> Bakersfield         Distance of:8.0
+Bakersfield --> Atascadero         Distance of:8.0
+Atascadero --> Slidell         Distance of:8.0
+Slidell --> Spanaway         Distance of:8.0
+Spanaway --> Beloit         Distance of:8.0
+Beloit --> Griffith         Distance of:8.0
+Griffith --> Terre Haute         Distance of:8.0
+Terre Haute --> Woodburn         Distance of:8.0
+Woodburn --> Milton         Distance of:42.5205832509386
+Milton --> Cranberry Township         Distance of:11.313708498984761
+Cranberry Township --> Back Mountain         Distance of:8.94427190999916
+Back Mountain --> Winter Gardens         Distance of:8.0
+Winter Gardens --> Pine Bluff         Distance of:8.0
+Pine Bluff --> Hilo         Distance of:8.0
+Hilo --> Shoreline         Distance of:8.0
+Shoreline --> Greenfield         Distance of:8.0
+Greenfield --> Rossville         Distance of:8.0
+Rossville --> Everett         Distance of:8.0
+Everett --> Eagle Pass         Distance of:8.0
+Eagle Pass --> Pasadena         Distance of:8.0
+Pasadena --> Seaside         Distance of:8.0
+Seaside --> Northampton         Distance of:8.0
+Northampton --> Shorewood         Distance of:8.0
+Shorewood --> South San Francisco         Distance of:8.0
+South San Francisco --> South Yuba City         Distance of:8.0
+South Yuba City --> Cutler         Distance of:8.0
+Cutler --> Klamath Falls         Distance of:8.0
+Klamath Falls --> Winter Park         Distance of:8.0
+Winter Park --> Golden Valley         Distance of:11.313708498984761
+Golden Valley --> Seal Beach         Distance of:11.313708498984761
+Seal Beach --> Severna Park         Distance of:11.313708498984761
+Severna Park --> Franklin         Distance of:11.313708498984761
+Franklin --> Apple Valley         Distance of:43.266615305567875
+Apple Valley --> Middletown         Distance of:40.0
+Middletown --> McKinleyville         Distance of:8.0
+McKinleyville --> Clifton         Distance of:8.0
+Clifton --> Palm Springs         Distance of:8.0
+Palm Springs --> Danville         Distance of:8.0
+Danville --> Catonsville         Distance of:14.422205101855956
+Catonsville --> Appleton         Distance of:8.0
+Appleton --> Stockton         Distance of:8.0
+Stockton --> Fort Thomas         Distance of:8.0
+Fort Thomas --> Dublin         Distance of:8.0
+Dublin --> Bay City         Distance of:8.0
+Bay City --> North Bay Shore         Distance of:8.0
+North Bay Shore --> El Dorado         Distance of:8.0
+El Dorado --> New Milford         Distance of:8.0
+New Milford --> East Brunswick         Distance of:8.0
+East Brunswick --> Joplin         Distance of:8.94427190999916
+Joplin --> Avocado Heights         Distance of:17.88854381999832
+Avocado Heights --> Petaluma         Distance of:16.492422502470642
+Petaluma --> Iona         Distance of:16.492422502470642
+Iona --> Batavia         Distance of:8.94427190999916
+Batavia --> Parkland         Distance of:8.0
+Parkland --> Mukilteo         Distance of:8.0
+Mukilteo --> Pelham         Distance of:8.0
+Pelham --> Bethpage         Distance of:8.0
+Bethpage --> Chambersburg         Distance of:8.0
+Chambersburg --> Casselberry         Distance of:8.0
+Casselberry --> Eagle         Distance of:8.0
+Eagle --> Hackensack         Distance of:8.0
+Hackensack --> Yucaipa         Distance of:8.0
+Yucaipa --> Glenview         Distance of:8.0
+Glenview --> Asheboro         Distance of:26.832815729997478
+Asheboro --> Douglasville         Distance of:17.08800749063506
+Douglasville --> Broomfield         Distance of:14.0
+Broomfield --> Mount Juliet         Distance of:12.0
+Mount Juliet --> Santa Rosa         Distance of:8.0
+Santa Rosa --> North Bergen         Distance of:8.0
+North Bergen --> Lakewood         Distance of:12.649110640673518
+Lakewood --> Bethany         Distance of:8.0
+Bethany --> Port Angeles         Distance of:8.0
+Port Angeles --> Fairfield         Distance of:8.0
+Fairfield --> Garden City         Distance of:8.0
+Garden City --> Los Banos         Distance of:20.396078054371138
+Los Banos --> Bethesda         Distance of:8.0
+Bethesda --> Alafaya         Distance of:8.0
+Alafaya --> Waterville         Distance of:8.0
+Waterville --> Roanoke Rapids         Distance of:8.0
+Roanoke Rapids --> Lakeside         Distance of:14.422205101855956
+Lakeside --> Castlewood         Distance of:12.0
+Castlewood --> North Salt Lake         Distance of:8.0
+North Salt Lake --> Walker         Distance of:14.422205101855956
+Walker --> Wildomar         Distance of:8.94427190999916
+Wildomar --> Rosemont         Distance of:8.0
+Rosemont --> East Peoria         Distance of:12.165525060596439
+East Peoria --> Tewksbury         Distance of:13.416407864998739
+Tewksbury --> Baltimore         Distance of:8.0
+Baltimore --> West Fargo         Distance of:8.0
+West Fargo --> Battle Ground         Distance of:8.0
+Battle Ground --> Savage         Distance of:8.0
+Savage --> Covina         Distance of:8.0
+Covina --> Dickinson         Distance of:22.360679774997898
+Dickinson --> Plainview         Distance of:8.0
+Plainview --> Prattville         Distance of:8.0
+Prattville --> Port Chester         Distance of:8.94427190999916
+Port Chester --> Providence         Distance of:8.0
+Providence --> Cloverly         Distance of:8.246211251235321
+Cloverly --> Cathedral City         Distance of:8.0
+Cathedral City --> Louisville         Distance of:8.0
+Louisville --> Burlington         Distance of:8.0
+Burlington --> Kailua         Distance of:16.0
+Kailua --> Acton         Distance of:8.0
+Acton --> Kokomo         Distance of:0.0
+Kokomo --> Winston-Salem         Distance of:16.0
+Winston-Salem --> Helena         Distance of:8.0
+Helena --> Sidney         Distance of:8.0
+Sidney --> Fairland         Distance of:11.313708498984761
+Fairland --> Solon         Distance of:16.0
+Solon --> Brigham City         Distance of:17.88854381999832
+Brigham City --> Charleston         Distance of:8.0
+Charleston --> Hacienda Heights         Distance of:8.0
+Hacienda Heights --> East Northport         Distance of:8.0
+East Northport --> Muskegon         Distance of:8.0
+Muskegon --> Laplace         Distance of:8.0
+Laplace --> Roseville         Distance of:8.0
+Roseville --> Saco         Distance of:8.0
+Saco --> Leesburg         Distance of:8.0
+Leesburg --> Longmeadow         Distance of:8.0
+Longmeadow --> Humble         Distance of:8.0
+Humble --> Niagara Falls         Distance of:31.240998703626616
+Niagara Falls --> Pleasanton         Distance of:12.806248474865697
+Pleasanton --> Martinez         Distance of:26.0
+Martinez --> Highland         Distance of:8.0
+Highland --> West Haven         Distance of:8.94427190999916
+West Haven --> Port Huron         Distance of:8.0
+Port Huron --> Hayesville         Distance of:16.0
+Hayesville --> Montclair         Distance of:8.0
+Montclair --> Duluth         Distance of:8.0
+Duluth --> Payson         Distance of:8.0
+Payson --> Temecula         Distance of:8.0
+Temecula --> Oceanside         Distance of:8.0
+Oceanside --> Louisville         Distance of:8.0
+Louisville --> Ankeny         Distance of:8.0
+Ankeny --> Gatesville         Distance of:8.0
+Gatesville --> Roseville         Distance of:8.0
+Roseville --> Montrose         Distance of:8.0
+Montrose --> Fort Wayne         Distance of:8.0
+Fort Wayne --> Spanish Fork         Distance of:8.0
+Spanish Fork --> Clovis         Distance of:10.0
+Clovis --> Bowling Green         Distance of:8.0
+Bowling Green --> Calabasas         Distance of:8.246211251235321
+Calabasas --> Salisbury         Distance of:8.0
+Salisbury --> Ferry Pass         Distance of:8.0
+Ferry Pass --> Hereford         Distance of:8.0
+Hereford --> Hyattsville         Distance of:8.94427190999916
+Hyattsville --> Trussville         Distance of:14.422205101855956
+Trussville --> Salinas         Distance of:8.0
+Salinas --> Green Bay         Distance of:8.0
+Green Bay --> Bellingham         Distance of:8.0
+Bellingham --> Irondequoit         Distance of:8.0
+Irondequoit --> Pocatello         Distance of:8.0
+Pocatello --> Carlsbad         Distance of:8.0
+Carlsbad --> Adelanto         Distance of:8.0
+Adelanto --> Yucca Valley         Distance of:11.313708498984761
+Yucca Valley --> Milpitas         Distance of:8.0
+Milpitas --> San Carlos         Distance of:8.0
+San Carlos --> Willmar         Distance of:8.246211251235321
+Willmar --> Brenham         Distance of:8.0
+Brenham --> Westchester         Distance of:16.0
+Westchester --> Tuscaloosa         Distance of:8.0
+Tuscaloosa --> Roselle         Distance of:8.246211251235321
+Roselle --> Four Corners         Distance of:8.0
+Four Corners --> West Melbourne         Distance of:8.0
+West Melbourne --> Hazelwood         Distance of:8.0
+Hazelwood --> O'Fallon         Distance of:40.792156108742276
+O'Fallon --> Middleton         Distance of:8.0
+Middleton --> Wilmington         Distance of:8.0
+Wilmington --> Raytown         Distance of:8.0
+Raytown --> West Gulfport         Distance of:8.0
+West Gulfport --> McMinnville         Distance of:8.0
+McMinnville --> Bloomingdale         Distance of:8.0
+Bloomingdale --> North Augusta         Distance of:8.0
+North Augusta --> Temple City         Distance of:8.0
+Temple City --> Nicholasville         Distance of:8.0
+Nicholasville --> North Royalton         Distance of:8.0
+North Royalton --> Donna         Distance of:8.0
+Donna --> Opelousas         Distance of:8.0
+Opelousas --> South Jordan         Distance of:8.0
+South Jordan --> Mobile         Distance of:8.0
+Mobile --> Mount Prospect         Distance of:8.0
+Mount Prospect --> Sandy City         Distance of:16.492422502470642
+Sandy City --> Biloxi         Distance of:8.0
+Biloxi --> Fargo         Distance of:60.0
+Fargo --> Yuma         Distance of:8.0
+Yuma --> San Fernando         Distance of:125.60254774486066
+San Fernando --> Lee's Summit         Distance of:80.49844718999243
+Lee's Summit --> North Babylon         Distance of:11.313708498984761
+North Babylon --> Lubbock         Distance of:11.313708498984761
+Lubbock --> Willowbrook         Distance of:69.9714227381436
+Willowbrook --> East Pensacola Heights         Distance of:8.0
+East Pensacola Heights --> Chanhassen         Distance of:40.0
+
+End of Tour! Total Distance of: 3148.109934934404

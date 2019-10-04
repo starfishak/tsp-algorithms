@@ -1,0 +1,206 @@
+## TSP OUTPUT FILE - APPROXIMATION ALGORITHM ##
+NAME: kroB200
+Start City: Oakley
+
+Oakley --> Louisville         Distance of:95.96353474106714
+Louisville --> Auburn Hills         Distance of:204.59960899278374
+Auburn Hills --> Acworth         Distance of:149.91330828182
+Acworth --> Asbury Park         Distance of:82.68010643437755
+Asbury Park --> Arvada         Distance of:117.23907198540937
+Arvada --> Alum Rock         Distance of:117.00427342623003
+Alum Rock --> Hicksville         Distance of:259.7556544139126
+Hicksville --> Aurora         Distance of:141.39660533407442
+Aurora --> Prattville         Distance of:135.36986370680884
+Prattville --> Summit         Distance of:30.01666203960727
+Summit --> Kendale Lakes         Distance of:158.39823231336896
+Kendale Lakes --> Garfield         Distance of:242.1652328473268
+Garfield --> Merrillville         Distance of:293.8043566729398
+Merrillville --> Scottsdale         Distance of:253.23704310388715
+Scottsdale --> Snellville         Distance of:53.75872022286245
+Snellville --> West Islip         Distance of:31.144823004794873
+West Islip --> Ridgewood         Distance of:313.0255580619576
+Ridgewood --> Beavercreek         Distance of:88.72992730753249
+Beavercreek --> Hazel Dell         Distance of:146.98639392814562
+Hazel Dell --> North Hollywood         Distance of:10.198039027185569
+North Hollywood --> Benbrook         Distance of:135.5322839769182
+Benbrook --> Williamstown         Distance of:14.0
+Williamstown --> Terre Haute         Distance of:164.40194646049662
+Terre Haute --> Richmond         Distance of:145.7737973711325
+Richmond --> Fayetteville         Distance of:227.31695933211847
+Fayetteville --> Middle River         Distance of:75.61084578286372
+Middle River --> Avon         Distance of:113.44161493913951
+Avon --> Lents         Distance of:46.95742752749558
+Lents --> Florence         Distance of:265.9323222175146
+Florence --> Hemet         Distance of:144.83784035948617
+Hemet --> Compton         Distance of:155.18376203714098
+Compton --> North Chicopee         Distance of:269.4327374318125
+North Chicopee --> Paramount         Distance of:198.58751219550538
+Paramount --> Palm Bay         Distance of:87.36704184073076
+Palm Bay --> Redford         Distance of:153.37535656030275
+Redford --> Denver         Distance of:146.60491124106312
+Denver --> Concord         Distance of:120.20815280171308
+Concord --> Muscatine         Distance of:166.35504200354134
+Muscatine --> Medford         Distance of:95.35197952848173
+Medford --> Sidney         Distance of:31.240998703626616
+Sidney --> Culver City         Distance of:40.80441152620633
+Culver City --> Campbell         Distance of:172.9855485293497
+Campbell --> Edwardsville         Distance of:68.09552114493287
+Edwardsville --> Union Hill-Novelty Hill         Distance of:187.0855419320264
+Union Hill-Novelty Hill --> Oregon         Distance of:264.5789107241921
+Oregon --> Oxford         Distance of:187.77912557044246
+Oxford --> Tupelo         Distance of:313.3384751351165
+Tupelo --> Winthrop         Distance of:66.2117814289874
+Winthrop --> Gardner         Distance of:35.4682957019364
+Gardner --> Willow Grove         Distance of:152.45327152934436
+Willow Grove --> Newburgh         Distance of:157.42934923323543
+Newburgh --> Las Cruces         Distance of:65.00769185258002
+Las Cruces --> Syosset         Distance of:172.62966141425406
+Syosset --> Ocean Acres         Distance of:45.48626166217664
+Ocean Acres --> Crest Hill         Distance of:144.31216164966833
+Crest Hill --> Reynoldsburg         Distance of:11.661903789690601
+Reynoldsburg --> Merrick         Distance of:156.7322557739791
+Merrick --> Hattiesburg         Distance of:166.29191201017565
+Hattiesburg --> The Hammocks         Distance of:125.39936203984452
+The Hammocks --> Portsmouth         Distance of:172.7946758439044
+Portsmouth --> Pleasant Grove         Distance of:118.22436297142819
+Pleasant Grove --> South Burlington         Distance of:237.35627229968034
+South Burlington --> Clinton         Distance of:204.78769494283586
+Clinton --> Willowbrook         Distance of:224.8599564173221
+Willowbrook --> Woodburn         Distance of:283.6229891951638
+Woodburn --> Terrytown         Distance of:176.40861656959956
+Terrytown --> Griffin         Distance of:228.87769659798658
+Griffin --> Fountainebleau         Distance of:146.54009690183776
+Fountainebleau --> Rancho Cordova         Distance of:181.0331461362808
+Rancho Cordova --> Prescott         Distance of:411.1082582483597
+Prescott --> Eau Claire         Distance of:691.191724487497
+Eau Claire --> Clinton         Distance of:456.649756377905
+Clinton --> Newton         Distance of:255.78506602223672
+Newton --> Oak Park         Distance of:58.137767414994535
+Oak Park --> Concord         Distance of:125.64234954823155
+Concord --> Hopatcong         Distance of:195.38935487891862
+Hopatcong --> Royal Oak         Distance of:202.2992832414391
+Royal Oak --> East Brainerd         Distance of:101.9803902718557
+East Brainerd --> Tanque Verde         Distance of:111.04053313993049
+Tanque Verde --> Mentor         Distance of:66.40030120413611
+Mentor --> Okemos         Distance of:9.0
+Okemos --> St. Louis         Distance of:106.10372283760829
+St. Louis --> Gahanna         Distance of:52.61178575186362
+Gahanna --> Fillmore         Distance of:103.94229168149026
+Fillmore --> Duarte         Distance of:139.70325694127536
+Duarte --> Deer Park         Distance of:76.55063683601855
+Deer Park --> Hanahan         Distance of:326.2636970304848
+Hanahan --> Wisconsin Rapids         Distance of:282.71894170713074
+Wisconsin Rapids --> Gainesville         Distance of:283.21370023358685
+Gainesville --> Pontiac         Distance of:207.92787210953705
+Pontiac --> Salem         Distance of:1085.0184330231446
+Salem --> Battle Ground         Distance of:652.1265214665019
+Battle Ground --> Carmichael         Distance of:550.0909015790027
+Carmichael --> Novato         Distance of:149.81655449248592
+Novato --> Huber Heights         Distance of:322.56782232578627
+Huber Heights --> Biloxi         Distance of:250.05999280172747
+Biloxi --> Menomonie         Distance of:107.8702924812944
+Menomonie --> Miami         Distance of:218.03669415949233
+Miami --> Fair Lawn         Distance of:135.6244815658294
+Fair Lawn --> Maywood         Distance of:160.099968769516
+Maywood --> Belton         Distance of:94.04786015641186
+Belton --> Sahuarita         Distance of:61.98386886924694
+Sahuarita --> Myrtle Grove         Distance of:130.0
+Myrtle Grove --> Sanford         Distance of:57.38466694161429
+Sanford --> South Orange         Distance of:79.07591289387686
+South Orange --> Oconomowoc         Distance of:75.32595834106593
+Oconomowoc --> Passaic         Distance of:112.25862995778988
+Passaic --> New Rochelle         Distance of:279.30807363912703
+New Rochelle --> Bozeman         Distance of:637.8855696753141
+Bozeman --> Flagami         Distance of:93.34880824091971
+Flagami --> Highland         Distance of:106.97663296253066
+Highland --> Saint Charles         Distance of:154.98709623707387
+Saint Charles --> Columbus         Distance of:88.3911760301898
+Columbus --> Prairie Village         Distance of:63.702433234531945
+Prairie Village --> Valley Station         Distance of:278.4977558257876
+Valley Station --> Laurel         Distance of:247.4772716836841
+Laurel --> Lebanon         Distance of:58.69412236331676
+Lebanon --> Seven Oaks         Distance of:176.32356620712955
+Seven Oaks --> San Luis         Distance of:55.44366510251645
+San Luis --> Poughkeepsie         Distance of:327.98323127867377
+Poughkeepsie --> Hickory         Distance of:85.15867542417507
+Hickory --> Russellville         Distance of:55.00909015790027
+Russellville --> Erie         Distance of:189.9315666233499
+Erie --> Mission Viejo         Distance of:199.85995096566995
+Mission Viejo --> Bradley         Distance of:174.4706279005151
+Bradley --> Palm Harbor         Distance of:129.3213052826177
+Palm Harbor --> Salinas         Distance of:182.04395073717774
+Salinas --> Saint Charles         Distance of:212.55117030964567
+Saint Charles --> Clovis         Distance of:345.094190040922
+Clovis --> Hunt Valley         Distance of:66.84309986827361
+Hunt Valley --> Vincennes         Distance of:129.0
+Vincennes --> South Jordan Heights         Distance of:346.69871646719434
+South Jordan Heights --> Canton         Distance of:53.0
+Canton --> Mountain Brook         Distance of:170.6985647274165
+Mountain Brook --> Raleigh         Distance of:24.186773244895647
+Raleigh --> Shreveport         Distance of:57.55866572463264
+Shreveport --> Sedalia         Distance of:128.86038956948718
+Sedalia --> Wilsonville         Distance of:388.8701582790842
+Wilsonville --> Dixiana         Distance of:602.7702713306289
+Dixiana --> Amherst         Distance of:58.69412236331676
+Amherst --> West Raleigh         Distance of:89.20201791439474
+West Raleigh --> Inglewood-Finn Hill         Distance of:49.64876634922564
+Inglewood-Finn Hill --> Glendale         Distance of:153.8083222715858
+Glendale --> Federal Way         Distance of:26.0
+Federal Way --> La Grange         Distance of:25.0
+La Grange --> South Milwaukee         Distance of:97.30878685915265
+South Milwaukee --> Allendale         Distance of:88.11923740024082
+Allendale --> Newark         Distance of:86.03487664894976
+Newark --> Florence-Graham         Distance of:161.44968256394932
+Florence-Graham --> Hays         Distance of:85.09406559801923
+Hays --> Bay Point         Distance of:42.01190307520001
+Bay Point --> Jeffersontown         Distance of:452.0
+Jeffersontown --> Makakilo City         Distance of:127.13772060250254
+Makakilo City --> Sterling         Distance of:61.68468205316454
+Sterling --> Abilene         Distance of:30.14962686336267
+Abilene --> Enterprise         Distance of:416.0588900624526
+Enterprise --> Pittsfield         Distance of:152.6892268629323
+Pittsfield --> Foster City         Distance of:661.366010617419
+Foster City --> Saint Matthews         Distance of:162.2004932174992
+Saint Matthews --> Huntington Station         Distance of:156.26259949200897
+Huntington Station --> Portsmouth         Distance of:53.85164807134504
+Portsmouth --> Hollywood         Distance of:389.34432062122085
+Hollywood --> Billerica         Distance of:59.405386961116584
+Billerica --> Mankato         Distance of:5.0
+Mankato --> Kirksville         Distance of:199.6246477767713
+Kirksville --> Bellwood         Distance of:122.44182292011173
+Bellwood --> Winona         Distance of:41.773197148410844
+Winona --> Burlington         Distance of:99.74467404327912
+Burlington --> Draper         Distance of:103.78824596263297
+Draper --> Antelope         Distance of:85.0411665018772
+Antelope --> New Bedford         Distance of:91.43850392476902
+New Bedford --> Williamsport         Distance of:48.010415536631214
+Williamsport --> Selma         Distance of:119.64113005150027
+Selma --> Maple Grove         Distance of:268.63357943488745
+Maple Grove --> Artesia         Distance of:570.5409713596387
+Artesia --> Rome         Distance of:506.43558326800064
+Rome --> Irvine         Distance of:105.54619841567009
+Irvine --> Kahului         Distance of:199.9124808509964
+Kahului --> Cahokia         Distance of:163.36768346279504
+Cahokia --> Suisun         Distance of:218.24756585125985
+Suisun --> Jackson         Distance of:59.135437767890075
+Jackson --> Safety Harbor         Distance of:120.88010589009261
+Safety Harbor --> Northbrook         Distance of:276.34217919094436
+Northbrook --> Largo         Distance of:28.231188426986208
+Largo --> Montclair         Distance of:89.0
+Montclair --> Mequon         Distance of:206.194083329275
+Mequon --> Westfield         Distance of:60.166435825965294
+Westfield --> Redmond         Distance of:219.5313189501671
+Redmond --> Syracuse         Distance of:209.97618912629116
+Syracuse --> Citrus Heights         Distance of:307.74827375632833
+Citrus Heights --> Weirton         Distance of:147.41099009232656
+Weirton --> Wyandotte         Distance of:21.02379604162864
+Wyandotte --> Raymore         Distance of:76.2954782408499
+Raymore --> Marion         Distance of:118.53269591129698
+Marion --> Lockport         Distance of:92.64987857520376
+Lockport --> Eldersburg         Distance of:606.9810540700591
+Eldersburg --> Metairie Terrace         Distance of:221.05429197371402
+Metairie Terrace --> Independence         Distance of:91.35097153287424
+Independence --> Pleasant Prairie         Distance of:354.902803595576
+Pleasant Prairie --> Oakley         Distance of:2233.32039797249
+
+End of Tour! Total Distance of: 36981.59014085329

@@ -1,0 +1,58 @@
+## TSP OUTPUT FILE - APPROXIMATION ALGORITHM ##
+NAME: berlin52
+Start City: Green
+
+Green --> Hackensack         Distance of:46.09772228646444
+Hackensack --> South San Jose Hills         Distance of:93.94147114027967
+South San Jose Hills --> Streamwood         Distance of:50.0
+Streamwood --> Canton         Distance of:122.98373876248843
+Canton --> Havelock         Distance of:15.0
+Havelock --> Madison Heights         Distance of:21.213203435596427
+Madison Heights --> Glendora         Distance of:58.52349955359813
+Glendora --> Paramount         Distance of:42.720018726587654
+Paramount --> Ramona         Distance of:35.35533905932738
+Ramona --> Herriman         Distance of:43.01162633521314
+Herriman --> Mount Pleasant         Distance of:60.0
+Mount Pleasant --> Lowell         Distance of:15.811388300841896
+Lowell --> Cheyenne         Distance of:31.622776601683793
+Cheyenne --> Natick         Distance of:25.0
+Natick --> Georgetown         Distance of:40.311288741492746
+Georgetown --> Kenmore         Distance of:69.6419413859206
+Kenmore --> Bristol         Distance of:109.20164833920778
+Bristol --> Stockton         Distance of:173.34935823359717
+Stockton --> Country Walk         Distance of:130.86252328302402
+Country Walk --> Hazel Park         Distance of:132.38202294873727
+Hazel Park --> Mukilteo         Distance of:130.38404810405297
+Mukilteo --> Waipahu         Distance of:35.35533905932738
+Waipahu --> Cerritos         Distance of:94.33981132056604
+Cerritos --> Anderson         Distance of:152.31546211727817
+Anderson --> Eagle Pass         Distance of:80.15609770940699
+Eagle Pass --> Denver         Distance of:134.6291201783626
+Denver --> Hoffman Estates         Distance of:207.0024154448445
+Hoffman Estates --> Pendleton         Distance of:75.0
+Pendleton --> Spring Hill         Distance of:165.60495161679194
+Spring Hill --> Garner         Distance of:64.03124237432849
+Garner --> Wade Hampton         Distance of:180.34688796871433
+Wade Hampton --> East Patchogue         Distance of:83.21658488546619
+East Patchogue --> San Leandro         Distance of:389.9358921669048
+San Leandro --> Edmond         Distance of:365.0
+Edmond --> Immokalee         Distance of:474.68410548490033
+Immokalee --> City of Milford (balance)         Distance of:188.2153022471871
+City of Milford (balance) --> Hacienda Heights         Distance of:182.4828759089466
+Hacienda Heights --> Cambridge         Distance of:110.11357772772621
+Cambridge --> Monroe         Distance of:126.19429464123962
+Monroe --> Monterey Park         Distance of:185.53975315279473
+Monterey Park --> Cameron Park         Distance of:324.4225639501667
+Cameron Park --> Round Lake         Distance of:205.54804791094466
+Round Lake --> Newton         Distance of:318.90437438203946
+Newton --> Brockton         Distance of:398.55990766759265
+Brockton --> South Salt Lake         Distance of:1042.4130659196478
+South Salt Lake --> Damascus         Distance of:259.61509971494337
+Damascus --> Birmingham         Distance of:241.50569351466643
+Birmingham --> East Rancho Dominguez         Distance of:253.03161857759991
+East Rancho Dominguez --> Shelbyville         Distance of:408.0747480548141
+Shelbyville --> North Druid Hills         Distance of:76.15773105863909
+North Druid Hills --> Palm Beach Gardens         Distance of:45.0
+Palm Beach Gardens --> Green         Distance of:666.1080993352356
+
+End of Tour! Total Distance of: 8980.918279329191

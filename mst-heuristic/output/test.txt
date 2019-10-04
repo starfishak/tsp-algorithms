@@ -1,0 +1,10 @@
+## TSP OUTPUT FILE - APPROXIMATION ALGORITHM ##
+NAME: TESTStart City: North Decatur
+
+North Decatur --> New Rochelle         Distance of:3.0
+New Rochelle --> Pace         Distance of:2.23606797749979
+Pace --> Cedar Falls         Distance of:2.23606797749979
+Cedar Falls --> Los Gatos         Distance of:2.0
+Los Gatos --> North Decatur         Distance of:3.0
+
+End of Tour! Total Distance of: 12.47213595499958
