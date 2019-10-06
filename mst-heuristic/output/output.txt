@@ -1,0 +1,11 @@
+## TSP OUTPUT FILE - APPROXIMATION ALGORITHM ##
+NAME: test
+Start City: Sayville
+
+Sayville --> Pleasantville         Distance of:3.0
+Pleasantville --> Noblesville         Distance of:2.23606797749979
+Noblesville --> Owatonna         Distance of:2.23606797749979
+Owatonna --> Suisun         Distance of:2.0
+Suisun --> Sayville         Distance of:3.0
+
+End of Tour! Total Distance of: 12.47213595499958

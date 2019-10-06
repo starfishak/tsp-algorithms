@@ -128,7 +128,6 @@ def parse_file(path):
                 points.append(this_line)
         return (points, name)
 
-
-data = parse_file('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/kroB200.tsp.txt')
+data = parse_file('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/test.txt')
 graph = Graph(data[0], data[1])
 graph.tsp_init()
