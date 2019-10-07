@@ -62,34 +62,63 @@ class tsp():
             path_copy = copy.deepcopy(self.vertices)
             switch_1 = random.randint(1, num_cities)
             switch_2 = random.randint(1, num_cities)
-            while switch_2 == switch_1:
+            while (switch_2 == switch_1) or (switch_1 > switch_2):
+                switch_1 = random.randint(1, num_cities)
                 switch_2 = random.randint(1, num_cities)
             print(switch_1, switch_2)
-            self.vertices[self.vertices[switch_1]['prior'][0]]['edges'] = [switch_2]
-            self.vertices[self.vertices[switch_2]['prior'][0]]['edges'] = [switch_1]
-            s1_edges_copy = copy.deepcopy(self.vertices[switch_1]['edges'])
-            s2_edges_copy = copy.deepcopy(self.vertices[switch_2]['edges'])
-            s1_prior_copy = copy.deepcopy(self.vertices[switch_1]['prior'])
-            s2_prior_copy = copy.deepcopy(self.vertices[switch_2]['prior'])
-            self.vertices[switch_2]['edges'] = s1_edges_copy
-            self.vertices[switch_1]['edges'] = s2_edges_copy
-            self.vertices[switch_2]['prior'] = s2_prior_copy
-            self.vertices[switch_1]['prior'] = s1_prior_copy
+            s1_e = copy.deepcopy(self.vertices[switch_1]['edges'][0])
+            s1_p = copy.deepcopy(self.vertices[switch_1]['prior'][0])
+            s2_e = copy.deepcopy(self.vertices[switch_2]['edges'][0])
+            s2_p = copy.deepcopy(self.vertices[switch_2]['prior'][0])
+            # if s1_e == switch_2:
+            #     print('switch 1 edge == switch 2')
+            #     s2_e = switch_1
+            # if s2_e == switch_1:
+            #     print('switch 2 edge == switch 1')
+            #     s1_e = switch_2
+            
+            # if self.vertices[switch_2]['edges'] == len(self.vertices):
+            #     s1_e = 1
+            # if self.vertices[switch_1]['edges'] == len(self.vertices):
+            #     s2_e = 1
+
+            self.vertices[self.vertices[switch_1]['prior'][0]]['edges'] = copy.deepcopy([switch_2])
+            self.vertices[self.vertices[switch_1]['edges'][0]]['prior'] = copy.deepcopy([switch_2])
+
+            self.vertices[switch_1]['edges'] = copy.deepcopy([s2_e])
+            self.vertices[switch_1]['prior'] = copy.deepcopy([s2_p])
+
+            self.vertices[self.vertices[switch_2]['prior'][0]]['edges'] = copy.deepcopy([switch_1])
+            self.vertices[self.vertices[switch_2]['edges'][0]]['prior'] = copy.deepcopy([switch_1])
+
+            self.vertices[switch_2]['edges'] = copy.deepcopy([s1_e])
+            self.vertices[switch_2]['prior'] = copy.deepcopy([s1_p])
+        
             self.edge_print()
             new_distance = self.calculate_path_distance()
             if (new_distance > current_distance):
                 # probability we reject it
                 replace_path = self.replace_path(temp, current_distance, new_distance)
                 if not replace_path:
+                    print("Path rejected")
                     self.vertices = copy.deepcopy(path_copy)
                 else:
                     current_distance = new_distance
             temp = temp - (1/math.log(itertion+2))/2
             itertion += 1
-        
+
         print("done")
         print(self.vertices)
         print(current_distance)
+
+    # Returns True if switch 1 comes first, false is switch 2 comes first
+    def sequence_order(self, switch_1, switch_2):
+        for key in self.vertices:
+            val = self.vertices[key]
+            if val['id'] == switch_1:
+                return True
+            elif val['id'] == switch_2:
+                return False
 
     def replace_path(self, tempature, l1, l2):
         probability = math.exp((l1-l2)/tempature)
@@ -99,7 +128,7 @@ class tsp():
     def edge_print(self):
         for key in self.vertices:
             val = self.vertices[key]
-            print(val['id'],val['prior'],val['edges'])
+            print(val['id'],val['edges'], val['prior'])
 
     def getNextCity(self):
         # Choose some random number between 1 and 20000
