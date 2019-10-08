@@ -70,30 +70,32 @@ class tsp():
             s1_p = copy.deepcopy(self.vertices[switch_1]['prior'][0])
             s2_e = copy.deepcopy(self.vertices[switch_2]['edges'][0])
             s2_p = copy.deepcopy(self.vertices[switch_2]['prior'][0])
-            # if s1_e == switch_2:
-            #     print('switch 1 edge == switch 2')
-            #     s2_e = switch_1
-            # if s2_e == switch_1:
-            #     print('switch 2 edge == switch 1')
-            #     s1_e = switch_2
-            
-            # if self.vertices[switch_2]['edges'] == len(self.vertices):
-            #     s1_e = 1
-            # if self.vertices[switch_1]['edges'] == len(self.vertices):
-            #     s2_e = 1
+            if s1_e == switch_2 or s2_e == switch_1: 
+                print("s1_e == switch_2")
+                self.vertices[self.vertices[switch_1]['prior'][0]]['edges'] = [switch_2]
+                self.vertices[self.vertices[switch_1]['edges'][0]]['prior'] = [s1_p]
 
-            self.vertices[self.vertices[switch_1]['prior'][0]]['edges'] = copy.deepcopy([switch_2])
-            self.vertices[self.vertices[switch_1]['edges'][0]]['prior'] = copy.deepcopy([switch_2])
+                self.vertices[self.vertices[switch_2]['prior'][0]]['edges'] = [s2_e]
+                self.vertices[self.vertices[switch_2]['edges'][0]]['prior'] = [switch_1]
 
-            self.vertices[switch_1]['edges'] = copy.deepcopy([s2_e])
-            self.vertices[switch_1]['prior'] = copy.deepcopy([s2_p])
+                self.vertices[switch_1]['edges'] = [s2_e]
+                self.vertices[switch_1]['prior'] = [switch_2]
 
-            self.vertices[self.vertices[switch_2]['prior'][0]]['edges'] = copy.deepcopy([switch_1])
-            self.vertices[self.vertices[switch_2]['edges'][0]]['prior'] = copy.deepcopy([switch_1])
+                self.vertices[switch_2]['edges'] = [switch_1]
+                self.vertices[switch_2]['prior'] = [s1_p]
+            else:
+                self.vertices[self.vertices[switch_1]['prior'][0]]['edges'] = [switch_2]
+                self.vertices[self.vertices[switch_1]['edges'][0]]['prior'] = [switch_2]
 
-            self.vertices[switch_2]['edges'] = copy.deepcopy([s1_e])
-            self.vertices[switch_2]['prior'] = copy.deepcopy([s1_p])
-        
+                self.vertices[self.vertices[switch_2]['prior'][0]]['edges'] = [switch_1]
+                self.vertices[self.vertices[switch_2]['edges'][0]]['prior'] = [switch_1]
+
+                self.vertices[switch_1]['edges'] = [s2_e]
+                self.vertices[switch_1]['prior'] = [s2_p]
+
+                self.vertices[switch_2]['edges'] = [s1_e]
+                self.vertices[switch_2]['prior'] = [s1_p]
+
             self.edge_print()
             new_distance = self.calculate_path_distance()
             if (new_distance > current_distance):
