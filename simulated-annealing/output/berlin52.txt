@@ -1,0 +1,1211 @@
+## TSP OUTPUT FILE - LOCAL SEARCH ##
+Initial Temp: 20
+Cooldown Schedule: temp -= 1/log(iteration+2)
+NAME: berlin52
+Start City: Irvington
+
+***
+Iteration: 0
+Temp: 20
+Current Distance: 22205.617692710774
+Switch indexs 8 and 47
+New path is longer
+Probability We Accept:2.7362593728355914e-27
+Path Rejected
+Cooldown: 0.7213475204444817
+***
+Iteration: 1
+Temp: 19.278652479555518
+Current Distance: 22205.617692710774
+Switch indexs 21 and 25
+New path is longer
+Probability We Accept:9.079632772920614e-31
+Path Rejected
+Cooldown: 0.45511961331341866
+***
+Iteration: 2
+Temp: 18.8235328662421
+Current Distance: 22205.617692710774
+Switch indexs 17 and 4
+New path is longer
+Probability We Accept:1.999465189286304e-05
+Path Rejected
+Cooldown: 0.36067376022224085
+***
+Iteration: 3
+Temp: 18.46285910601986
+Current Distance: 22205.617692710774
+Switch indexs 46 and 4
+New path is longer
+Probability We Accept:0.001853037739532685
+Path Rejected
+Cooldown: 0.31066746727980593
+***
+Iteration: 4
+Temp: 18.152191638740053
+Current Distance: 22205.617692710774
+Switch indexs 44 and 1
+Cooldown: 0.2790553132756236
+***
+Iteration: 5
+Temp: 17.87313632546443
+Current Distance: 22205.617692710774
+Switch indexs 47 and 40
+New path is longer
+Probability We Accept:4.089392532297381e-08
+Path Rejected
+Cooldown: 0.25694917118487537
+***
+Iteration: 6
+Temp: 17.616187154279555
+Current Distance: 22205.617692710774
+Switch indexs 21 and 2
+Cooldown: 0.24044917348149392
+***
+Iteration: 7
+Temp: 17.37573798079806
+Current Distance: 22205.617692710774
+Switch indexs 14 and 39
+New path is longer
+Probability We Accept:6.466733885657426e-38
+Path Rejected
+Cooldown: 0.22755980665670933
+***
+Iteration: 8
+Temp: 17.14817817414135
+Current Distance: 22205.617692710774
+Switch indexs 44 and 26
+New path is longer
+Probability We Accept:5.250189411578672e-36
+Path Rejected
+Cooldown: 0.21714724095162588
+***
+Iteration: 9
+Temp: 16.931030933189724
+Current Distance: 22205.617692710774
+Switch indexs 6 and 23
+Cooldown: 0.20851619571212315
+***
+Iteration: 10
+Temp: 16.722514737477603
+Current Distance: 22205.617692710774
+Switch indexs 7 and 45
+Cooldown: 0.20121480219092233
+***
+Iteration: 11
+Temp: 16.52129993528668
+Current Distance: 22205.617692710774
+Switch indexs 24 and 44
+New path is longer
+Probability We Accept:5.784072870969966e-06
+Path Rejected
+Cooldown: 0.19493562262564004
+***
+Iteration: 12
+Temp: 16.326364312661042
+Current Distance: 22205.617692710774
+Switch indexs 6 and 35
+Cooldown: 0.1894615908449756
+***
+Iteration: 13
+Temp: 16.136902721816067
+Current Distance: 22205.617692710774
+Switch indexs 38 and 43
+Cooldown: 0.18463468653442752
+***
+Iteration: 14
+Temp: 15.952268035281639
+Current Distance: 22205.617692710774
+Switch indexs 7 and 11
+New path is longer
+Probability We Accept:1.3073482166153813e-26
+Path Rejected
+Cooldown: 0.18033688011112042
+***
+Iteration: 15
+Temp: 15.771931155170519
+Current Distance: 22205.617692710774
+Switch indexs 18 and 37
+New path is longer
+Probability We Accept:3.776771272530778e-18
+Path Rejected
+Cooldown: 0.17647806193238058
+***
+Iteration: 16
+Temp: 15.595453093238138
+Current Distance: 22205.617692710774
+Switch indexs 8 and 2
+New path is longer
+Probability We Accept:2.9942934174900233e-21
+Path Rejected
+Cooldown: 0.1729881281305968
+***
+Iteration: 17
+Temp: 15.422464965107542
+Current Distance: 22205.617692710774
+Switch indexs 14 and 18
+New path is longer
+Probability We Accept:2.005952188682043e-71
+Path Rejected
+Cooldown: 0.1698116359475543
+***
+Iteration: 18
+Temp: 15.252653329159989
+Current Distance: 22205.617692710774
+Switch indexs 40 and 2
+New path is longer
+Probability We Accept:9.404209114600031e-06
+Path Rejected
+Cooldown: 0.16690410034766703
+***
+Iteration: 19
+Temp: 15.085749228812322
+Current Distance: 22205.617692710774
+Switch indexs 33 and 35
+Cooldown: 0.16422936937652555
+***
+Iteration: 20
+Temp: 14.921519859435797
+Current Distance: 22205.617692710774
+Switch indexs 4 and 50
+Cooldown: 0.16175772657433624
+***
+Iteration: 21
+Temp: 14.75976213286146
+Current Distance: 22205.617692710774
+Switch indexs 18 and 48
+New path is longer
+Probability We Accept:9.4480703990818e-11
+Path Rejected
+Cooldown: 0.1594644944519005
+***
+Iteration: 22
+Temp: 14.600297638409561
+Current Distance: 22205.617692710774
+Switch indexs 7 and 50
+New path is longer
+Probability We Accept:0.0009971539140230755
+Path Rejected
+Cooldown: 0.15732899022206243
+***
+Iteration: 23
+Temp: 14.442968648187499
+Current Distance: 22205.617692710774
+Switch indexs 27 and 21
+New path is longer
+Probability We Accept:5.6443036840354966e-64
+Path Rejected
+Cooldown: 0.15533373363990297
+***
+Iteration: 24
+Temp: 14.287634914547596
+Current Distance: 22205.617692710774
+Switch indexs 15 and 44
+Cooldown: 0.15346383821506743
+***
+Iteration: 25
+Temp: 14.134171076332528
+Current Distance: 22205.617692710774
+Switch indexs 43 and 28
+New path is longer
+Probability We Accept:3.340787130343137e-27
+Path Rejected
+Cooldown: 0.15170653777113957
+***
+Iteration: 26
+Temp: 13.982464538561388
+Current Distance: 22205.617692710774
+Switch indexs 52 and 33
+New path is longer
+Probability We Accept:4.700468380103284e-30
+Path Rejected
+Cooldown: 0.15005081425020655
+***
+Iteration: 27
+Temp: 13.83241372431118
+Current Distance: 22205.617692710774
+Switch indexs 24 and 8
+New path is longer
+Probability We Accept:1.0289591866325934e-37
+Path Rejected
+Cooldown: 0.14848710218668504
+***
+Iteration: 28
+Temp: 13.683926622124496
+Current Distance: 22205.617692710774
+Switch indexs 33 and 42
+Cooldown: 0.14700705189760302
+***
+Iteration: 29
+Temp: 13.536919570226893
+Current Distance: 22205.617692710774
+Switch indexs 43 and 36
+Cooldown: 0.14560333810998122
+***
+Iteration: 30
+Temp: 13.391316232116912
+Current Distance: 22205.617692710774
+Switch indexs 12 and 10
+New path is longer
+Probability We Accept:1.8718860979976156e-41
+Path Rejected
+Cooldown: 0.14426950408889633
+***
+Iteration: 31
+Temp: 13.247046728028016
+Current Distance: 22205.617692710774
+Switch indexs 43 and 19
+Cooldown: 0.14299983375133718
+***
+Iteration: 32
+Temp: 13.104046894276678
+Current Distance: 22205.617692710774
+Switch indexs 52 and 39
+New path is longer
+Probability We Accept:4.249985488588636e-24
+Path Rejected
+Cooldown: 0.1417892460256667
+***
+Iteration: 33
+Temp: 12.962257648251011
+Current Distance: 22205.617692710774
+Switch indexs 44 and 50
+New path is longer
+Probability We Accept:0.12987055449790283
+Path Accepted
+New Distance:22232.076474148533
+Cooldown: 0.14063320703136417
+***
+Iteration: 34
+Temp: 12.821624441219647
+Current Distance: 22232.076474148533
+Switch indexs 27 and 22
+New path is longer
+Probability We Accept:1.8956651121247088e-73
+Path Rejected
+Cooldown: 0.1395276566378118
+***
+Iteration: 35
+Temp: 12.682096784581836
+Current Distance: 22232.076474148533
+Switch indexs 49 and 41
+Cooldown: 0.1384689467044287
+***
+Iteration: 36
+Temp: 12.543627837877407
+Current Distance: 22232.076474148533
+Switch indexs 18 and 7
+New path is longer
+Probability We Accept:3.3172195137030324e-10
+Path Rejected
+Cooldown: 0.1374537888712468
+***
+Iteration: 37
+Temp: 12.406174049006161
+Current Distance: 22232.076474148533
+Switch indexs 50 and 15
+New path is longer
+Probability We Accept:0.006192014606700776
+Path Rejected
+Cooldown: 0.1364792102046987
+***
+Iteration: 38
+Temp: 12.269694838801462
+Current Distance: 22232.076474148533
+Switch indexs 4 and 33
+Cooldown: 0.1355425153409084
+***
+Iteration: 39
+Temp: 12.134152323460553
+Current Distance: 22232.076474148533
+Switch indexs 37 and 18
+New path is longer
+Probability We Accept:3.6223788084700684e-16
+Path Rejected
+Cooldown: 0.1346412540321955
+***
+Iteration: 40
+Temp: 11.999511069428358
+Current Distance: 22232.076474148533
+Switch indexs 10 and 1
+New path is longer
+Probability We Accept:1.2013323446485437e-30
+Path Rejected
+Cooldown: 0.133773193209527
+***
+Iteration: 41
+Temp: 11.865737876218832
+Current Distance: 22232.076474148533
+Switch indexs 33 and 29
+New path is longer
+Probability We Accept:0.04071897839142299
+Path Accepted
+New Distance:22270.059424848987
+Cooldown: 0.132936292837426
+***
+Iteration: 42
+Temp: 11.732801583381406
+Current Distance: 22270.059424848987
+Switch indexs 23 and 19
+New path is longer
+Probability We Accept:6.842345941294492e-10
+Path Rejected
+Cooldown: 0.13212868496822272
+***
+Iteration: 43
+Temp: 11.600672898413183
+Current Distance: 22270.059424848987
+Switch indexs 14 and 23
+New path is longer
+Probability We Accept:1.0227804534562997e-53
+Path Rejected
+Cooldown: 0.13134865550693153
+***
+Iteration: 44
+Temp: 11.469324242906252
+Current Distance: 22270.059424848987
+Switch indexs 32 and 45
+Cooldown: 0.1305946282821121
+***
+Iteration: 45
+Temp: 11.338729614624139
+Current Distance: 22270.059424848987
+Switch indexs 43 and 49
+Cooldown: 0.12986515108613578
+***
+Iteration: 46
+Temp: 11.208864463538003
+Current Distance: 22270.059424848987
+Switch indexs 4 and 24
+New path is longer
+Probability We Accept:0.10464684628356731
+Path Rejected
+Cooldown: 0.12915888340366438
+***
+Iteration: 47
+Temp: 11.079705580134338
+Current Distance: 22270.059424848987
+Switch indexs 12 and 50
+New path is longer
+Probability We Accept:0.009127667324696293
+Path Rejected
+Cooldown: 0.12847458559243768
+***
+Iteration: 48
+Temp: 10.9512309945419
+Current Distance: 22270.059424848987
+Switch indexs 1 and 49
+Cooldown: 0.12781110931766573
+***
+Iteration: 49
+Temp: 10.823419885224235
+Current Distance: 22270.059424848987
+Switch indexs 9 and 45
+New path is longer
+Probability We Accept:1.2383766649921357e-18
+Path Rejected
+Cooldown: 0.12716738907202113
+***
+Iteration: 50
+Temp: 10.696252496152214
+Current Distance: 22270.059424848987
+Switch indexs 46 and 13
+New path is longer
+Probability We Accept:2.700890064784809e-13
+Path Rejected
+Cooldown: 0.12654243463865844
+***
+Iteration: 51
+Temp: 10.569710061513556
+Current Distance: 22270.059424848987
+Switch indexs 40 and 44
+Cooldown: 0.12593532437584984
+***
+Iteration: 52
+Temp: 10.443774737137707
+Current Distance: 22270.059424848987
+Switch indexs 43 and 16
+Cooldown: 0.12534519921949844
+***
+Iteration: 53
+Temp: 10.318429537918208
+Current Distance: 22270.059424848987
+Switch indexs 28 and 45
+Cooldown: 0.12477125731460592
+***
+Iteration: 54
+Temp: 10.193658280603602
+Current Distance: 22270.059424848987
+Switch indexs 52 and 38
+Cooldown: 0.12421274919923457
+***
+Iteration: 55
+Temp: 10.069445531404368
+Current Distance: 22270.059424848987
+Switch indexs 26 and 23
+New path is longer
+Probability We Accept:1.2821486984507076e-44
+Path Rejected
+Cooldown: 0.1236689734750257
+***
+Iteration: 56
+Temp: 9.945776557929342
+Current Distance: 22270.059424848987
+Switch indexs 50 and 2
+New path is longer
+Probability We Accept:6.235041604633006e-39
+Path Rejected
+Cooldown: 0.12313927290724722
+***
+Iteration: 57
+Temp: 9.822637285022095
+Current Distance: 22270.059424848987
+Switch indexs 11 and 18
+New path is longer
+Probability We Accept:2.6633960811259442e-76
+Path Rejected
+Cooldown: 0.1226230309049152
+***
+Iteration: 58
+Temp: 9.70001425411718
+Current Distance: 22270.059424848987
+Switch indexs 38 and 2
+New path is longer
+Probability We Accept:7.017893532426396e-42
+Path Rejected
+Cooldown: 0.12211966833798615
+***
+Iteration: 59
+Temp: 9.577894585779195
+Current Distance: 22270.059424848987
+Switch indexs 21 and 33
+Cooldown: 0.12162864065413231
+***
+Iteration: 60
+Temp: 9.456265945125063
+Current Distance: 22270.059424848987
+Switch indexs 12 and 42
+New path is longer
+Probability We Accept:3.510964284876131e-55
+Path Rejected
+Cooldown: 0.12114943526234055
+***
+Iteration: 61
+Temp: 9.335116509862722
+Current Distance: 22270.059424848987
+Switch indexs 40 and 41
+Cooldown: 0.12068156915463754
+***
+Iteration: 62
+Temp: 9.214434940708085
+Current Distance: 22270.059424848987
+Switch indexs 9 and 34
+New path is longer
+Probability We Accept:8.130905132493958e-16
+Path Rejected
+Cooldown: 0.12022458674074696
+***
+Iteration: 63
+Temp: 9.094210353967338
+Current Distance: 22270.059424848987
+Switch indexs 39 and 27
+Cooldown: 0.11977805787350929
+***
+Iteration: 64
+Temp: 8.974432296093829
+Current Distance: 22270.059424848987
+Switch indexs 24 and 25
+Cooldown: 0.11934157604551521
+***
+Iteration: 65
+Temp: 8.855090720048313
+Current Distance: 22270.059424848987
+Switch indexs 9 and 28
+New path is longer
+Probability We Accept:1.7131516450326071e-43
+Path Rejected
+Cooldown: 0.11891475673967891
+***
+Iteration: 66
+Temp: 8.736175963308634
+Current Distance: 22270.059424848987
+Switch indexs 30 and 7
+New path is longer
+Probability We Accept:2.0662543510065496e-20
+Path Rejected
+Cooldown: 0.11849723591845694
+***
+Iteration: 67
+Temp: 8.617678727390176
+Current Distance: 22270.059424848987
+Switch indexs 7 and 52
+Cooldown: 0.11808866863814496
+***
+Iteration: 68
+Temp: 8.499590058752032
+Current Distance: 22270.059424848987
+Switch indexs 5 and 20
+Cooldown: 0.11768872777619341
+***
+Iteration: 69
+Temp: 8.381901330975838
+Current Distance: 22270.059424848987
+Switch indexs 26 and 30
+New path is longer
+Probability We Accept:1.0387216585141831e-24
+Path Rejected
+Cooldown: 0.11729710286080529
+***
+Iteration: 70
+Temp: 8.264604228115033
+Current Distance: 22270.059424848987
+Switch indexs 13 and 2
+New path is longer
+Probability We Accept:7.730510977151309e-151
+Path Rejected
+Cooldown: 0.11691349899323832
+***
+Iteration: 71
+Temp: 8.147690729121795
+Current Distance: 22270.059424848987
+Switch indexs 17 and 14
+New path is longer
+Probability We Accept:1.4735548744242234e-112
+Path Rejected
+Cooldown: 0.11653763585425463
+***
+Iteration: 72
+Temp: 8.031153093267541
+Current Distance: 22270.059424848987
+Switch indexs 40 and 20
+Cooldown: 0.11616924678705869
+***
+Iteration: 73
+Temp: 7.9149838464804825
+Current Distance: 22270.059424848987
+Switch indexs 17 and 18
+Cooldown: 0.11580807794985838
+***
+Iteration: 74
+Temp: 7.799175768530624
+Current Distance: 22270.059424848987
+Switch indexs 46 and 34
+Cooldown: 0.11545388753188437
+***
+Iteration: 75
+Temp: 7.68372188099874
+Current Distance: 22270.059424848987
+Switch indexs 23 and 31
+New path is longer
+Probability We Accept:1.1132269327687322e-29
+Path Rejected
+Cooldown: 0.1151064450273256
+***
+Iteration: 76
+Temp: 7.568615435971414
+Current Distance: 22270.059424848987
+Switch indexs 47 and 13
+New path is longer
+Probability We Accept:4.764269087749921e-05
+Path Rejected
+Cooldown: 0.11476553056218833
+***
+Iteration: 77
+Temp: 7.453849905409226
+Current Distance: 22270.059424848987
+Switch indexs 49 and 2
+New path is longer
+Probability We Accept:3.6247714370176926e-25
+Path Rejected
+Cooldown: 0.11443093426957743
+***
+Iteration: 78
+Temp: 7.339418971139648
+Current Distance: 22270.059424848987
+Switch indexs 52 and 15
+Cooldown: 0.11410245570933435
+***
+Iteration: 79
+Temp: 7.225316515430314
+Current Distance: 22270.059424848987
+Switch indexs 27 and 25
+Cooldown: 0.11377990332835466
+***
+Iteration: 80
+Temp: 7.111536612101959
+Current Distance: 22270.059424848987
+Switch indexs 37 and 48
+Cooldown: 0.1134630939582562
+***
+Iteration: 81
+Temp: 6.998073518143703
+Current Distance: 22270.059424848987
+Switch indexs 43 and 37
+New path is longer
+Probability We Accept:1.5124133751478902e-08
+Path Rejected
+Cooldown: 0.11315185234737829
+***
+Iteration: 82
+Temp: 6.884921665796324
+Current Distance: 22270.059424848987
+Switch indexs 34 and 51
+Cooldown: 0.11284601072437196
+***
+Iteration: 83
+Temp: 6.772075655071952
+Current Distance: 22270.059424848987
+Switch indexs 28 and 11
+New path is longer
+Probability We Accept:2.379745641217832e-18
+Path Rejected
+Cooldown: 0.11254540839088926
+***
+Iteration: 84
+Temp: 6.659530246681063
+Current Distance: 22270.059424848987
+Switch indexs 5 and 27
+Cooldown: 0.11224989134110476
+***
+Iteration: 85
+Temp: 6.547280355339958
+Current Distance: 22270.059424848987
+Switch indexs 15 and 46
+New path is longer
+Probability We Accept:5.2349168061575695e-21
+Path Rejected
+Cooldown: 0.1119593119060031
+***
+Iteration: 86
+Temp: 6.435321043433955
+Current Distance: 22270.059424848987
+Switch indexs 35 and 34
+Cooldown: 0.11167352842054848
+***
+Iteration: 87
+Temp: 6.323647515013406
+Current Distance: 22270.059424848987
+Switch indexs 5 and 15
+Cooldown: 0.1113924049120151
+***
+Iteration: 88
+Temp: 6.212255110101391
+Current Distance: 22270.059424848987
+Switch indexs 29 and 51
+New path is longer
+Probability We Accept:1.1468138731273373e-13
+Path Rejected
+Cooldown: 0.1111158108079052
+***
+Iteration: 89
+Temp: 6.101139299293486
+Current Distance: 22270.059424848987
+Switch indexs 37 and 25
+Cooldown: 0.11084362066201547
+***
+Iteration: 90
+Temp: 5.990295678631471
+Current Distance: 22270.059424848987
+Switch indexs 32 and 50
+New path is longer
+Probability We Accept:1.8324154101110385e-122
+Path Rejected
+Cooldown: 0.1105757138973323
+***
+Iteration: 91
+Temp: 5.8797199647341385
+Current Distance: 22270.059424848987
+Switch indexs 1 and 20
+Cooldown: 0.11031197456454686
+***
+Iteration: 92
+Temp: 5.769407990169592
+Current Distance: 22270.059424848987
+Switch indexs 32 and 18
+New path is longer
+Probability We Accept:4.752110466556747e-44
+Path Rejected
+Cooldown: 0.11005229111507946
+***
+Iteration: 93
+Temp: 5.659355699054513
+Current Distance: 22270.059424848987
+Switch indexs 12 and 49
+New path is longer
+Probability We Accept:3.5458767689201816e-93
+Path Rejected
+Cooldown: 0.10979655618759297
+***
+Iteration: 94
+Temp: 5.5495591428669195
+Current Distance: 22270.059424848987
+Switch indexs 14 and 43
+New path is longer
+Probability We Accept:5.5779247198545696e-105
+Path Rejected
+Cooldown: 0.10954466640705743
+***
+Iteration: 95
+Temp: 5.440014476459862
+Current Distance: 22270.059424848987
+Switch indexs 7 and 13
+New path is longer
+Probability We Accept:6.467378089072366e-173
+Path Rejected
+Cooldown: 0.10929652219550164
+***
+Iteration: 96
+Temp: 5.330717954264361
+Current Distance: 22270.059424848987
+Switch indexs 18 and 24
+New path is longer
+Probability We Accept:6.04996804858966e-84
+Path Rejected
+Cooldown: 0.1090520275936563
+***
+Iteration: 97
+Temp: 5.221665926670704
+Current Distance: 22270.059424848987
+Switch indexs 29 and 51
+New path is longer
+Probability We Accept:1.1082803367607591e-21
+Path Rejected
+Cooldown: 0.10881109009275462
+***
+Iteration: 98
+Temp: 5.11285483657795
+Current Distance: 22270.059424848987
+Switch indexs 48 and 20
+Cooldown: 0.10857362047581294
+***
+Iteration: 99
+Temp: 5.004281216102137
+Current Distance: 22270.059424848987
+Switch indexs 47 and 9
+New path is longer
+Probability We Accept:1.9107019454369512e-106
+Path Rejected
+Cooldown: 0.10833953266776583
+***
+Iteration: 100
+Temp: 4.895941683434371
+Current Distance: 22270.059424848987
+Switch indexs 18 and 27
+New path is longer
+Probability We Accept:1.2148892630949095e-33
+Path Rejected
+Cooldown: 0.10810874359387675
+***
+Iteration: 101
+Temp: 4.787832939840494
+Current Distance: 22270.059424848987
+Switch indexs 50 and 33
+New path is longer
+Probability We Accept:5.456626128293189e-104
+Path Rejected
+Cooldown: 0.10788117304588914
+***
+Iteration: 102
+Temp: 4.679951766794605
+Current Distance: 22270.059424848987
+Switch indexs 9 and 43
+New path is longer
+Probability We Accept:1.1323445604826964e-180
+Path Rejected
+Cooldown: 0.10765674355542232
+***
+Iteration: 103
+Temp: 4.572295023239183
+Current Distance: 22270.059424848987
+Switch indexs 35 and 42
+New path is longer
+Probability We Accept:4.358826465949139e-65
+Path Rejected
+Cooldown: 0.1074353802741522
+***
+Iteration: 104
+Temp: 4.46485964296503
+Current Distance: 22270.059424848987
+Switch indexs 38 and 46
+Cooldown: 0.10721701086035124
+***
+Iteration: 105
+Temp: 4.357642632104679
+Current Distance: 22270.059424848987
+Switch indexs 4 and 24
+New path is longer
+Probability We Accept:2.437705640813758e-33
+Path Rejected
+Cooldown: 0.10700156537139177
+***
+Iteration: 106
+Temp: 4.250641066733287
+Current Distance: 22270.059424848987
+Switch indexs 20 and 12
+New path is longer
+Probability We Accept:7.60093800227182e-56
+Path Rejected
+Cooldown: 0.10678897616184534
+***
+Iteration: 107
+Temp: 4.143852090571442
+Current Distance: 22270.059424848987
+Switch indexs 21 and 49
+Cooldown: 0.10657917778683676
+***
+Iteration: 108
+Temp: 4.037272912784605
+Current Distance: 22270.059424848987
+Switch indexs 19 and 38
+Cooldown: 0.10637210691033468
+***
+Iteration: 109
+Temp: 3.9309008058742703
+Current Distance: 22270.059424848987
+Switch indexs 46 and 17
+New path is longer
+Probability We Accept:2.4973643476092433e-256
+Path Rejected
+Cooldown: 0.10616770221808378
+***
+Iteration: 110
+Temp: 3.8247331036561865
+Current Distance: 22270.059424848987
+Switch indexs 37 and 27
+Cooldown: 0.1059659043349022
+***
+Iteration: 111
+Temp: 3.718767199321284
+Current Distance: 22270.059424848987
+Switch indexs 9 and 44
+New path is longer
+Probability We Accept:1.599769973760785e-129
+Path Rejected
+Cooldown: 0.10576665574608841
+***
+Iteration: 112
+Temp: 3.6130005435751955
+Current Distance: 22270.059424848987
+Switch indexs 5 and 7
+Cooldown: 0.10556990072269733
+***
+Iteration: 113
+Temp: 3.507430642852498
+Current Distance: 22270.059424848987
+Switch indexs 5 and 23
+Cooldown: 0.10537558525046246
+***
+Iteration: 114
+Temp: 3.402055057602036
+Current Distance: 22270.059424848987
+Switch indexs 21 and 3
+New path is longer
+Probability We Accept:1.8578779203467148e-24
+Path Rejected
+Cooldown: 0.1051836569621557
+***
+Iteration: 115
+Temp: 3.2968714006398803
+Current Distance: 22270.059424848987
+Switch indexs 25 and 16
+New path is longer
+Probability We Accept:3.0266387866827848e-27
+Path Rejected
+Cooldown: 0.10499406507318897
+***
+Iteration: 116
+Temp: 3.191877335566691
+Current Distance: 22270.059424848987
+Switch indexs 6 and 19
+Cooldown: 0.10480676032027623
+***
+Iteration: 117
+Temp: 3.087070575246415
+Current Distance: 22270.059424848987
+Switch indexs 49 and 33
+New path is longer
+Probability We Accept:1.8507622624853207e-53
+Path Rejected
+Cooldown: 0.1046216949029845
+***
+Iteration: 118
+Temp: 2.982448880343431
+Current Distance: 22270.059424848987
+Switch indexs 52 and 2
+Cooldown: 0.10443882242801455
+***
+Iteration: 119
+Temp: 2.878010057915416
+Current Distance: 22270.059424848987
+Switch indexs 6 and 23
+Cooldown: 0.10425809785606158
+***
+Iteration: 120
+Temp: 2.7737519600593545
+Current Distance: 22270.059424848987
+Switch indexs 37 and 33
+New path is longer
+Probability We Accept:3.9971718314587584e-102
+Path Rejected
+Cooldown: 0.10407947745111563
+***
+Iteration: 121
+Temp: 2.669672482608239
+Current Distance: 22270.059424848987
+Switch indexs 25 and 47
+Cooldown: 0.10390291873207022
+***
+Iteration: 122
+Temp: 2.565769563876169
+Current Distance: 22270.059424848987
+Switch indexs 25 and 30
+New path is longer
+Probability We Accept:4.601725524539873e-196
+Path Rejected
+Cooldown: 0.1037283804265157
+***
+Iteration: 123
+Temp: 2.462041183449653
+Current Distance: 22270.059424848987
+Switch indexs 52 and 29
+Cooldown: 0.10355582242660195
+***
+Iteration: 124
+Temp: 2.358485361023051
+Current Distance: 22270.059424848987
+Switch indexs 42 and 38
+Cooldown: 0.10338520574686104
+***
+Iteration: 125
+Temp: 2.25510015527619
+Current Distance: 22270.059424848987
+Switch indexs 10 and 12
+New path is longer
+Probability We Accept:1.5487182199372738e-76
+Path Rejected
+Cooldown: 0.1032164924838879
+***
+Iteration: 126
+Temp: 2.1518836627923017
+Current Distance: 22270.059424848987
+Switch indexs 40 and 7
+Cooldown: 0.10304964577778311
+***
+Iteration: 127
+Temp: 2.0488340170145185
+Current Distance: 22270.059424848987
+Switch indexs 13 and 45
+Cooldown: 0.10288462977526684
+***
+Iteration: 128
+Temp: 1.9459493872392517
+Current Distance: 22270.059424848987
+Switch indexs 38 and 49
+Cooldown: 0.10272140959437934
+***
+Iteration: 129
+Temp: 1.8432279776448723
+Current Distance: 22270.059424848987
+Switch indexs 45 and 11
+Cooldown: 0.10255995129068747
+***
+Iteration: 130
+Temp: 1.740668026354185
+Current Distance: 22270.059424848987
+Switch indexs 13 and 20
+New path is longer
+Probability We Accept:0.0
+Path Rejected
+Cooldown: 0.102400221824922
+***
+Iteration: 131
+Temp: 1.638267804529263
+Current Distance: 22270.059424848987
+Switch indexs 52 and 49
+Cooldown: 0.10224218903197445
+***
+Iteration: 132
+Temp: 1.5360256154972884
+Current Distance: 22270.059424848987
+Switch indexs 15 and 1
+New path is longer
+Probability We Accept:7.263841245134323e-58
+Path Rejected
+Cooldown: 0.10208582159118623
+***
+Iteration: 133
+Temp: 1.4339397939061023
+Current Distance: 22270.059424848987
+Switch indexs 28 and 5
+Cooldown: 0.10193108899786701
+***
+Iteration: 134
+Temp: 1.3320087049082352
+Current Distance: 22270.059424848987
+Switch indexs 37 and 48
+Cooldown: 0.10177796153598241
+***
+Iteration: 135
+Temp: 1.2302307433722528
+Current Distance: 22270.059424848987
+Switch indexs 10 and 13
+New path is longer
+Probability We Accept:0.0
+Path Rejected
+Cooldown: 0.10162641025195451
+***
+Iteration: 136
+Temp: 1.1286043331202982
+Current Distance: 22270.059424848987
+Switch indexs 2 and 38
+New path is longer
+Probability We Accept:6.481501791611673e-146
+Path Rejected
+Cooldown: 0.10147640692952212
+***
+Iteration: 137
+Temp: 1.027127926190776
+Current Distance: 22270.059424848987
+Switch indexs 31 and 11
+New path is longer
+Probability We Accept:0.0
+Path Rejected
+Cooldown: 0.10132792406561028
+***
+Iteration: 138
+Temp: 0.9258000021251657
+Current Distance: 22270.059424848987
+Switch indexs 32 and 24
+New path is longer
+Probability We Accept:0.0
+Path Rejected
+Cooldown: 0.10118093484716124
+***
+Iteration: 139
+Temp: 0.8246190672780044
+Current Distance: 22270.059424848987
+Switch indexs 17 and 2
+New path is longer
+Probability We Accept:8.403024987881621e-57
+Path Rejected
+Cooldown: 0.10103541312888219
+***
+Iteration: 140
+Temp: 0.7235836541491222
+Current Distance: 22270.059424848987
+Switch indexs 11 and 10
+New path is longer
+Probability We Accept:0.0
+Path Rejected
+Cooldown: 0.10089133341186687
+***
+Iteration: 141
+Temp: 0.6226923207372553
+Current Distance: 22270.059424848987
+Switch indexs 1 and 25
+New path is longer
+Probability We Accept:0.0
+Path Rejected
+Cooldown: 0.10074867082305067
+***
+Iteration: 142
+Temp: 0.5219436499142047
+Current Distance: 22270.059424848987
+Switch indexs 2 and 35
+New path is longer
+Probability We Accept:0.0
+Path Rejected
+Cooldown: 0.10060740109546117
+***
+Iteration: 143
+Temp: 0.42133624881874354
+Current Distance: 22270.059424848987
+Switch indexs 15 and 11
+Cooldown: 0.10046750054922789
+***
+Iteration: 144
+Temp: 0.32086874826951567
+Current Distance: 22270.059424848987
+Switch indexs 23 and 37
+Cooldown: 0.10032894607331676
+***
+Iteration: 145
+Temp: 0.2205398021961989
+Current Distance: 22270.059424848987
+Switch indexs 28 and 1
+Cooldown: 0.10019171510795699
+***
+Iteration: 146
+Temp: 0.1203480870882419
+Current Distance: 22270.059424848987
+Switch indexs 9 and 18
+New path is longer
+Probability We Accept:0.0
+Path Rejected
+Cooldown: 0.10005578562772931
+***
+Iteration: 147
+Temp: 0.0202923014605126
+Current Distance: 22270.059424848987
+Switch indexs 3 and 21
+Cooldown: 0.09992113612528634
+
+
+Complete
+Best found distance:22270.059424848987
+
+
+### RESULT ###
+
+Ennis --> Irvington         Distance of: 326.266762021509
+Irvington --> Griffith         Distance of: 154.434452114805
+Griffith --> Howard         Distance of: 650.8648093114268
+Howard --> Gautier         Distance of: 628.0326424637497
+Gautier --> North Plainfield         Distance of: 393.7321424522006
+North Plainfield --> Vancouver         Distance of: 266.6927070618917
+Vancouver --> Belmont         Distance of: 470.5581791872287
+Belmont --> Okemos         Distance of: 183.43936327844142
+Okemos --> Palatine         Distance of: 83.21658488546619
+Palatine --> Arlington         Distance of: 537.8196723809942
+Arlington --> Payson         Distance of: 387.62094886628614
+Payson --> Natchez         Distance of: 182.4828759089466
+Natchez --> Fort Bragg         Distance of: 484.1745553000488
+Fort Bragg --> Savage         Distance of: 205.54804791094466
+Savage --> Santa Maria         Distance of: 1248.0785231707177
+Santa Maria --> Yuma         Distance of: 330.49205739321485
+Yuma --> Altamont         Distance of: 271.6615541441225
+Altamont --> East Chicago         Distance of: 544.5181356024792
+East Chicago --> Santa Clarita         Distance of: 86.31338250816034
+Santa Clarita --> Silver Firs         Distance of: 447.4650824366076
+Silver Firs --> Bloomington         Distance of: 240.52026941611388
+Bloomington --> Newburg         Distance of: 290.17236257093816
+Newburg --> Redding         Distance of: 550.6813960903346
+Redding --> Covina         Distance of: 550.6813960903346
+Covina --> Cocoa         Distance of: 185.53975315279473
+Cocoa --> Juneau         Distance of: 630.1785461280001
+Juneau --> Valdosta         Distance of: 115.43396380615195
+Valdosta --> Arcadia         Distance of: 344.41980198589044
+Arcadia --> Decatur         Distance of: 241.50569351466643
+Decatur --> Belleville         Distance of: 305.16389039334257
+Belleville --> Owasso         Distance of: 511.5173506343651
+Owasso --> Mishawaka         Distance of: 45.0
+Mishawaka --> Cottonwood Heights         Distance of: 1488.7074930959407
+Cottonwood Heights --> Pleasantville         Distance of: 474.68410548490033
+Pleasantville --> Las Cruces         Distance of: 550.8402672281684
+Las Cruces --> East Lansing         Distance of: 115.10864433221339
+East Lansing --> Daphne         Distance of: 401.9950248448356
+Daphne --> Deltona         Distance of: 673.6653471865686
+Deltona --> North Tustin         Distance of: 913.9064503547395
+North Tustin --> Pekin         Distance of: 411.0960958218893
+Pekin --> Greer         Distance of: 270.60118255469615
+Greer --> Keizer         Distance of: 243.3105012119288
+Keizer --> Libertyville         Distance of: 282.17902119044925
+Libertyville --> Decatur         Distance of: 845.5323766716447
+Decatur --> Lima         Distance of: 398.55990766759265
+Lima --> New Philadelphia         Distance of: 980.4718251943806
+New Philadelphia --> Millcreek         Distance of: 364.58880948268285
+Millcreek --> North Massapequa         Distance of: 35.35533905932738
+North Massapequa --> Derry         Distance of: 406.07881008493905
+Derry --> Saint Michael         Distance of: 195.57607215607945
+Saint Michael --> Owatonna         Distance of: 356.9313659514949
+Owatonna --> Ennis         Distance of: 469.0682253148256

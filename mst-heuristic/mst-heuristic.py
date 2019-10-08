@@ -53,14 +53,14 @@ class Graph():
         return distance
 
     def tsp_init(self):
-            results = open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/mst-heuristic/output/output.txt', 'w+')
-            results.write("## TSP OUTPUT FILE - APPROXIMATION ALGORITHM ##\n")
-            print("\n\nTSP")
-            prior_city = self.vertices[1]['city']
-            results.write(self.data_set_name+"Start City: "+ prior_city+'\n')
-            print("\nStart City: ", prior_city)
-            results.close()
-            self.tsp(self.vertices[1]['edges'][0], prior_city)
+        results = open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/mst-heuristic/output/output.txt', 'w+')
+        results.write("## TSP OUTPUT FILE - APPROXIMATION ALGORITHM ##\n")
+        print("\n\nTSP")
+        prior_city = self.vertices[1]['city']
+        results.write(self.data_set_name+"Start City: "+ prior_city+'\n')
+        print("\nStart City: ", prior_city)
+        results.close()
+        self.tsp(self.vertices[1]['edges'][0], prior_city)
 
     def tsp(self, node, prior_city):
         results = open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/mst-heuristic/output/output.txt', 'a+')

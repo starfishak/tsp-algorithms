@@ -1,0 +1,1144 @@
+## TSP OUTPUT FILE - LOCAL SEARCH ##
+Initial Temp: 20
+Cooldown Schedule: temp -= 1/log(iteration+2)
+NAME: kroB200
+Start City: Makakilo
+
+***
+Iteration: 0
+Temp: 20
+Current Distance: 327452.3654812089
+Switch indexs 64 and 160
+Cooldown: 0.7213475204444817
+***
+Iteration: 1
+Temp: 19.278652479555518
+Current Distance: 327452.3654812089
+Switch indexs 11 and 170
+New path is longer
+Probability We Accept:5.2404049479311e-06
+Path Rejected
+Cooldown: 0.45511961331341866
+***
+Iteration: 2
+Temp: 18.8235328662421
+Current Distance: 327452.3654812089
+Switch indexs 83 and 84
+New path is longer
+Probability We Accept:1.6009049495325158e-41
+Path Rejected
+Cooldown: 0.36067376022224085
+***
+Iteration: 3
+Temp: 18.46285910601986
+Current Distance: 327452.3654812089
+Switch indexs 130 and 156
+Cooldown: 0.31066746727980593
+***
+Iteration: 4
+Temp: 18.152191638740053
+Current Distance: 327452.3654812089
+Switch indexs 26 and 18
+New path is longer
+Probability We Accept:5.815996244514606e-146
+Path Rejected
+Cooldown: 0.2790553132756236
+***
+Iteration: 5
+Temp: 17.87313632546443
+Current Distance: 327452.3654812089
+Switch indexs 151 and 37
+Cooldown: 0.25694917118487537
+***
+Iteration: 6
+Temp: 17.616187154279555
+Current Distance: 327452.3654812089
+Switch indexs 72 and 136
+Cooldown: 0.24044917348149392
+***
+Iteration: 7
+Temp: 17.37573798079806
+Current Distance: 327452.3654812089
+Switch indexs 87 and 76
+Cooldown: 0.22755980665670933
+***
+Iteration: 8
+Temp: 17.14817817414135
+Current Distance: 327452.3654812089
+Switch indexs 187 and 195
+Cooldown: 0.21714724095162588
+***
+Iteration: 9
+Temp: 16.931030933189724
+Current Distance: 327452.3654812089
+Switch indexs 53 and 187
+Cooldown: 0.20851619571212315
+***
+Iteration: 10
+Temp: 16.722514737477603
+Current Distance: 327452.3654812089
+Switch indexs 20 and 121
+Cooldown: 0.20121480219092233
+***
+Iteration: 11
+Temp: 16.52129993528668
+Current Distance: 327452.3654812089
+Switch indexs 47 and 3
+Cooldown: 0.19493562262564004
+***
+Iteration: 12
+Temp: 16.326364312661042
+Current Distance: 327452.3654812089
+Switch indexs 2 and 188
+Cooldown: 0.1894615908449756
+***
+Iteration: 13
+Temp: 16.136902721816067
+Current Distance: 327452.3654812089
+Switch indexs 87 and 136
+Cooldown: 0.18463468653442752
+***
+Iteration: 14
+Temp: 15.952268035281639
+Current Distance: 327452.3654812089
+Switch indexs 124 and 194
+Cooldown: 0.18033688011112042
+***
+Iteration: 15
+Temp: 15.771931155170519
+Current Distance: 327452.3654812089
+Switch indexs 41 and 147
+Cooldown: 0.17647806193238058
+***
+Iteration: 16
+Temp: 15.595453093238138
+Current Distance: 327452.3654812089
+Switch indexs 161 and 26
+Cooldown: 0.1729881281305968
+***
+Iteration: 17
+Temp: 15.422464965107542
+Current Distance: 327452.3654812089
+Switch indexs 191 and 160
+Cooldown: 0.1698116359475543
+***
+Iteration: 18
+Temp: 15.252653329159989
+Current Distance: 327452.3654812089
+Switch indexs 81 and 68
+Cooldown: 0.16690410034766703
+***
+Iteration: 19
+Temp: 15.085749228812322
+Current Distance: 327452.3654812089
+Switch indexs 106 and 166
+Cooldown: 0.16422936937652555
+***
+Iteration: 20
+Temp: 14.921519859435797
+Current Distance: 327452.3654812089
+Switch indexs 23 and 104
+Cooldown: 0.16175772657433624
+***
+Iteration: 21
+Temp: 14.75976213286146
+Current Distance: 327452.3654812089
+Switch indexs 40 and 169
+Cooldown: 0.1594644944519005
+***
+Iteration: 22
+Temp: 14.600297638409561
+Current Distance: 327452.3654812089
+Switch indexs 168 and 102
+Cooldown: 0.15732899022206243
+***
+Iteration: 23
+Temp: 14.442968648187499
+Current Distance: 327452.3654812089
+Switch indexs 31 and 168
+Cooldown: 0.15533373363990297
+***
+Iteration: 24
+Temp: 14.287634914547596
+Current Distance: 327452.3654812089
+Switch indexs 54 and 129
+Cooldown: 0.15346383821506743
+***
+Iteration: 25
+Temp: 14.134171076332528
+Current Distance: 327452.3654812089
+Switch indexs 23 and 171
+Cooldown: 0.15170653777113957
+***
+Iteration: 26
+Temp: 13.982464538561388
+Current Distance: 327452.3654812089
+Switch indexs 58 and 114
+Cooldown: 0.15005081425020655
+***
+Iteration: 27
+Temp: 13.83241372431118
+Current Distance: 327452.3654812089
+Switch indexs 163 and 110
+Cooldown: 0.14848710218668504
+***
+Iteration: 28
+Temp: 13.683926622124496
+Current Distance: 327452.3654812089
+Switch indexs 189 and 8
+Cooldown: 0.14700705189760302
+***
+Iteration: 29
+Temp: 13.536919570226893
+Current Distance: 327452.3654812089
+Switch indexs 112 and 72
+Cooldown: 0.14560333810998122
+***
+Iteration: 30
+Temp: 13.391316232116912
+Current Distance: 327452.3654812089
+Switch indexs 177 and 75
+Cooldown: 0.14426950408889633
+***
+Iteration: 31
+Temp: 13.247046728028016
+Current Distance: 327452.3654812089
+Switch indexs 97 and 108
+Cooldown: 0.14299983375133718
+***
+Iteration: 32
+Temp: 13.104046894276678
+Current Distance: 327452.3654812089
+Switch indexs 127 and 117
+Cooldown: 0.1417892460256667
+***
+Iteration: 33
+Temp: 12.962257648251011
+Current Distance: 327452.3654812089
+Switch indexs 19 and 31
+Cooldown: 0.14063320703136417
+***
+Iteration: 34
+Temp: 12.821624441219647
+Current Distance: 327452.3654812089
+Switch indexs 171 and 99
+Cooldown: 0.1395276566378118
+***
+Iteration: 35
+Temp: 12.682096784581836
+Current Distance: 327452.3654812089
+Switch indexs 197 and 10
+Cooldown: 0.1384689467044287
+***
+Iteration: 36
+Temp: 12.543627837877407
+Current Distance: 327452.3654812089
+Switch indexs 88 and 56
+Cooldown: 0.1374537888712468
+***
+Iteration: 37
+Temp: 12.406174049006161
+Current Distance: 327452.3654812089
+Switch indexs 125 and 56
+Cooldown: 0.1364792102046987
+***
+Iteration: 38
+Temp: 12.269694838801462
+Current Distance: 327452.3654812089
+Switch indexs 142 and 11
+Cooldown: 0.1355425153409084
+***
+Iteration: 39
+Temp: 12.134152323460553
+Current Distance: 327452.3654812089
+Switch indexs 118 and 78
+Cooldown: 0.1346412540321955
+***
+Iteration: 40
+Temp: 11.999511069428358
+Current Distance: 327452.3654812089
+Switch indexs 175 and 157
+Cooldown: 0.133773193209527
+***
+Iteration: 41
+Temp: 11.865737876218832
+Current Distance: 327452.3654812089
+Switch indexs 143 and 91
+Cooldown: 0.132936292837426
+***
+Iteration: 42
+Temp: 11.732801583381406
+Current Distance: 327452.3654812089
+Switch indexs 167 and 172
+Cooldown: 0.13212868496822272
+***
+Iteration: 43
+Temp: 11.600672898413183
+Current Distance: 327452.3654812089
+Switch indexs 66 and 162
+Cooldown: 0.13134865550693153
+***
+Iteration: 44
+Temp: 11.469324242906252
+Current Distance: 327452.3654812089
+Switch indexs 186 and 161
+Cooldown: 0.1305946282821121
+***
+Iteration: 45
+Temp: 11.338729614624139
+Current Distance: 327452.3654812089
+Switch indexs 20 and 69
+Cooldown: 0.12986515108613578
+***
+Iteration: 46
+Temp: 11.208864463538003
+Current Distance: 327452.3654812089
+Switch indexs 167 and 190
+Cooldown: 0.12915888340366438
+***
+Iteration: 47
+Temp: 11.079705580134338
+Current Distance: 327452.3654812089
+Switch indexs 124 and 60
+Cooldown: 0.12847458559243768
+***
+Iteration: 48
+Temp: 10.9512309945419
+Current Distance: 327452.3654812089
+Switch indexs 47 and 191
+Cooldown: 0.12781110931766573
+***
+Iteration: 49
+Temp: 10.823419885224235
+Current Distance: 327452.3654812089
+Switch indexs 124 and 171
+Cooldown: 0.12716738907202113
+***
+Iteration: 50
+Temp: 10.696252496152214
+Current Distance: 327452.3654812089
+Switch indexs 6 and 120
+Cooldown: 0.12654243463865844
+***
+Iteration: 51
+Temp: 10.569710061513556
+Current Distance: 327452.3654812089
+Switch indexs 164 and 123
+New path is longer
+Probability We Accept:7.638733000755398e-208
+Path Rejected
+Cooldown: 0.12593532437584984
+***
+Iteration: 52
+Temp: 10.443774737137707
+Current Distance: 327452.3654812089
+Switch indexs 155 and 62
+Cooldown: 0.12534519921949844
+***
+Iteration: 53
+Temp: 10.318429537918208
+Current Distance: 327452.3654812089
+Switch indexs 15 and 152
+New path is longer
+Probability We Accept:1.5575523543124916e-87
+Path Rejected
+Cooldown: 0.12477125731460592
+***
+Iteration: 54
+Temp: 10.193658280603602
+Current Distance: 327452.3654812089
+Switch indexs 113 and 182
+Cooldown: 0.12421274919923457
+***
+Iteration: 55
+Temp: 10.069445531404368
+Current Distance: 327452.3654812089
+Switch indexs 11 and 16
+New path is longer
+Probability We Accept:7.628111333233396e-297
+Path Rejected
+Cooldown: 0.1236689734750257
+***
+Iteration: 56
+Temp: 9.945776557929342
+Current Distance: 327452.3654812089
+Switch indexs 55 and 189
+Cooldown: 0.12313927290724722
+***
+Iteration: 57
+Temp: 9.822637285022095
+Current Distance: 327452.3654812089
+Switch indexs 30 and 17
+Cooldown: 0.1226230309049152
+***
+Iteration: 58
+Temp: 9.70001425411718
+Current Distance: 327452.3654812089
+Switch indexs 194 and 109
+Cooldown: 0.12211966833798615
+***
+Iteration: 59
+Temp: 9.577894585779195
+Current Distance: 327452.3654812089
+Switch indexs 76 and 21
+Cooldown: 0.12162864065413231
+***
+Iteration: 60
+Temp: 9.456265945125063
+Current Distance: 327452.3654812089
+Switch indexs 130 and 164
+Cooldown: 0.12114943526234055
+***
+Iteration: 61
+Temp: 9.335116509862722
+Current Distance: 327452.3654812089
+Switch indexs 132 and 64
+Cooldown: 0.12068156915463754
+***
+Iteration: 62
+Temp: 9.214434940708085
+Current Distance: 327452.3654812089
+Switch indexs 133 and 166
+Cooldown: 0.12022458674074696
+***
+Iteration: 63
+Temp: 9.094210353967338
+Current Distance: 327452.3654812089
+Switch indexs 5 and 95
+Cooldown: 0.11977805787350929
+***
+Iteration: 64
+Temp: 8.974432296093829
+Current Distance: 327452.3654812089
+Switch indexs 81 and 26
+Cooldown: 0.11934157604551521
+***
+Iteration: 65
+Temp: 8.855090720048313
+Current Distance: 327452.3654812089
+Switch indexs 42 and 36
+Cooldown: 0.11891475673967891
+***
+Iteration: 66
+Temp: 8.736175963308634
+Current Distance: 327452.3654812089
+Switch indexs 7 and 159
+Cooldown: 0.11849723591845694
+***
+Iteration: 67
+Temp: 8.617678727390176
+Current Distance: 327452.3654812089
+Switch indexs 63 and 149
+Cooldown: 0.11808866863814496
+***
+Iteration: 68
+Temp: 8.499590058752032
+Current Distance: 327452.3654812089
+Switch indexs 115 and 105
+Cooldown: 0.11768872777619341
+***
+Iteration: 69
+Temp: 8.381901330975838
+Current Distance: 327452.3654812089
+Switch indexs 25 and 150
+Cooldown: 0.11729710286080529
+***
+Iteration: 70
+Temp: 8.264604228115033
+Current Distance: 327452.3654812089
+Switch indexs 95 and 4
+Cooldown: 0.11691349899323832
+***
+Iteration: 71
+Temp: 8.147690729121795
+Current Distance: 327452.3654812089
+Switch indexs 157 and 106
+Cooldown: 0.11653763585425463
+***
+Iteration: 72
+Temp: 8.031153093267541
+Current Distance: 327452.3654812089
+Switch indexs 109 and 70
+Cooldown: 0.11616924678705869
+***
+Iteration: 73
+Temp: 7.9149838464804825
+Current Distance: 327452.3654812089
+Switch indexs 111 and 116
+Cooldown: 0.11580807794985838
+***
+Iteration: 74
+Temp: 7.799175768530624
+Current Distance: 327452.3654812089
+Switch indexs 69 and 98
+Cooldown: 0.11545388753188437
+***
+Iteration: 75
+Temp: 7.68372188099874
+Current Distance: 327452.3654812089
+Switch indexs 198 and 32
+Cooldown: 0.1151064450273256
+***
+Iteration: 76
+Temp: 7.568615435971414
+Current Distance: 327452.3654812089
+Switch indexs 8 and 185
+Cooldown: 0.11476553056218833
+***
+Iteration: 77
+Temp: 7.453849905409226
+Current Distance: 327452.3654812089
+Switch indexs 45 and 150
+Cooldown: 0.11443093426957743
+***
+Iteration: 78
+Temp: 7.339418971139648
+Current Distance: 327452.3654812089
+Switch indexs 148 and 3
+Cooldown: 0.11410245570933435
+***
+Iteration: 79
+Temp: 7.225316515430314
+Current Distance: 327452.3654812089
+Switch indexs 78 and 52
+Cooldown: 0.11377990332835466
+***
+Iteration: 80
+Temp: 7.111536612101959
+Current Distance: 327452.3654812089
+Switch indexs 112 and 147
+Cooldown: 0.1134630939582562
+***
+Iteration: 81
+Temp: 6.998073518143703
+Current Distance: 327452.3654812089
+Switch indexs 129 and 72
+Cooldown: 0.11315185234737829
+***
+Iteration: 82
+Temp: 6.884921665796324
+Current Distance: 327452.3654812089
+Switch indexs 103 and 100
+Cooldown: 0.11284601072437196
+***
+Iteration: 83
+Temp: 6.772075655071952
+Current Distance: 327452.3654812089
+Switch indexs 68 and 177
+Cooldown: 0.11254540839088926
+***
+Iteration: 84
+Temp: 6.659530246681063
+Current Distance: 327452.3654812089
+Switch indexs 103 and 49
+Cooldown: 0.11224989134110476
+***
+Iteration: 85
+Temp: 6.547280355339958
+Current Distance: 327452.3654812089
+Switch indexs 106 and 173
+Cooldown: 0.1119593119060031
+***
+Iteration: 86
+Temp: 6.435321043433955
+Current Distance: 327452.3654812089
+Switch indexs 162 and 126
+Cooldown: 0.11167352842054848
+***
+Iteration: 87
+Temp: 6.323647515013406
+Current Distance: 327452.3654812089
+Switch indexs 72 and 89
+Cooldown: 0.1113924049120151
+***
+Iteration: 88
+Temp: 6.212255110101391
+Current Distance: 327452.3654812089
+Switch indexs 93 and 22
+Cooldown: 0.1111158108079052
+***
+Iteration: 89
+Temp: 6.101139299293486
+Current Distance: 327452.3654812089
+Switch indexs 47 and 102
+Cooldown: 0.11084362066201547
+***
+Iteration: 90
+Temp: 5.990295678631471
+Current Distance: 327452.3654812089
+Switch indexs 92 and 99
+Cooldown: 0.1105757138973323
+***
+Iteration: 91
+Temp: 5.8797199647341385
+Current Distance: 327452.3654812089
+Switch indexs 173 and 116
+Cooldown: 0.11031197456454686
+***
+Iteration: 92
+Temp: 5.769407990169592
+Current Distance: 327452.3654812089
+Switch indexs 111 and 53
+Cooldown: 0.11005229111507946
+***
+Iteration: 93
+Temp: 5.659355699054513
+Current Distance: 327452.3654812089
+Switch indexs 110 and 70
+Cooldown: 0.10979655618759297
+***
+Iteration: 94
+Temp: 5.5495591428669195
+Current Distance: 327452.3654812089
+Switch indexs 122 and 154
+Cooldown: 0.10954466640705743
+***
+Iteration: 95
+Temp: 5.440014476459862
+Current Distance: 327452.3654812089
+Switch indexs 124 and 117
+Cooldown: 0.10929652219550164
+***
+Iteration: 96
+Temp: 5.330717954264361
+Current Distance: 327452.3654812089
+Switch indexs 62 and 179
+Cooldown: 0.1090520275936563
+***
+Iteration: 97
+Temp: 5.221665926670704
+Current Distance: 327452.3654812089
+Switch indexs 1 and 43
+Cooldown: 0.10881109009275462
+***
+Iteration: 98
+Temp: 5.11285483657795
+Current Distance: 327452.3654812089
+Switch indexs 53 and 23
+Cooldown: 0.10857362047581294
+***
+Iteration: 99
+Temp: 5.004281216102137
+Current Distance: 327452.3654812089
+Switch indexs 147 and 163
+Cooldown: 0.10833953266776583
+***
+Iteration: 100
+Temp: 4.895941683434371
+Current Distance: 327452.3654812089
+Switch indexs 114 and 9
+Cooldown: 0.10810874359387675
+***
+Iteration: 101
+Temp: 4.787832939840494
+Current Distance: 327452.3654812089
+Switch indexs 117 and 54
+Cooldown: 0.10788117304588914
+***
+Iteration: 102
+Temp: 4.679951766794605
+Current Distance: 327452.3654812089
+Switch indexs 5 and 119
+Cooldown: 0.10765674355542232
+***
+Iteration: 103
+Temp: 4.572295023239183
+Current Distance: 327452.3654812089
+Switch indexs 13 and 77
+New path is longer
+Probability We Accept:1.5112895973288913e-49
+Path Rejected
+Cooldown: 0.1074353802741522
+***
+Iteration: 104
+Temp: 4.46485964296503
+Current Distance: 327452.3654812089
+Switch indexs 72 and 128
+New path is longer
+Probability We Accept:5.483794963803848e-170
+Path Rejected
+Cooldown: 0.10721701086035124
+***
+Iteration: 105
+Temp: 4.357642632104679
+Current Distance: 327452.3654812089
+Switch indexs 155 and 200
+Cooldown: 0.10700156537139177
+***
+Iteration: 106
+Temp: 4.250641066733287
+Current Distance: 327452.3654812089
+Switch indexs 61 and 151
+Cooldown: 0.10678897616184534
+***
+Iteration: 107
+Temp: 4.143852090571442
+Current Distance: 327452.3654812089
+Switch indexs 177 and 170
+Cooldown: 0.10657917778683676
+***
+Iteration: 108
+Temp: 4.037272912784605
+Current Distance: 327452.3654812089
+Switch indexs 143 and 133
+New path is longer
+Probability We Accept:3.610858304671412e-186
+Path Rejected
+Cooldown: 0.10637210691033468
+***
+Iteration: 109
+Temp: 3.9309008058742703
+Current Distance: 327452.3654812089
+Switch indexs 197 and 40
+Cooldown: 0.10616770221808378
+***
+Iteration: 110
+Temp: 3.8247331036561865
+Current Distance: 327452.3654812089
+Switch indexs 56 and 60
+Cooldown: 0.1059659043349022
+***
+Iteration: 111
+Temp: 3.718767199321284
+Current Distance: 327452.3654812089
+Switch indexs 192 and 46
+New path is longer
+Probability We Accept:6.694412751712656e-63
+Path Rejected
+Cooldown: 0.10576665574608841
+***
+Iteration: 112
+Temp: 3.6130005435751955
+Current Distance: 327452.3654812089
+Switch indexs 103 and 123
+Cooldown: 0.10556990072269733
+***
+Iteration: 113
+Temp: 3.507430642852498
+Current Distance: 327452.3654812089
+Switch indexs 24 and 6
+Cooldown: 0.10537558525046246
+***
+Iteration: 114
+Temp: 3.402055057602036
+Current Distance: 327452.3654812089
+Switch indexs 147 and 130
+Cooldown: 0.1051836569621557
+***
+Iteration: 115
+Temp: 3.2968714006398803
+Current Distance: 327452.3654812089
+Switch indexs 18 and 14
+Cooldown: 0.10499406507318897
+***
+Iteration: 116
+Temp: 3.191877335566691
+Current Distance: 327452.3654812089
+Switch indexs 82 and 106
+New path is longer
+Probability We Accept:1.5925961386005462e-88
+Path Rejected
+Cooldown: 0.10480676032027623
+***
+Iteration: 117
+Temp: 3.087070575246415
+Current Distance: 327452.3654812089
+Switch indexs 176 and 164
+Cooldown: 0.1046216949029845
+***
+Iteration: 118
+Temp: 2.982448880343431
+Current Distance: 327452.3654812089
+Switch indexs 110 and 4
+Cooldown: 0.10443882242801455
+***
+Iteration: 119
+Temp: 2.878010057915416
+Current Distance: 327452.3654812089
+Switch indexs 148 and 143
+Cooldown: 0.10425809785606158
+***
+Iteration: 120
+Temp: 2.7737519600593545
+Current Distance: 327452.3654812089
+Switch indexs 15 and 22
+New path is longer
+Probability We Accept:5.256249450552784e-220
+Path Rejected
+Cooldown: 0.10407947745111563
+***
+Iteration: 121
+Temp: 2.669672482608239
+Current Distance: 327452.3654812089
+Switch indexs 92 and 1
+New path is longer
+Probability We Accept:3.972332060251681e-43
+Path Rejected
+Cooldown: 0.10390291873207022
+***
+Iteration: 122
+Temp: 2.565769563876169
+Current Distance: 327452.3654812089
+Switch indexs 73 and 175
+Cooldown: 0.1037283804265157
+***
+Iteration: 123
+Temp: 2.462041183449653
+Current Distance: 327452.3654812089
+Switch indexs 21 and 94
+Cooldown: 0.10355582242660195
+***
+Iteration: 124
+Temp: 2.358485361023051
+Current Distance: 327452.3654812089
+Switch indexs 130 and 96
+Cooldown: 0.10338520574686104
+***
+Iteration: 125
+Temp: 2.25510015527619
+Current Distance: 327452.3654812089
+Switch indexs 52 and 152
+Cooldown: 0.1032164924838879
+***
+Iteration: 126
+Temp: 2.1518836627923017
+Current Distance: 327452.3654812089
+Switch indexs 22 and 190
+Cooldown: 0.10304964577778311
+***
+Iteration: 127
+Temp: 2.0488340170145185
+Current Distance: 327452.3654812089
+Switch indexs 18 and 42
+Cooldown: 0.10288462977526684
+***
+Iteration: 128
+Temp: 1.9459493872392517
+Current Distance: 327452.3654812089
+Switch indexs 34 and 39
+Cooldown: 0.10272140959437934
+***
+Iteration: 129
+Temp: 1.8432279776448723
+Current Distance: 327452.3654812089
+Switch indexs 78 and 82
+Cooldown: 0.10255995129068747
+***
+Iteration: 130
+Temp: 1.740668026354185
+Current Distance: 327452.3654812089
+Switch indexs 98 and 192
+Cooldown: 0.102400221824922
+***
+Iteration: 131
+Temp: 1.638267804529263
+Current Distance: 327452.3654812089
+Switch indexs 169 and 26
+Cooldown: 0.10224218903197445
+***
+Iteration: 132
+Temp: 1.5360256154972884
+Current Distance: 327452.3654812089
+Switch indexs 12 and 76
+Cooldown: 0.10208582159118623
+***
+Iteration: 133
+Temp: 1.4339397939061023
+Current Distance: 327452.3654812089
+Switch indexs 186 and 102
+Cooldown: 0.10193108899786701
+***
+Iteration: 134
+Temp: 1.3320087049082352
+Current Distance: 327452.3654812089
+Switch indexs 69 and 40
+Cooldown: 0.10177796153598241
+***
+Iteration: 135
+Temp: 1.2302307433722528
+Current Distance: 327452.3654812089
+Switch indexs 177 and 27
+Cooldown: 0.10162641025195451
+***
+Iteration: 136
+Temp: 1.1286043331202982
+Current Distance: 327452.3654812089
+Switch indexs 3 and 147
+Cooldown: 0.10147640692952212
+***
+Iteration: 137
+Temp: 1.027127926190776
+Current Distance: 327452.3654812089
+Switch indexs 127 and 156
+Cooldown: 0.10132792406561028
+***
+Iteration: 138
+Temp: 0.9258000021251657
+Current Distance: 327452.3654812089
+Switch indexs 66 and 140
+Cooldown: 0.10118093484716124
+***
+Iteration: 139
+Temp: 0.8246190672780044
+Current Distance: 327452.3654812089
+Switch indexs 177 and 29
+Cooldown: 0.10103541312888219
+***
+Iteration: 140
+Temp: 0.7235836541491222
+Current Distance: 327452.3654812089
+Switch indexs 129 and 55
+New path is longer
+Probability We Accept:0.0
+Path Rejected
+Cooldown: 0.10089133341186687
+***
+Iteration: 141
+Temp: 0.6226923207372553
+Current Distance: 327452.3654812089
+Switch indexs 45 and 187
+Cooldown: 0.10074867082305067
+***
+Iteration: 142
+Temp: 0.5219436499142047
+Current Distance: 327452.3654812089
+Switch indexs 138 and 156
+Cooldown: 0.10060740109546117
+***
+Iteration: 143
+Temp: 0.42133624881874354
+Current Distance: 327452.3654812089
+Switch indexs 26 and 57
+Cooldown: 0.10046750054922789
+***
+Iteration: 144
+Temp: 0.32086874826951567
+Current Distance: 327452.3654812089
+Switch indexs 22 and 37
+Cooldown: 0.10032894607331676
+***
+Iteration: 145
+Temp: 0.2205398021961989
+Current Distance: 327452.3654812089
+Switch indexs 72 and 88
+Cooldown: 0.10019171510795699
+***
+Iteration: 146
+Temp: 0.1203480870882419
+Current Distance: 327452.3654812089
+Switch indexs 192 and 179
+Cooldown: 0.10005578562772931
+***
+Iteration: 147
+Temp: 0.0202923014605126
+Current Distance: 327452.3654812089
+Switch indexs 143 and 7
+Cooldown: 0.09992113612528634
+
+
+Complete
+Best found distance:327452.3654812089
+
+
+### RESULT ###
+
+Malden --> Willingboro         Distance of: 1407.1350326105878
+Willingboro --> Columbine         Distance of: 1345.7050196829914
+Columbine --> Fern Creek         Distance of: 1307.5610884390833
+Fern Creek --> Union City         Distance of: 2231.0224113621093
+Union City --> Jamestown         Distance of: 511.1213163232385
+Jamestown --> Vicksburg         Distance of: 1577.7303318374784
+Vicksburg --> The Crossings         Distance of: 1468.0030653918948
+The Crossings --> Plainview         Distance of: 736.2716889844401
+Plainview --> Cohoes         Distance of: 2008.1563684135756
+Cohoes --> Tulare         Distance of: 985.4567468945555
+Tulare --> Pearl City         Distance of: 403.1935019317648
+Pearl City --> Kokomo         Distance of: 2759.832241278444
+Kokomo --> Watertown         Distance of: 564.1630969852602
+Watertown --> Affton         Distance of: 1373.052438911202
+Affton --> Avon Center         Distance of: 1005.9194798789812
+Avon Center --> Fortuna Foothills         Distance of: 2221.2271383179163
+Fortuna Foothills --> Paterson         Distance of: 2558.825707233691
+Paterson --> Upper Arlington         Distance of: 302.8349385391322
+Upper Arlington --> Wade Hampton         Distance of: 2963.0315556875194
+Wade Hampton --> Franklin         Distance of: 1552.9922730007384
+Franklin --> Woburn         Distance of: 2271.3027099002015
+Woburn --> Smithtown         Distance of: 1523.229464000746
+Smithtown --> Stoughton         Distance of: 1011.3525596941948
+Stoughton --> Dalton         Distance of: 2474.846459883926
+Dalton --> Susanville         Distance of: 1442.743566958453
+Susanville --> North Olmsted         Distance of: 1885.1846063449595
+North Olmsted --> Dublin         Distance of: 1130.5113887086675
+Dublin --> Tallmadge         Distance of: 1379.5919686631987
+Tallmadge --> Johnstown         Distance of: 2370.5497252747095
+Johnstown --> Wakefield         Distance of: 434.2188388359031
+Wakefield --> Chelsea         Distance of: 3569.1514397682818
+Chelsea --> Gainesville         Distance of: 3461.1774008276434
+Gainesville --> Torrance         Distance of: 3332.504763687518
+Torrance --> Hurst         Distance of: 1938.7245807489005
+Hurst --> Kaukauna         Distance of: 1893.2778454310399
+Kaukauna --> Seaford         Distance of: 1875.765976874514
+Seaford --> Rexburg         Distance of: 1254.789623801536
+Rexburg --> Hudson         Distance of: 716.4837751128772
+Hudson --> Cudahy         Distance of: 878.6836745951298
+Cudahy --> Rochester Hills         Distance of: 2562.0025370791495
+Rochester Hills --> Fairfield         Distance of: 488.937623833552
+Fairfield --> Makakilo         Distance of: 2301.4597541560443
+Makakilo --> Battle Ground         Distance of: 3350.021044710018
+Battle Ground --> Burnsville         Distance of: 3891.548021032247
+Burnsville --> Fountain         Distance of: 1290.2112230173786
+Fountain --> Amherst         Distance of: 1186.5062157443592
+Amherst --> Grayslake         Distance of: 1496.9732796546502
+Grayslake --> Goodyear         Distance of: 3136.3854992650377
+Goodyear --> Kennewick         Distance of: 1995.3531015837773
+Kennewick --> Brentwood         Distance of: 1512.2000529030543
+Brentwood --> Louisville         Distance of: 3033.646815303324
+Louisville --> Maple Valley         Distance of: 1473.077051616785
+Maple Valley --> Vineyard         Distance of: 2502.4228259828515
+Vineyard --> Olympia         Distance of: 41.773197148410844
+Olympia --> Sahuarita         Distance of: 1550.0051612817294
+Sahuarita --> Bay Shore         Distance of: 231.29418496797535
+Bay Shore --> Redford         Distance of: 2425.078349249772
+Redford --> Atascadero         Distance of: 1711.340118153022
+Atascadero --> Kent         Distance of: 2594.2777414918396
+Kent --> Seattle         Distance of: 1637.864768532494
+Seattle --> Lisle         Distance of: 581.0654007940931
+Lisle --> Wildomar         Distance of: 1417.3485809778765
+Wildomar --> Golden Glades         Distance of: 574.3117620247734
+Golden Glades --> Montclair         Distance of: 1059.600868251815
+Montclair --> South Bend         Distance of: 1602.6303379132694
+South Bend --> North Potomac         Distance of: 2916.2004389273384
+North Potomac --> Eagle Mountain         Distance of: 953.8909790956197
+Eagle Mountain --> Chandler         Distance of: 657.3712801758227
+Chandler --> Orlando         Distance of: 1621.3358689673155
+Orlando --> Ilchester         Distance of: 1200.6019323655946
+Ilchester --> Kirkwood         Distance of: 1500.600213248019
+Kirkwood --> Santa Ana         Distance of: 2034.2000884868726
+Santa Ana --> Westminster         Distance of: 571.7901713041244
+Westminster --> Little Rock         Distance of: 903.2103852370167
+Little Rock --> Pittsfield         Distance of: 1587.4296834820748
+Pittsfield --> West Springfield         Distance of: 2215.9535193681295
+West Springfield --> Reynoldsburg         Distance of: 873.9296310344444
+Reynoldsburg --> Brookings         Distance of: 2437.975594627641
+Brookings --> Chowchilla         Distance of: 494.3278264471868
+Chowchilla --> Glenview         Distance of: 859.6726121030028
+Glenview --> Dumont         Distance of: 1172.1744750675985
+Dumont --> Metairie Terrace         Distance of: 954.2080485931776
+Metairie Terrace --> East Florence         Distance of: 1041.000480307286
+East Florence --> North Decatur         Distance of: 1867.0010712369717
+North Decatur --> Englewood         Distance of: 883.2581729030306
+Englewood --> Troy         Distance of: 754.721803050634
+Troy --> Ironville         Distance of: 1077.1304470675777
+Ironville --> Duluth         Distance of: 651.871152912905
+Duluth --> Santa Fe         Distance of: 1313.6730947994633
+Santa Fe --> Soledad         Distance of: 1679.5433903296455
+Soledad --> Muscatine         Distance of: 251.82930726982514
+Muscatine --> Westbury         Distance of: 222.27235545609355
+Westbury --> West Pensacola         Distance of: 1346.0300888167396
+West Pensacola --> Allapattah         Distance of: 420.02023760766576
+Allapattah --> Newton         Distance of: 905.0552469324732
+Newton --> Farragut         Distance of: 2542.62325168319
+Farragut --> Covington         Distance of: 2761.786378415246
+Covington --> Hanover         Distance of: 382.2800020927069
+Hanover --> Lauderhill         Distance of: 870.1563077976278
+Lauderhill --> Four Corners         Distance of: 2096.9625652357267
+Four Corners --> Mountain Brook         Distance of: 136.35615130972272
+Mountain Brook --> Setauket-East Setauket         Distance of: 857.8490543213298
+Setauket-East Setauket --> Hicksville         Distance of: 1974.6040109348507
+Hicksville --> Newport Beach         Distance of: 707.6305533256743
+Newport Beach --> Jupiter         Distance of: 322.56782232578627
+Jupiter --> Morton Grove         Distance of: 1690.4937148655715
+Morton Grove --> Bedford         Distance of: 710.1668817961029
+Bedford --> Casper         Distance of: 1488.3658824361703
+Casper --> Burlington         Distance of: 530.7296863752771
+Burlington --> Pueblo         Distance of: 3791.742211701634
+Pueblo --> Memphis         Distance of: 1023.0552282257297
+Memphis --> Frankfort         Distance of: 1387.8508565404281
+Frankfort --> Concord         Distance of: 1587.092939937671
+Concord --> Mission Viejo         Distance of: 1955.0248080267422
+Mission Viejo --> Phoenix         Distance of: 2752.152975399442
+Phoenix --> Sayreville         Distance of: 572.0533191932375
+Sayreville --> Draper         Distance of: 3534.955869597243
+Draper --> Sierra Vista         Distance of: 2884.9362211321068
+Sierra Vista --> New Albany         Distance of: 2300.6618612912243
+New Albany --> Alsip         Distance of: 2195.8872921896514
+Alsip --> Johnson City         Distance of: 1035.0043478169548
+Johnson City --> Lansing         Distance of: 1319.1891448916642
+Lansing --> Ewing         Distance of: 576.2117666275134
+Ewing --> Middleton         Distance of: 1046.4893692723304
+Middleton --> Gilbert         Distance of: 1598.2618684058004
+Gilbert --> Pottstown         Distance of: 2370.239017483258
+Pottstown --> Calabasas         Distance of: 1912.4235932449694
+Calabasas --> Peachtree City         Distance of: 181.0331461362808
+Peachtree City --> Monterey Park         Distance of: 1666.1866642126265
+Monterey Park --> Calexico         Distance of: 2189.7305770345356
+Calexico --> Troy         Distance of: 1821.2877312495134
+Troy --> Lansing         Distance of: 668.0479024740666
+Lansing --> Gary         Distance of: 2019.5011760333293
+Gary --> East Brainerd         Distance of: 2518.276593227996
+East Brainerd --> Middletown         Distance of: 3512.487010652139
+Middletown --> Benicia         Distance of: 3457.5150035827755
+Benicia --> Tullahoma         Distance of: 3145.864587041216
+Tullahoma --> Maryville         Distance of: 1772.0025395015664
+Maryville --> Dearborn         Distance of: 1204.9398325227696
+Dearborn --> Dixon         Distance of: 1715.5771623567387
+Dixon --> Ponca City         Distance of: 1859.6174337750224
+Ponca City --> Ellensburg         Distance of: 2725.8118056828503
+Ellensburg --> West and East Lealman         Distance of: 584.4929426434505
+West and East Lealman --> Payson         Distance of: 1625.5291446172228
+Payson --> Miami         Distance of: 1244.9136516240794
+Miami --> Mableton         Distance of: 2792.2917111218876
+Mableton --> Secaucus         Distance of: 4025.6960888770527
+Secaucus --> Rockford         Distance of: 3648.27986865043
+Rockford --> North Amityville         Distance of: 706.1621626793665
+North Amityville --> Logan         Distance of: 2322.97675408085
+Logan --> Durant         Distance of: 1411.0287027555464
+Durant --> Fort Wayne         Distance of: 706.781437220871
+Fort Wayne --> South Bel Air         Distance of: 3069.070543340443
+South Bel Air --> New South Memphis         Distance of: 3788.971364367907
+New South Memphis --> Taylorsville         Distance of: 2849.3823892205132
+Taylorsville --> Dix Hills         Distance of: 97.30878685915265
+Dix Hills --> Bixby         Distance of: 1082.1404714730893
+Bixby --> Uniondale         Distance of: 1827.0506287456842
+Uniondale --> Kentwood         Distance of: 572.5032750998024
+Kentwood --> Atlanta         Distance of: 619.632955869844
+Atlanta --> Carson         Distance of: 1475.2589603184927
+Carson --> Kings Park         Distance of: 3240.88151588422
+Kings Park --> Wekiwa Springs         Distance of: 1070.4414977008319
+Wekiwa Springs --> Kernersville         Distance of: 588.085027865869
+Kernersville --> South Burlington         Distance of: 268.337474088134
+South Burlington --> West Warwick         Distance of: 2347.768727962786
+West Warwick --> East Chicago         Distance of: 3619.5669630495854
+East Chicago --> Brandon         Distance of: 3341.620116051494
+Brandon --> Pleasure Ridge Park         Distance of: 1068.663183608381
+Pleasure Ridge Park --> Lebanon         Distance of: 1730.9780472322577
+Lebanon --> Westmont         Distance of: 1572.8397884082156
+Westmont --> Hermosa Beach         Distance of: 1285.292573696744
+Hermosa Beach --> Colleyville         Distance of: 992.3678753365608
+Colleyville --> Moorpark         Distance of: 1009.9589100552556
+Moorpark --> Woodstock         Distance of: 3807.629446256555
+Woodstock --> Catalina Foothills         Distance of: 3272.898562436667
+Catalina Foothills --> Dover         Distance of: 1390.8648388682489
+Dover --> Beaverton         Distance of: 1646.3790572040207
+Beaverton --> Murfreesboro         Distance of: 1835.3934183166289
+Murfreesboro --> Elmont         Distance of: 1190.6489826980915
+Elmont --> East New York         Distance of: 580.4825578774955
+East New York --> Richmond West         Distance of: 1847.9385812304477
+Richmond West --> Sedalia         Distance of: 1401.1174112114945
+Sedalia --> Poinciana         Distance of: 1319.787861741424
+Poinciana --> North Fort Myers         Distance of: 2960.0285471596385
+North Fort Myers --> Monsey         Distance of: 1870.3416800146438
+Monsey --> Stuart         Distance of: 2091.023194515068
+Stuart --> Silver Firs         Distance of: 888.2206932964352
+Silver Firs --> Jonesboro         Distance of: 2766.434528413785
+Jonesboro --> Weston         Distance of: 241.91940806805889
+Weston --> Bowling Green         Distance of: 3318.559928643748
+Bowling Green --> Tigard         Distance of: 1139.033362110171
+Tigard --> Cutler Bay         Distance of: 1131.2444475001855
+Cutler Bay --> Forest Grove         Distance of: 325.9509165503297
+Forest Grove --> Fontana         Distance of: 1453.0674450967513
+Fontana --> Oak Grove         Distance of: 599.6832497243857
+Oak Grove --> Montebello         Distance of: 1321.638377166765
+Montebello --> Franklin         Distance of: 1251.2301946484508
+Franklin --> Palm Harbor         Distance of: 2138.8791457209545
+Palm Harbor --> Malden         Distance of: 2046.959940985656
