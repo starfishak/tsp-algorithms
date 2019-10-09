@@ -3,6 +3,7 @@ import linecache
 import re
 import math
 import copy
+import csv
 
 class tsp():
     def __init__(self, vertices, name):
@@ -51,7 +52,7 @@ class tsp():
     def simulated_annealing(self):
         # Simulation Definitions
         temp = 500
-        itertion = 0
+        iteration = 0
         num_cities = len(self.vertices)
         current_distance = self.calculate_path_distance()
         cooldown_schedule = "temp -= 1/log(iteration+2)"
@@ -59,17 +60,24 @@ class tsp():
         # Open output file, init the header
         self.init_print_output(temp, cooldown_schedule)
         results = open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/simulated-annealing/output/output.txt', 'a+')
-        
+        curve = open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/simulated-annealing/output/curve.csv', 'w+')
+        writer = csv.writer(curve)
+        writer.writerow(['Iteration', 'Distance'])
+
         # While the temp is > 0
         while temp >= 0:
             # print current iteration information
             results.write('\n***\n'
-                        'Iteration: '+str(itertion)+
+                        'Iteration: '+str(iteration)+
                         '\nTemp: '+str(temp)+
                         '\nCurrent Distance: '+str(current_distance))
 
+            # Write to curve csv
+            writer.writerow([iteration, current_distance])
+
             # Make copy of current path incase we reject the new path
             path_copy = copy.deepcopy(self.tour)
+
 
             # Generate our random switch indexes, ensure they are not equal
             switch_1 = random.randint(1, num_cities)
@@ -98,9 +106,9 @@ class tsp():
                     current_distance = new_distance
                     results.write('\nPath Accepted\nNew Distance:'+str(new_distance))
             
-            temp = temp - (1/math.log(itertion+2))/2
-            results.write('\nCooldown: ' + str((1/math.log(itertion+2))/2))
-            itertion += 1
+            temp = temp - (1/math.log(iteration+2))/2
+            results.write('\nCooldown: ' + str((1/math.log(iteration+2))/2))
+            iteration += 1
         results.write('\n\n\nComplete\nBest found distance:'+str(current_distance))
         print("done")
         print(current_distance)
@@ -181,7 +189,7 @@ def parse_file(path):
                 points.append(this_line)
         return (points, name)
 
-data = parse_file('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/kroB200.tsp.txt')
+data = parse_file('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/a280.tsp.txt')
 tsp = tsp(data[0], data[1])
 print(tsp.calculate_path_distance())
 print(tsp.vertices)

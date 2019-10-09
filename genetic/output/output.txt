@@ -1,0 +1,3855 @@
+## TSP OUTPUT FILE - GENETIC ALGORITHM ##
+Dataset Name: NAME: berlin52
+
+Initial Temp: 170
+Cooldown Schedule: temp -= 1/log(iteration+2)
+Number of Initial Tours: 0
+***
+Iteration: 0
+Temp: 170
+Current Distance: 22205.617692710774
+***
+Iteration: 1
+Temp: 168.55730495911104
+Current Distance: 21532.863270507518
+***
+Iteration: 2
+Temp: 167.6470657324842
+Current Distance: 20909.46434459034
+***
+Iteration: 3
+Temp: 166.92571821203973
+Current Distance: 20884.650314443974
+***
+Iteration: 4
+Temp: 166.30438327748013
+Current Distance: 20884.650314443974
+***
+Iteration: 5
+Temp: 165.7462726509289
+Current Distance: 20884.650314443974
+***
+Iteration: 6
+Temp: 165.23237430855914
+Current Distance: 20884.650314443974
+***
+Iteration: 7
+Temp: 164.75147596159616
+Current Distance: 20884.650314443974
+***
+Iteration: 8
+Temp: 164.29635634828273
+Current Distance: 20884.650314443974
+***
+Iteration: 9
+Temp: 163.86206186637946
+Current Distance: 20870.36889548226
+***
+Iteration: 10
+Temp: 163.44502947495522
+Current Distance: 20631.751548154665
+***
+Iteration: 11
+Temp: 163.04259987057338
+Current Distance: 20571.472574397347
+***
+Iteration: 12
+Temp: 162.6527286253221
+Current Distance: 20571.472574397347
+***
+Iteration: 13
+Temp: 162.27380544363217
+Current Distance: 20392.380266712513
+***
+Iteration: 14
+Temp: 161.90453607056332
+Current Distance: 20360.526927886505
+***
+Iteration: 15
+Temp: 161.5438623103411
+Current Distance: 20308.076144420844
+***
+Iteration: 16
+Temp: 161.19090618647633
+Current Distance: 19631.442347846907
+***
+Iteration: 17
+Temp: 160.84492993021513
+Current Distance: 19293.36719496882
+***
+Iteration: 18
+Temp: 160.50530665832002
+Current Distance: 19117.692593526586
+***
+Iteration: 19
+Temp: 160.1714984576247
+Current Distance: 18831.451073620872
+***
+Iteration: 20
+Temp: 159.84303971887164
+Current Distance: 18831.451073620872
+***
+Iteration: 21
+Temp: 159.51952426572296
+Current Distance: 18825.866012050745
+***
+Iteration: 22
+Temp: 159.20059527681917
+Current Distance: 18486.695937982393
+***
+Iteration: 23
+Temp: 158.88593729637503
+Current Distance: 18486.695937982393
+***
+Iteration: 24
+Temp: 158.57526982909522
+Current Distance: 18320.729146864258
+***
+Iteration: 25
+Temp: 158.2683421526651
+Current Distance: 18320.729146864258
+***
+Iteration: 26
+Temp: 157.96492907712283
+Current Distance: 18303.175183837557
+***
+Iteration: 27
+Temp: 157.66482744862242
+Current Distance: 18303.175183837557
+***
+Iteration: 28
+Temp: 157.36785324424906
+Current Distance: 18303.175183837557
+***
+Iteration: 29
+Temp: 157.07383914045386
+Current Distance: 18303.175183837557
+***
+Iteration: 30
+Temp: 156.7826324642339
+Current Distance: 18303.175183837557
+***
+Iteration: 31
+Temp: 156.4940934560561
+Current Distance: 18303.175183837557
+***
+Iteration: 32
+Temp: 156.20809378855344
+Current Distance: 18303.175183837557
+***
+Iteration: 33
+Temp: 155.9245152965021
+Current Distance: 18303.175183837557
+***
+Iteration: 34
+Temp: 155.64324888243937
+Current Distance: 18303.175183837557
+***
+Iteration: 35
+Temp: 155.36419356916375
+Current Distance: 17994.02625995357
+***
+Iteration: 36
+Temp: 155.08725567575488
+Current Distance: 17760.41571940168
+***
+Iteration: 37
+Temp: 154.8123480980124
+Current Distance: 17760.41571940168
+***
+Iteration: 38
+Temp: 154.539389677603
+Current Distance: 17760.41571940168
+***
+Iteration: 39
+Temp: 154.2683046469212
+Current Distance: 17760.41571940168
+***
+Iteration: 40
+Temp: 153.99902213885682
+Current Distance: 17760.41571940168
+***
+Iteration: 41
+Temp: 153.73147575243777
+Current Distance: 17760.41571940168
+***
+Iteration: 42
+Temp: 153.46560316676292
+Current Distance: 17760.41571940168
+***
+Iteration: 43
+Temp: 153.20134579682647
+Current Distance: 17760.41571940168
+***
+Iteration: 44
+Temp: 152.93864848581262
+Current Distance: 17225.82345342383
+***
+Iteration: 45
+Temp: 152.6774592292484
+Current Distance: 16891.218216647307
+***
+Iteration: 46
+Temp: 152.41772892707613
+Current Distance: 16863.695197604196
+***
+Iteration: 47
+Temp: 152.1594111602688
+Current Distance: 16816.928415908864
+***
+Iteration: 48
+Temp: 151.90246198908392
+Current Distance: 16713.593828331446
+***
+Iteration: 49
+Temp: 151.6468397704486
+Current Distance: 16713.593828331446
+***
+Iteration: 50
+Temp: 151.39250499230454
+Current Distance: 16713.593828331446
+***
+Iteration: 51
+Temp: 151.1394201230272
+Current Distance: 16699.47715792185
+***
+Iteration: 52
+Temp: 150.88754947427552
+Current Distance: 16699.47715792185
+***
+Iteration: 53
+Temp: 150.63685907583653
+Current Distance: 16690.859227766614
+***
+Iteration: 54
+Temp: 150.3873165612073
+Current Distance: 16591.05760585884
+***
+Iteration: 55
+Temp: 150.13889106280885
+Current Distance: 16591.05760585884
+***
+Iteration: 56
+Temp: 149.8915531158588
+Current Distance: 16591.05760585884
+***
+Iteration: 57
+Temp: 149.6452745700443
+Current Distance: 16591.05760585884
+***
+Iteration: 58
+Temp: 149.40002850823447
+Current Distance: 16384.810630846674
+***
+Iteration: 59
+Temp: 149.1557891715585
+Current Distance: 16089.408468729762
+***
+Iteration: 60
+Temp: 148.91253189025022
+Current Distance: 16089.408468729762
+***
+Iteration: 61
+Temp: 148.67023301972554
+Current Distance: 16089.408468729762
+***
+Iteration: 62
+Temp: 148.42886988141626
+Current Distance: 16089.408468729762
+***
+Iteration: 63
+Temp: 148.18842070793477
+Current Distance: 16089.408468729762
+***
+Iteration: 64
+Temp: 147.94886459218776
+Current Distance: 16089.408468729762
+***
+Iteration: 65
+Temp: 147.71018144009673
+Current Distance: 16089.408468729762
+***
+Iteration: 66
+Temp: 147.47235192661736
+Current Distance: 16089.408468729762
+***
+Iteration: 67
+Temp: 147.23535745478046
+Current Distance: 16089.408468729762
+***
+Iteration: 68
+Temp: 146.99918011750415
+Current Distance: 16089.408468729762
+***
+Iteration: 69
+Temp: 146.76380266195176
+Current Distance: 16089.408468729762
+***
+Iteration: 70
+Temp: 146.52920845623015
+Current Distance: 16089.408468729762
+***
+Iteration: 71
+Temp: 146.29538145824367
+Current Distance: 16076.362813557018
+***
+Iteration: 72
+Temp: 146.06230618653515
+Current Distance: 15934.846343986455
+***
+Iteration: 73
+Temp: 145.82996769296105
+Current Distance: 15934.846343986455
+***
+Iteration: 74
+Temp: 145.59835153706132
+Current Distance: 15934.846343986455
+***
+Iteration: 75
+Temp: 145.36744376199755
+Current Distance: 15857.675099986907
+***
+Iteration: 76
+Temp: 145.1372308719429
+Current Distance: 15857.675099986907
+***
+Iteration: 77
+Temp: 144.9076998108185
+Current Distance: 15857.675099986907
+***
+Iteration: 78
+Temp: 144.67883794227936
+Current Distance: 15857.675099986907
+***
+Iteration: 79
+Temp: 144.4506330308607
+Current Distance: 15747.40698105802
+***
+Iteration: 80
+Temp: 144.223073224204
+Current Distance: 15747.40698105802
+***
+Iteration: 81
+Temp: 143.99614703628748
+Current Distance: 15737.85481014661
+***
+Iteration: 82
+Temp: 143.76984333159274
+Current Distance: 15737.85481014661
+***
+Iteration: 83
+Temp: 143.544151310144
+Current Distance: 15737.85481014661
+***
+Iteration: 84
+Temp: 143.31906049336223
+Current Distance: 15737.85481014661
+***
+Iteration: 85
+Temp: 143.09456071068
+Current Distance: 15737.85481014661
+***
+Iteration: 86
+Temp: 142.870642086868
+Current Distance: 15737.85481014661
+***
+Iteration: 87
+Temp: 142.6472950300269
+Current Distance: 15737.85481014661
+***
+Iteration: 88
+Temp: 142.42451022020288
+Current Distance: 15666.990570104095
+***
+Iteration: 89
+Temp: 142.20227859858707
+Current Distance: 15666.990570104095
+***
+Iteration: 90
+Temp: 141.98059135726305
+Current Distance: 15662.199401506254
+***
+Iteration: 91
+Temp: 141.75943992946839
+Current Distance: 15662.199401506254
+***
+Iteration: 92
+Temp: 141.53881598033928
+Current Distance: 15652.319508710847
+***
+Iteration: 93
+Temp: 141.31871139810912
+Current Distance: 15652.319508710847
+***
+Iteration: 94
+Temp: 141.09911828573394
+Current Distance: 15652.319508710847
+***
+Iteration: 95
+Temp: 140.88002895291982
+Current Distance: 15609.566223856627
+***
+Iteration: 96
+Temp: 140.6614359085288
+Current Distance: 15609.566223856627
+***
+Iteration: 97
+Temp: 140.44333185334148
+Current Distance: 15521.46622365347
+***
+Iteration: 98
+Temp: 140.22570967315596
+Current Distance: 15497.371839525269
+***
+Iteration: 99
+Temp: 140.00856243220434
+Current Distance: 15421.86977166494
+***
+Iteration: 100
+Temp: 139.7918833668688
+Current Distance: 15421.86977166494
+***
+Iteration: 101
+Temp: 139.57566587968105
+Current Distance: 15070.176341041959
+***
+Iteration: 102
+Temp: 139.3599035335893
+Current Distance: 14989.807865649997
+***
+Iteration: 103
+Temp: 139.14459004647844
+Current Distance: 14735.59614234195
+***
+Iteration: 104
+Temp: 138.92971928593013
+Current Distance: 14735.59614234195
+***
+Iteration: 105
+Temp: 138.71528526420943
+Current Distance: 14735.59614234195
+***
+Iteration: 106
+Temp: 138.50128213346665
+Current Distance: 14735.59614234195
+***
+Iteration: 107
+Temp: 138.28770418114294
+Current Distance: 14735.59614234195
+***
+Iteration: 108
+Temp: 138.07454582556926
+Current Distance: 14735.59614234195
+***
+Iteration: 109
+Temp: 137.8618016117486
+Current Distance: 14624.368053385018
+***
+Iteration: 110
+Temp: 137.64946620731243
+Current Distance: 14624.368053385018
+***
+Iteration: 111
+Temp: 137.4375343986426
+Current Distance: 14624.368053385018
+***
+Iteration: 112
+Temp: 137.22600108715042
+Current Distance: 14624.368053385018
+***
+Iteration: 113
+Temp: 137.01486128570502
+Current Distance: 14624.368053385018
+***
+Iteration: 114
+Temp: 136.8041101152041
+Current Distance: 14624.368053385018
+***
+Iteration: 115
+Temp: 136.5937428012798
+Current Distance: 14624.368053385018
+***
+Iteration: 116
+Temp: 136.38375467113343
+Current Distance: 14624.368053385018
+***
+Iteration: 117
+Temp: 136.1741411504929
+Current Distance: 14624.368053385018
+***
+Iteration: 118
+Temp: 135.9648977606869
+Current Distance: 14505.700255167143
+***
+Iteration: 119
+Temp: 135.7560201158309
+Current Distance: 14505.700255167143
+***
+Iteration: 120
+Temp: 135.54750392011877
+Current Distance: 14505.700255167143
+***
+Iteration: 121
+Temp: 135.33934496521653
+Current Distance: 14505.700255167143
+***
+Iteration: 122
+Temp: 135.13153912775238
+Current Distance: 14505.700255167143
+***
+Iteration: 123
+Temp: 134.92408236689934
+Current Distance: 14505.700255167143
+***
+Iteration: 124
+Temp: 134.71697072204614
+Current Distance: 14505.700255167143
+***
+Iteration: 125
+Temp: 134.51020031055242
+Current Distance: 14505.700255167143
+***
+Iteration: 126
+Temp: 134.30376732558466
+Current Distance: 14505.700255167143
+***
+Iteration: 127
+Temp: 134.09766803402908
+Current Distance: 14505.700255167143
+***
+Iteration: 128
+Temp: 133.89189877447856
+Current Distance: 14505.700255167143
+***
+Iteration: 129
+Temp: 133.6864559552898
+Current Distance: 14505.700255167143
+***
+Iteration: 130
+Temp: 133.48133605270843
+Current Distance: 14505.700255167143
+***
+Iteration: 131
+Temp: 133.27653560905858
+Current Distance: 14363.03297232061
+***
+Iteration: 132
+Temp: 133.07205123099465
+Current Distance: 14363.03297232061
+***
+Iteration: 133
+Temp: 132.86787958781227
+Current Distance: 14363.03297232061
+***
+Iteration: 134
+Temp: 132.66401740981652
+Current Distance: 14353.163775272218
+***
+Iteration: 135
+Temp: 132.46046148674455
+Current Distance: 14353.163775272218
+***
+Iteration: 136
+Temp: 132.25720866624064
+Current Distance: 14353.163775272218
+***
+Iteration: 137
+Temp: 132.0542558523816
+Current Distance: 14353.163775272218
+***
+Iteration: 138
+Temp: 131.85160000425037
+Current Distance: 14353.163775272218
+***
+Iteration: 139
+Temp: 131.64923813455604
+Current Distance: 14353.163775272218
+***
+Iteration: 140
+Temp: 131.44716730829828
+Current Distance: 14353.163775272218
+***
+Iteration: 141
+Temp: 131.24538464147454
+Current Distance: 14353.163775272218
+***
+Iteration: 142
+Temp: 131.04388729982844
+Current Distance: 14353.163775272218
+***
+Iteration: 143
+Temp: 130.84267249763752
+Current Distance: 14353.163775272218
+***
+Iteration: 144
+Temp: 130.64173749653906
+Current Distance: 14353.163775272218
+***
+Iteration: 145
+Temp: 130.44107960439243
+Current Distance: 14353.163775272218
+***
+Iteration: 146
+Temp: 130.24069617417652
+Current Distance: 14353.163775272218
+***
+Iteration: 147
+Temp: 130.04058460292106
+Current Distance: 14353.163775272218
+***
+Iteration: 148
+Temp: 129.84074233067048
+Current Distance: 14353.163775272218
+***
+Iteration: 149
+Temp: 129.64116683947913
+Current Distance: 14353.163775272218
+***
+Iteration: 150
+Temp: 129.44185565243663
+Current Distance: 14353.163775272218
+***
+Iteration: 151
+Temp: 129.2428063327224
+Current Distance: 14353.163775272218
+***
+Iteration: 152
+Temp: 129.0440164826882
+Current Distance: 14353.163775272218
+***
+Iteration: 153
+Temp: 128.8454837429676
+Current Distance: 14353.163775272218
+***
+Iteration: 154
+Temp: 128.6472057916116
+Current Distance: 14353.163775272218
+***
+Iteration: 155
+Temp: 128.44918034324945
+Current Distance: 14353.163775272218
+***
+Iteration: 156
+Temp: 128.25140514827334
+Current Distance: 14353.163775272218
+***
+Iteration: 157
+Temp: 128.0538779920469
+Current Distance: 14247.079982722957
+***
+Iteration: 158
+Temp: 127.856596694136
+Current Distance: 14105.797314007892
+***
+Iteration: 159
+Temp: 127.65955910756146
+Current Distance: 13681.176640187996
+***
+Iteration: 160
+Temp: 127.46276311807263
+Current Distance: 13681.176640187996
+***
+Iteration: 161
+Temp: 127.26620664344141
+Current Distance: 13681.176640187996
+***
+Iteration: 162
+Temp: 127.06988763277582
+Current Distance: 13681.176640187996
+***
+Iteration: 163
+Temp: 126.87380406585255
+Current Distance: 13681.176640187996
+***
+Iteration: 164
+Temp: 126.67795395246776
+Current Distance: 13681.176640187996
+***
+Iteration: 165
+Temp: 126.48233533180563
+Current Distance: 13384.577296682735
+***
+Iteration: 166
+Temp: 126.28694627182398
+Current Distance: 13384.577296682735
+***
+Iteration: 167
+Temp: 126.09178486865649
+Current Distance: 13384.577296682735
+***
+Iteration: 168
+Temp: 125.89684924603085
+Current Distance: 13384.577296682735
+***
+Iteration: 169
+Temp: 125.70213755470242
+Current Distance: 13350.860539720481
+***
+Iteration: 170
+Temp: 125.50764797190284
+Current Distance: 13350.860539720481
+***
+Iteration: 171
+Temp: 125.3133787008032
+Current Distance: 13350.860539720481
+***
+Iteration: 172
+Temp: 125.11932796999113
+Current Distance: 13331.142046919726
+***
+Iteration: 173
+Temp: 124.92549403296157
+Current Distance: 13331.142046919726
+***
+Iteration: 174
+Temp: 124.7318751676206
+Current Distance: 13331.142046919726
+***
+Iteration: 175
+Temp: 124.5384696758021
+Current Distance: 13331.142046919726
+***
+Iteration: 176
+Temp: 124.34527588279667
+Current Distance: 13331.142046919726
+***
+Iteration: 177
+Temp: 124.1522921368925
+Current Distance: 13331.142046919726
+***
+Iteration: 178
+Temp: 123.95951680892787
+Current Distance: 13331.142046919726
+***
+Iteration: 179
+Temp: 123.76694829185487
+Current Distance: 13317.404294768477
+***
+Iteration: 180
+Temp: 123.57458500031396
+Current Distance: 13197.56903434434
+***
+Iteration: 181
+Temp: 123.38242537021907
+Current Distance: 13197.56903434434
+***
+Iteration: 182
+Temp: 123.19046785835303
+Current Distance: 12890.599135173432
+***
+Iteration: 183
+Temp: 122.99871094197282
+Current Distance: 12890.599135173432
+***
+Iteration: 184
+Temp: 122.80715311842445
+Current Distance: 12890.599135173432
+***
+Iteration: 185
+Temp: 122.61579290476729
+Current Distance: 12599.23680570282
+***
+Iteration: 186
+Temp: 122.42462883740727
+Current Distance: 12599.23680570282
+***
+Iteration: 187
+Temp: 122.23365947173906
+Current Distance: 12478.193869046592
+***
+Iteration: 188
+Temp: 122.04288338179673
+Current Distance: 12478.193869046592
+***
+Iteration: 189
+Temp: 121.8522991599126
+Current Distance: 12429.938150195805
+***
+Iteration: 190
+Temp: 121.6619054163843
+Current Distance: 12429.938150195805
+***
+Iteration: 191
+Temp: 121.47170077914953
+Current Distance: 12426.114458373559
+***
+Iteration: 192
+Temp: 121.28168389346847
+Current Distance: 12426.114458373559
+***
+Iteration: 193
+Temp: 121.09185342161351
+Current Distance: 12426.114458373559
+***
+Iteration: 194
+Temp: 120.90220804256622
+Current Distance: 12426.114458373559
+***
+Iteration: 195
+Temp: 120.71274645172124
+Current Distance: 12425.427138787472
+***
+Iteration: 196
+Temp: 120.52346736059695
+Current Distance: 12425.427138787472
+***
+Iteration: 197
+Temp: 120.3343694965527
+Current Distance: 12425.427138787472
+***
+Iteration: 198
+Temp: 120.14545160251245
+Current Distance: 12425.427138787472
+***
+Iteration: 199
+Temp: 119.9567124366947
+Current Distance: 12425.427138787472
+***
+Iteration: 200
+Temp: 119.7681507723483
+Current Distance: 12425.427138787472
+***
+Iteration: 201
+Temp: 119.57976539749437
+Current Distance: 12425.427138787472
+***
+Iteration: 202
+Temp: 119.3915551146737
+Current Distance: 12425.427138787472
+***
+Iteration: 203
+Temp: 119.2035187406999
+Current Distance: 12425.427138787472
+***
+Iteration: 204
+Temp: 119.01565510641797
+Current Distance: 12425.427138787472
+***
+Iteration: 205
+Temp: 118.82796305646794
+Current Distance: 12425.427138787472
+***
+Iteration: 206
+Temp: 118.64044144905392
+Current Distance: 12425.427138787472
+***
+Iteration: 207
+Temp: 118.45308915571798
+Current Distance: 12425.427138787472
+***
+Iteration: 208
+Temp: 118.26590506111884
+Current Distance: 12425.427138787472
+***
+Iteration: 209
+Temp: 118.0788880628155
+Current Distance: 12425.427138787472
+***
+Iteration: 210
+Temp: 117.89203707105527
+Current Distance: 12174.513257583787
+***
+Iteration: 211
+Temp: 117.70535100856648
+Current Distance: 12174.513257583787
+***
+Iteration: 212
+Temp: 117.51882881035539
+Current Distance: 12174.513257583787
+***
+Iteration: 213
+Temp: 117.33246942350749
+Current Distance: 12174.513257583787
+***
+Iteration: 214
+Temp: 117.1462718069929
+Current Distance: 12174.513257583787
+***
+Iteration: 215
+Temp: 116.96023493147582
+Current Distance: 12174.513257583787
+***
+Iteration: 216
+Temp: 116.77435777912794
+Current Distance: 12174.513257583787
+***
+Iteration: 217
+Temp: 116.58863934344569
+Current Distance: 12174.513257583787
+***
+Iteration: 218
+Temp: 116.40307862907122
+Current Distance: 12174.513257583787
+***
+Iteration: 219
+Temp: 116.21767465161706
+Current Distance: 12174.513257583787
+***
+Iteration: 220
+Temp: 116.03242643749435
+Current Distance: 12174.513257583787
+***
+Iteration: 221
+Temp: 115.84733302374447
+Current Distance: 12174.513257583787
+***
+Iteration: 222
+Temp: 115.66239345787416
+Current Distance: 12174.513257583787
+***
+Iteration: 223
+Temp: 115.4776067976939
+Current Distance: 12168.434866299267
+***
+Iteration: 224
+Temp: 115.29297211115947
+Current Distance: 12168.434866299267
+***
+Iteration: 225
+Temp: 115.10848847621675
+Current Distance: 12168.434866299267
+***
+Iteration: 226
+Temp: 114.92415498064949
+Current Distance: 12168.434866299267
+***
+Iteration: 227
+Temp: 114.73997072193016
+Current Distance: 12168.434866299267
+***
+Iteration: 228
+Temp: 114.55593480707367
+Current Distance: 12168.434866299267
+***
+Iteration: 229
+Temp: 114.37204635249392
+Current Distance: 12168.434866299267
+***
+Iteration: 230
+Temp: 114.18830448386323
+Current Distance: 12168.434866299267
+***
+Iteration: 231
+Temp: 114.00470833597441
+Current Distance: 12168.434866299267
+***
+Iteration: 232
+Temp: 113.82125705260549
+Current Distance: 12077.775382308462
+***
+Iteration: 233
+Temp: 113.63794978638704
+Current Distance: 12077.775382308462
+***
+Iteration: 234
+Temp: 113.45478569867208
+Current Distance: 12077.775382308462
+***
+Iteration: 235
+Temp: 113.2717639594084
+Current Distance: 12077.775382308462
+***
+Iteration: 236
+Temp: 113.0888837470133
+Current Distance: 12077.775382308462
+***
+Iteration: 237
+Temp: 112.9061442482507
+Current Distance: 12077.775382308462
+***
+Iteration: 238
+Temp: 112.72354465811058
+Current Distance: 12077.775382308462
+***
+Iteration: 239
+Temp: 112.54108417969063
+Current Distance: 12077.775382308462
+***
+Iteration: 240
+Temp: 112.35876202408011
+Current Distance: 12077.775382308462
+***
+Iteration: 241
+Temp: 112.17657741024587
+Current Distance: 12077.775382308462
+***
+Iteration: 242
+Temp: 111.9945295649205
+Current Distance: 12077.775382308462
+***
+Iteration: 243
+Temp: 111.81261772249245
+Current Distance: 12077.775382308462
+***
+Iteration: 244
+Temp: 111.63084112489824
+Current Distance: 12077.775382308462
+***
+Iteration: 245
+Temp: 111.4491990215166
+Current Distance: 12077.775382308462
+***
+Iteration: 246
+Temp: 111.26769066906454
+Current Distance: 12077.775382308462
+***
+Iteration: 247
+Temp: 111.08631533149523
+Current Distance: 12077.775382308462
+***
+Iteration: 248
+Temp: 110.90507227989787
+Current Distance: 12077.775382308462
+***
+Iteration: 249
+Temp: 110.72396079239915
+Current Distance: 12077.775382308462
+***
+Iteration: 250
+Temp: 110.5429801540667
+Current Distance: 12077.775382308462
+***
+Iteration: 251
+Temp: 110.36212965681399
+Current Distance: 12077.775382308462
+***
+Iteration: 252
+Temp: 110.18140859930716
+Current Distance: 12077.775382308462
+***
+Iteration: 253
+Temp: 110.00081628687333
+Current Distance: 12077.775382308462
+***
+Iteration: 254
+Temp: 109.82035203141056
+Current Distance: 11962.029438874988
+***
+Iteration: 255
+Temp: 109.64001515129945
+Current Distance: 11962.029438874988
+***
+Iteration: 256
+Temp: 109.45980497131615
+Current Distance: 11962.029438874988
+***
+Iteration: 257
+Temp: 109.27972082254702
+Current Distance: 11962.029438874988
+***
+Iteration: 258
+Temp: 109.09976204230465
+Current Distance: 11962.029438874988
+***
+Iteration: 259
+Temp: 108.9199279740454
+Current Distance: 11962.029438874988
+***
+Iteration: 260
+Temp: 108.74021796728829
+Current Distance: 11911.97673215023
+***
+Iteration: 261
+Temp: 108.56063137753534
+Current Distance: 11911.97673215023
+***
+Iteration: 262
+Temp: 108.38116756619323
+Current Distance: 11911.97673215023
+***
+Iteration: 263
+Temp: 108.20182590049622
+Current Distance: 11911.97673215023
+***
+Iteration: 264
+Temp: 108.02260575343054
+Current Distance: 11911.97673215023
+***
+Iteration: 265
+Temp: 107.8435065036599
+Current Distance: 11911.97673215023
+***
+Iteration: 266
+Temp: 107.66452753545225
+Current Distance: 11765.586952448068
+***
+Iteration: 267
+Temp: 107.48566823860791
+Current Distance: 11765.586952448068
+***
+Iteration: 268
+Temp: 107.30692800838871
+Current Distance: 11765.586952448068
+***
+Iteration: 269
+Temp: 107.1283062454484
+Current Distance: 11765.586952448068
+***
+Iteration: 270
+Temp: 106.94980235576422
+Current Distance: 11765.586952448068
+***
+Iteration: 271
+Temp: 106.77141575056952
+Current Distance: 11765.586952448068
+***
+Iteration: 272
+Temp: 106.59314584628756
+Current Distance: 11746.845015337149
+***
+Iteration: 273
+Temp: 106.41499206446633
+Current Distance: 11746.845015337149
+***
+Iteration: 274
+Temp: 106.23695383171452
+Current Distance: 11746.845015337149
+***
+Iteration: 275
+Temp: 106.05903057963836
+Current Distance: 11746.845015337149
+***
+Iteration: 276
+Temp: 105.88122174477968
+Current Distance: 11746.845015337149
+***
+Iteration: 277
+Temp: 105.70352676855478
+Current Distance: 11746.845015337149
+***
+Iteration: 278
+Temp: 105.52594509719442
+Current Distance: 11746.845015337149
+***
+Iteration: 279
+Temp: 105.34847618168469
+Current Distance: 11746.845015337149
+***
+Iteration: 280
+Temp: 105.17111947770881
+Current Distance: 11746.845015337149
+***
+Iteration: 281
+Temp: 104.99387444558997
+Current Distance: 11746.845015337149
+***
+Iteration: 282
+Temp: 104.81674055023485
+Current Distance: 11746.845015337149
+***
+Iteration: 283
+Temp: 104.63971726107829
+Current Distance: 11746.845015337149
+***
+Iteration: 284
+Temp: 104.4628040520286
+Current Distance: 11746.845015337149
+***
+Iteration: 285
+Temp: 104.28600040141387
+Current Distance: 11746.845015337149
+***
+Iteration: 286
+Temp: 104.10930579192905
+Current Distance: 11746.845015337149
+***
+Iteration: 287
+Temp: 103.93271971058384
+Current Distance: 11746.845015337149
+***
+Iteration: 288
+Temp: 103.75624164865145
+Current Distance: 11746.845015337149
+***
+Iteration: 289
+Temp: 103.57987110161811
+Current Distance: 11746.845015337149
+***
+Iteration: 290
+Temp: 103.40360756913329
+Current Distance: 11746.845015337149
+***
+Iteration: 291
+Temp: 103.22745055496078
+Current Distance: 11746.845015337149
+***
+Iteration: 292
+Temp: 103.0513995669305
+Current Distance: 11746.845015337149
+***
+Iteration: 293
+Temp: 102.87545411689096
+Current Distance: 11746.845015337149
+***
+Iteration: 294
+Temp: 102.69961372066255
+Current Distance: 11746.845015337149
+***
+Iteration: 295
+Temp: 102.52387789799144
+Current Distance: 11746.845015337149
+***
+Iteration: 296
+Temp: 102.34824617250422
+Current Distance: 11746.845015337149
+***
+Iteration: 297
+Temp: 102.17271807166321
+Current Distance: 11746.845015337149
+***
+Iteration: 298
+Temp: 101.99729312672245
+Current Distance: 11732.039111542323
+***
+Iteration: 299
+Temp: 101.8219708726843
+Current Distance: 11732.039111542323
+***
+Iteration: 300
+Temp: 101.64675084825676
+Current Distance: 11732.039111542323
+***
+Iteration: 301
+Temp: 101.4716325958113
+Current Distance: 11732.039111542323
+***
+Iteration: 302
+Temp: 101.29661566134146
+Current Distance: 11732.039111542323
+***
+Iteration: 303
+Temp: 101.12169959442193
+Current Distance: 11732.039111542323
+***
+Iteration: 304
+Temp: 100.94688394816828
+Current Distance: 11732.039111542323
+***
+Iteration: 305
+Temp: 100.77216827919729
+Current Distance: 11732.039111542323
+***
+Iteration: 306
+Temp: 100.59755214758783
+Current Distance: 11732.039111542323
+***
+Iteration: 307
+Temp: 100.42303511684233
+Current Distance: 11732.039111542323
+***
+Iteration: 308
+Temp: 100.24861675384875
+Current Distance: 11724.625907048669
+***
+Iteration: 309
+Temp: 100.07429662884319
+Current Distance: 11724.625907048669
+***
+Iteration: 310
+Temp: 99.90007431537293
+Current Distance: 11724.625907048669
+***
+Iteration: 311
+Temp: 99.72594939026011
+Current Distance: 11724.625907048669
+***
+Iteration: 312
+Temp: 99.55192143356581
+Current Distance: 11724.625907048669
+***
+Iteration: 313
+Temp: 99.3779900285547
+Current Distance: 11724.625907048669
+***
+Iteration: 314
+Temp: 99.20415476166025
+Current Distance: 11724.625907048669
+***
+Iteration: 315
+Temp: 99.03041522245027
+Current Distance: 11724.625907048669
+***
+Iteration: 316
+Temp: 98.85677100359312
+Current Distance: 11724.625907048669
+***
+Iteration: 317
+Temp: 98.68322170082423
+Current Distance: 11724.625907048669
+***
+Iteration: 318
+Temp: 98.50976691291322
+Current Distance: 11724.625907048669
+***
+Iteration: 319
+Temp: 98.33640624163137
+Current Distance: 11724.625907048669
+***
+Iteration: 320
+Temp: 98.16313929171962
+Current Distance: 11724.625907048669
+***
+Iteration: 321
+Temp: 97.98996567085696
+Current Distance: 11724.625907048669
+***
+Iteration: 322
+Temp: 97.81688498962929
+Current Distance: 11724.625907048669
+***
+Iteration: 323
+Temp: 97.64389686149869
+Current Distance: 11724.625907048669
+***
+Iteration: 324
+Temp: 97.47100090277311
+Current Distance: 11724.625907048669
+***
+Iteration: 325
+Temp: 97.2981967325765
+Current Distance: 11724.625907048669
+***
+Iteration: 326
+Temp: 97.12548397281928
+Current Distance: 11724.625907048669
+***
+Iteration: 327
+Temp: 96.95286224816931
+Current Distance: 11724.625907048669
+***
+Iteration: 328
+Temp: 96.78033118602316
+Current Distance: 11724.625907048669
+***
+Iteration: 329
+Temp: 96.6078904164778
+Current Distance: 11713.641188622632
+***
+Iteration: 330
+Temp: 96.43553957230272
+Current Distance: 11713.641188622632
+***
+Iteration: 331
+Temp: 96.26327828891232
+Current Distance: 11713.641188622632
+***
+Iteration: 332
+Temp: 96.09110620433879
+Current Distance: 11713.641188622632
+***
+Iteration: 333
+Temp: 95.91902295920524
+Current Distance: 11713.641188622632
+***
+Iteration: 334
+Temp: 95.74702819669926
+Current Distance: 11713.641188622632
+***
+Iteration: 335
+Temp: 95.5751215625468
+Current Distance: 11713.641188622632
+***
+Iteration: 336
+Temp: 95.40330270498639
+Current Distance: 11713.641188622632
+***
+Iteration: 337
+Temp: 95.23157127474371
+Current Distance: 11713.641188622632
+***
+Iteration: 338
+Temp: 95.05992692500655
+Current Distance: 11713.641188622632
+***
+Iteration: 339
+Temp: 94.88836931139993
+Current Distance: 11713.641188622632
+***
+Iteration: 340
+Temp: 94.71689809196174
+Current Distance: 11713.641188622632
+***
+Iteration: 341
+Temp: 94.5455129271186
+Current Distance: 11713.641188622632
+***
+Iteration: 342
+Temp: 94.374213479662
+Current Distance: 11713.641188622632
+***
+Iteration: 343
+Temp: 94.20299941472489
+Current Distance: 11713.641188622632
+***
+Iteration: 344
+Temp: 94.03187039975832
+Current Distance: 11713.641188622632
+***
+Iteration: 345
+Temp: 93.86082610450866
+Current Distance: 11713.641188622632
+***
+Iteration: 346
+Temp: 93.68986620099496
+Current Distance: 11713.641188622632
+***
+Iteration: 347
+Temp: 93.5189903634866
+Current Distance: 11713.641188622632
+***
+Iteration: 348
+Temp: 93.34819826848124
+Current Distance: 11713.641188622632
+***
+Iteration: 349
+Temp: 93.17748959468311
+Current Distance: 11713.641188622632
+***
+Iteration: 350
+Temp: 93.00686402298146
+Current Distance: 11713.641188622632
+***
+Iteration: 351
+Temp: 92.83632123642941
+Current Distance: 11713.641188622632
+***
+Iteration: 352
+Temp: 92.66586092022294
+Current Distance: 11713.641188622632
+***
+Iteration: 353
+Temp: 92.49548276168025
+Current Distance: 11713.641188622632
+***
+Iteration: 354
+Temp: 92.32518645022132
+Current Distance: 11713.641188622632
+***
+Iteration: 355
+Temp: 92.15497167734775
+Current Distance: 11713.641188622632
+***
+Iteration: 356
+Temp: 91.98483813662278
+Current Distance: 11713.641188622632
+***
+Iteration: 357
+Temp: 91.81478552365172
+Current Distance: 11713.641188622632
+***
+Iteration: 358
+Temp: 91.64481353606241
+Current Distance: 11713.641188622632
+***
+Iteration: 359
+Temp: 91.47492187348614
+Current Distance: 11713.641188622632
+***
+Iteration: 360
+Temp: 91.30511023753859
+Current Distance: 11713.641188622632
+***
+Iteration: 361
+Temp: 91.13537833180116
+Current Distance: 11713.641188622632
+***
+Iteration: 362
+Temp: 90.96572586180253
+Current Distance: 11713.641188622632
+***
+Iteration: 363
+Temp: 90.79615253500026
+Current Distance: 11713.641188622632
+***
+Iteration: 364
+Temp: 90.62665806076288
+Current Distance: 11713.641188622632
+***
+Iteration: 365
+Temp: 90.45724215035196
+Current Distance: 11713.641188622632
+***
+Iteration: 366
+Temp: 90.28790451690458
+Current Distance: 11713.641188622632
+***
+Iteration: 367
+Temp: 90.11864487541587
+Current Distance: 11713.641188622632
+***
+Iteration: 368
+Temp: 89.94946294272187
+Current Distance: 11713.641188622632
+***
+Iteration: 369
+Temp: 89.78035843748249
+Current Distance: 11713.641188622632
+***
+Iteration: 370
+Temp: 89.6113310801648
+Current Distance: 11713.641188622632
+***
+Iteration: 371
+Temp: 89.44238059302639
+Current Distance: 11713.641188622632
+***
+Iteration: 372
+Temp: 89.273506700099
+Current Distance: 11713.641188622632
+***
+Iteration: 373
+Temp: 89.10470912717238
+Current Distance: 11713.641188622632
+***
+Iteration: 374
+Temp: 88.93598760177824
+Current Distance: 11713.641188622632
+***
+Iteration: 375
+Temp: 88.76734185317443
+Current Distance: 11713.641188622632
+***
+Iteration: 376
+Temp: 88.59877161232937
+Current Distance: 11713.641188622632
+***
+Iteration: 377
+Temp: 88.4302766119066
+Current Distance: 11713.641188622632
+***
+Iteration: 378
+Temp: 88.2618565862495
+Current Distance: 11713.641188622632
+***
+Iteration: 379
+Temp: 88.09351127136618
+Current Distance: 11713.641188622632
+***
+Iteration: 380
+Temp: 87.92524040491469
+Current Distance: 11713.641188622632
+***
+Iteration: 381
+Temp: 87.75704372618814
+Current Distance: 11713.641188622632
+***
+Iteration: 382
+Temp: 87.58892097610025
+Current Distance: 11713.641188622632
+***
+Iteration: 383
+Temp: 87.42087189717093
+Current Distance: 11713.641188622632
+***
+Iteration: 384
+Temp: 87.25289623351202
+Current Distance: 11713.641188622632
+***
+Iteration: 385
+Temp: 87.08499373081325
+Current Distance: 11713.641188622632
+***
+Iteration: 386
+Temp: 86.91716413632835
+Current Distance: 11713.641188622632
+***
+Iteration: 387
+Temp: 86.74940719886129
+Current Distance: 11713.641188622632
+***
+Iteration: 388
+Temp: 86.58172266875269
+Current Distance: 11713.641188622632
+***
+Iteration: 389
+Temp: 86.4141102978664
+Current Distance: 11713.641188622632
+***
+Iteration: 390
+Temp: 86.24656983957622
+Current Distance: 11713.641188622632
+***
+Iteration: 391
+Temp: 86.07910104875276
+Current Distance: 11713.641188622632
+***
+Iteration: 392
+Temp: 85.91170368175045
+Current Distance: 11713.641188622632
+***
+Iteration: 393
+Temp: 85.74437749639473
+Current Distance: 11713.641188622632
+***
+Iteration: 394
+Temp: 85.57712225196934
+Current Distance: 11713.641188622632
+***
+Iteration: 395
+Temp: 85.40993770920379
+Current Distance: 11713.641188622632
+***
+Iteration: 396
+Temp: 85.2428236302609
+Current Distance: 11713.641188622632
+***
+Iteration: 397
+Temp: 85.07577977872458
+Current Distance: 11713.641188622632
+***
+Iteration: 398
+Temp: 84.90880591958769
+Current Distance: 11713.641188622632
+***
+Iteration: 399
+Temp: 84.74190181924003
+Current Distance: 11713.641188622632
+***
+Iteration: 400
+Temp: 84.57506724545644
+Current Distance: 11713.641188622632
+***
+Iteration: 401
+Temp: 84.4083019673851
+Current Distance: 11713.641188622632
+***
+Iteration: 402
+Temp: 84.24160575553593
+Current Distance: 11713.641188622632
+***
+Iteration: 403
+Temp: 84.07497838176907
+Current Distance: 11713.641188622632
+***
+Iteration: 404
+Temp: 83.90841961928356
+Current Distance: 11713.641188622632
+***
+Iteration: 405
+Temp: 83.74192924260609
+Current Distance: 11676.169844774731
+***
+Iteration: 406
+Temp: 83.57550702757989
+Current Distance: 11676.169844774731
+***
+Iteration: 407
+Temp: 83.40915275135374
+Current Distance: 11676.169844774731
+***
+Iteration: 408
+Temp: 83.24286619237112
+Current Distance: 11676.169844774731
+***
+Iteration: 409
+Temp: 83.07664713035943
+Current Distance: 11676.169844774731
+***
+Iteration: 410
+Temp: 82.91049534631937
+Current Distance: 11662.548810992093
+***
+Iteration: 411
+Temp: 82.7444106225144
+Current Distance: 11662.548810992093
+***
+Iteration: 412
+Temp: 82.57839274246035
+Current Distance: 11662.548810992093
+***
+Iteration: 413
+Temp: 82.41244149091514
+Current Distance: 11662.548810992093
+***
+Iteration: 414
+Temp: 82.24655665386854
+Current Distance: 11662.548810992093
+***
+Iteration: 415
+Temp: 82.08073801853212
+Current Distance: 11662.548810992093
+***
+Iteration: 416
+Temp: 81.91498537332927
+Current Distance: 11635.372710876776
+***
+Iteration: 417
+Temp: 81.74929850788536
+Current Distance: 11592.226270402212
+***
+Iteration: 418
+Temp: 81.5836772130179
+Current Distance: 11592.226270402212
+***
+Iteration: 419
+Temp: 81.41812128072701
+Current Distance: 11592.226270402212
+***
+Iteration: 420
+Temp: 81.25263050418572
+Current Distance: 11592.226270402212
+***
+Iteration: 421
+Temp: 81.0872046777306
+Current Distance: 11592.226270402212
+***
+Iteration: 422
+Temp: 80.92184359685237
+Current Distance: 11592.226270402212
+***
+Iteration: 423
+Temp: 80.75654705818665
+Current Distance: 11592.226270402212
+***
+Iteration: 424
+Temp: 80.5913148595048
+Current Distance: 11592.226270402212
+***
+Iteration: 425
+Temp: 80.42614679970482
+Current Distance: 11592.226270402212
+***
+Iteration: 426
+Temp: 80.2610426788024
+Current Distance: 11592.226270402212
+***
+Iteration: 427
+Temp: 80.09600229792201
+Current Distance: 11592.226270402212
+***
+Iteration: 428
+Temp: 79.93102545928816
+Current Distance: 11592.226270402212
+***
+Iteration: 429
+Temp: 79.76611196621666
+Current Distance: 11592.226270402212
+***
+Iteration: 430
+Temp: 79.60126162310598
+Current Distance: 11592.226270402212
+***
+Iteration: 431
+Temp: 79.43647423542882
+Current Distance: 11592.226270402212
+***
+Iteration: 432
+Temp: 79.27174960972356
+Current Distance: 11592.226270402212
+***
+Iteration: 433
+Temp: 79.10708755358598
+Current Distance: 11592.226270402212
+***
+Iteration: 434
+Temp: 78.942487875661
+Current Distance: 11592.226270402212
+***
+Iteration: 435
+Temp: 78.77795038563445
+Current Distance: 11592.226270402212
+***
+Iteration: 436
+Temp: 78.613474894225
+Current Distance: 11592.226270402212
+***
+Iteration: 437
+Temp: 78.44906121317614
+Current Distance: 11592.226270402212
+***
+Iteration: 438
+Temp: 78.28470915524824
+Current Distance: 11592.226270402212
+***
+Iteration: 439
+Temp: 78.1204185342107
+Current Distance: 11592.226270402212
+***
+Iteration: 440
+Temp: 77.95618916483417
+Current Distance: 11587.433465410631
+***
+Iteration: 441
+Temp: 77.79202086288285
+Current Distance: 11564.384412950849
+***
+Iteration: 442
+Temp: 77.62791344510686
+Current Distance: 11564.384412950849
+***
+Iteration: 443
+Temp: 77.46386672923467
+Current Distance: 11564.384412950849
+***
+Iteration: 444
+Temp: 77.29988053396569
+Current Distance: 11564.384412950849
+***
+Iteration: 445
+Temp: 77.13595467896283
+Current Distance: 11564.384412950849
+***
+Iteration: 446
+Temp: 76.97208898484519
+Current Distance: 11564.384412950849
+***
+Iteration: 447
+Temp: 76.80828327318075
+Current Distance: 11564.384412950849
+***
+Iteration: 448
+Temp: 76.64453736647927
+Current Distance: 11564.384412950849
+***
+Iteration: 449
+Temp: 76.48085108818516
+Current Distance: 11564.384412950849
+***
+Iteration: 450
+Temp: 76.3172242626704
+Current Distance: 11564.384412950849
+***
+Iteration: 451
+Temp: 76.15365671522758
+Current Distance: 11564.384412950849
+***
+Iteration: 452
+Temp: 75.99014827206304
+Current Distance: 11564.384412950849
+***
+Iteration: 453
+Temp: 75.82669876028997
+Current Distance: 11564.384412950849
+***
+Iteration: 454
+Temp: 75.6633080079217
+Current Distance: 11564.384412950849
+***
+Iteration: 455
+Temp: 75.49997584386493
+Current Distance: 11564.384412950849
+***
+Iteration: 456
+Temp: 75.33670209791315
+Current Distance: 11564.384412950849
+***
+Iteration: 457
+Temp: 75.17348660074
+Current Distance: 11564.384412950849
+***
+Iteration: 458
+Temp: 75.01032918389285
+Current Distance: 11564.384412950849
+***
+Iteration: 459
+Temp: 74.84722967978624
+Current Distance: 11564.384412950849
+***
+Iteration: 460
+Temp: 74.68418792169558
+Current Distance: 11559.36801872961
+***
+Iteration: 461
+Temp: 74.52120374375077
+Current Distance: 11559.36801872961
+***
+Iteration: 462
+Temp: 74.35827698092996
+Current Distance: 11540.94661708578
+***
+Iteration: 463
+Temp: 74.19540746905332
+Current Distance: 11540.94661708578
+***
+Iteration: 464
+Temp: 74.03259504477693
+Current Distance: 11539.48889275618
+***
+Iteration: 465
+Temp: 73.86983954558663
+Current Distance: 11539.48889275618
+***
+Iteration: 466
+Temp: 73.70714080979204
+Current Distance: 11539.48889275618
+***
+Iteration: 467
+Temp: 73.54449867652058
+Current Distance: 11539.48889275618
+***
+Iteration: 468
+Temp: 73.38191298571151
+Current Distance: 11539.48889275618
+***
+Iteration: 469
+Temp: 73.21938357811011
+Current Distance: 11539.48889275618
+***
+Iteration: 470
+Temp: 73.05691029526186
+Current Distance: 11539.48889275618
+***
+Iteration: 471
+Temp: 72.89449297950665
+Current Distance: 11539.48889275618
+***
+Iteration: 472
+Temp: 72.73213147397315
+Current Distance: 11539.48889275618
+***
+Iteration: 473
+Temp: 72.56982562257309
+Current Distance: 11539.48889275618
+***
+Iteration: 474
+Temp: 72.40757526999572
+Current Distance: 11539.48889275618
+***
+Iteration: 475
+Temp: 72.24538026170221
+Current Distance: 11539.48889275618
+***
+Iteration: 476
+Temp: 72.08324044392023
+Current Distance: 11539.48889275618
+***
+Iteration: 477
+Temp: 71.92115566363844
+Current Distance: 11529.20445861391
+***
+Iteration: 478
+Temp: 71.75912576860117
+Current Distance: 11529.20445861391
+***
+Iteration: 479
+Temp: 71.59715060730298
+Current Distance: 11529.20445861391
+***
+Iteration: 480
+Temp: 71.43523002898348
+Current Distance: 11529.20445861391
+***
+Iteration: 481
+Temp: 71.27336388362201
+Current Distance: 11529.20445861391
+***
+Iteration: 482
+Temp: 71.11155202193245
+Current Distance: 11529.20445861391
+***
+Iteration: 483
+Temp: 70.94979429535812
+Current Distance: 11529.20445861391
+***
+Iteration: 484
+Temp: 70.7880905560666
+Current Distance: 11529.20445861391
+***
+Iteration: 485
+Temp: 70.6264406569448
+Current Distance: 11529.20445861391
+***
+Iteration: 486
+Temp: 70.46484445159378
+Current Distance: 11529.20445861391
+***
+Iteration: 487
+Temp: 70.30330179432393
+Current Distance: 11519.956191372046
+***
+Iteration: 488
+Temp: 70.14181254014999
+Current Distance: 11519.956191372046
+***
+Iteration: 489
+Temp: 69.98037654478617
+Current Distance: 11519.956191372046
+***
+Iteration: 490
+Temp: 69.81899366464134
+Current Distance: 11519.956191372046
+***
+Iteration: 491
+Temp: 69.65766375681423
+Current Distance: 11519.956191372046
+***
+Iteration: 492
+Temp: 69.49638667908869
+Current Distance: 11460.373287119824
+***
+Iteration: 493
+Temp: 69.33516228992899
+Current Distance: 11460.373287119824
+***
+Iteration: 494
+Temp: 69.17399044847514
+Current Distance: 11460.373287119824
+***
+Iteration: 495
+Temp: 69.01287101453829
+Current Distance: 11460.373287119824
+***
+Iteration: 496
+Temp: 68.85180384859615
+Current Distance: 11460.373287119824
+***
+Iteration: 497
+Temp: 68.69078881178845
+Current Distance: 11460.373287119824
+***
+Iteration: 498
+Temp: 68.52982576591245
+Current Distance: 11460.373287119824
+***
+Iteration: 499
+Temp: 68.36891457341845
+Current Distance: 11460.373287119824
+***
+Iteration: 500
+Temp: 68.2080550974054
+Current Distance: 11460.373287119824
+***
+Iteration: 501
+Temp: 68.04724720161654
+Current Distance: 11460.373287119824
+***
+Iteration: 502
+Temp: 67.886490750435
+Current Distance: 11460.373287119824
+***
+Iteration: 503
+Temp: 67.72578560887955
+Current Distance: 11460.373287119824
+***
+Iteration: 504
+Temp: 67.5651316426003
+Current Distance: 11460.373287119824
+***
+Iteration: 505
+Temp: 67.40452871787451
+Current Distance: 11460.373287119824
+***
+Iteration: 506
+Temp: 67.24397670160234
+Current Distance: 11460.373287119824
+***
+Iteration: 507
+Temp: 67.08347546130274
+Current Distance: 11460.373287119824
+***
+Iteration: 508
+Temp: 66.92302486510933
+Current Distance: 11460.373287119824
+***
+Iteration: 509
+Temp: 66.76262478176628
+Current Distance: 11460.373287119824
+***
+Iteration: 510
+Temp: 66.60227508062431
+Current Distance: 11460.373287119824
+***
+Iteration: 511
+Temp: 66.44197563163665
+Current Distance: 11460.373287119824
+***
+Iteration: 512
+Temp: 66.28172630535505
+Current Distance: 11460.373287119824
+***
+Iteration: 513
+Temp: 66.12152697292584
+Current Distance: 11460.373287119824
+***
+Iteration: 514
+Temp: 65.96137750608604
+Current Distance: 11460.373287119824
+***
+Iteration: 515
+Temp: 65.80127777715947
+Current Distance: 11460.373287119824
+***
+Iteration: 516
+Temp: 65.6412276590529
+Current Distance: 11460.373287119824
+***
+Iteration: 517
+Temp: 65.48122702525224
+Current Distance: 11460.373287119824
+***
+Iteration: 518
+Temp: 65.32127574981874
+Current Distance: 11460.373287119824
+***
+Iteration: 519
+Temp: 65.1613737073853
+Current Distance: 11460.373287119824
+***
+Iteration: 520
+Temp: 65.00152077315269
+Current Distance: 11460.373287119824
+***
+Iteration: 521
+Temp: 64.84171682288591
+Current Distance: 11460.373287119824
+***
+Iteration: 522
+Temp: 64.68196173291052
+Current Distance: 11460.373287119824
+***
+Iteration: 523
+Temp: 64.522255380109
+Current Distance: 11460.373287119824
+***
+Iteration: 524
+Temp: 64.36259764191718
+Current Distance: 11460.373287119824
+***
+Iteration: 525
+Temp: 64.20298839632066
+Current Distance: 11460.373287119824
+***
+Iteration: 526
+Temp: 64.04342752185133
+Current Distance: 11460.373287119824
+***
+Iteration: 527
+Temp: 63.883914897583765
+Current Distance: 11460.373287119824
+***
+Iteration: 528
+Temp: 63.72445040313186
+Current Distance: 11460.373287119824
+***
+Iteration: 529
+Temp: 63.56503391864533
+Current Distance: 11460.373287119824
+***
+Iteration: 530
+Temp: 63.40566532480628
+Current Distance: 11460.373287119824
+***
+Iteration: 531
+Temp: 63.246344502825856
+Current Distance: 11460.373287119824
+***
+Iteration: 532
+Temp: 63.08707133444086
+Current Distance: 11460.373287119824
+***
+Iteration: 533
+Temp: 62.927845701910414
+Current Distance: 11460.373287119824
+***
+Iteration: 534
+Temp: 62.76866748801269
+Current Distance: 11460.373287119824
+***
+Iteration: 535
+Temp: 62.60953657604158
+Current Distance: 11460.373287119824
+***
+Iteration: 536
+Temp: 62.45045284980349
+Current Distance: 11460.373287119824
+***
+Iteration: 537
+Temp: 62.2914161936141
+Current Distance: 11460.373287119824
+***
+Iteration: 538
+Temp: 62.132426492295146
+Current Distance: 11460.373287119824
+***
+Iteration: 539
+Temp: 61.973483631171284
+Current Distance: 11460.373287119824
+***
+Iteration: 540
+Temp: 61.81458749606692
+Current Distance: 11460.373287119824
+***
+Iteration: 541
+Temp: 61.6557379733031
+Current Distance: 11460.373287119824
+***
+Iteration: 542
+Temp: 61.4969349496944
+Current Distance: 11460.373287119824
+***
+Iteration: 543
+Temp: 61.338178312545885
+Current Distance: 11460.373287119824
+***
+Iteration: 544
+Temp: 61.17946794965004
+Current Distance: 11460.373287119824
+***
+Iteration: 545
+Temp: 61.02080374928374
+Current Distance: 11460.373287119824
+***
+Iteration: 546
+Temp: 60.8621856002053
+Current Distance: 11460.373287119824
+***
+Iteration: 547
+Temp: 60.70361339165144
+Current Distance: 11460.373287119824
+***
+Iteration: 548
+Temp: 60.545087013334374
+Current Distance: 11460.373287119824
+***
+Iteration: 549
+Temp: 60.3866063554389
+Current Distance: 11460.373287119824
+***
+Iteration: 550
+Temp: 60.228171308619466
+Current Distance: 11460.373287119824
+***
+Iteration: 551
+Temp: 60.0697817639973
+Current Distance: 11460.373287119824
+***
+Iteration: 552
+Temp: 59.91143761315756
+Current Distance: 11460.373287119824
+***
+Iteration: 553
+Temp: 59.753138748146505
+Current Distance: 11460.373287119824
+***
+Iteration: 554
+Temp: 59.59488506146868
+Current Distance: 11460.373287119824
+***
+Iteration: 555
+Temp: 59.43667644608412
+Current Distance: 11460.373287119824
+***
+Iteration: 556
+Temp: 59.278512795405604
+Current Distance: 11460.373287119824
+***
+Iteration: 557
+Temp: 59.120394003295885
+Current Distance: 11460.373287119824
+***
+Iteration: 558
+Temp: 58.962319964064996
+Current Distance: 11460.373287119824
+***
+Iteration: 559
+Temp: 58.80429057246752
+Current Distance: 11460.373287119824
+***
+Iteration: 560
+Temp: 58.64630572369994
+Current Distance: 11460.373287119824
+***
+Iteration: 561
+Temp: 58.48836531339795
+Current Distance: 11460.373287119824
+***
+Iteration: 562
+Temp: 58.33046923763384
+Current Distance: 11460.373287119824
+***
+Iteration: 563
+Temp: 58.17261739291388
+Current Distance: 11460.373287119824
+***
+Iteration: 564
+Temp: 58.014809676175695
+Current Distance: 11460.373287119824
+***
+Iteration: 565
+Temp: 57.857045984785714
+Current Distance: 11460.373287119824
+***
+Iteration: 566
+Temp: 57.69932621653661
+Current Distance: 11448.483523769472
+***
+Iteration: 567
+Temp: 57.541650269644755
+Current Distance: 11448.483523769472
+***
+Iteration: 568
+Temp: 57.3840180427477
+Current Distance: 11448.483523769472
+***
+Iteration: 569
+Temp: 57.22642943490169
+Current Distance: 11426.979161767762
+***
+Iteration: 570
+Temp: 57.06888434557918
+Current Distance: 11426.979161767762
+***
+Iteration: 571
+Temp: 56.91138267466637
+Current Distance: 11426.979161767762
+***
+Iteration: 572
+Temp: 56.75392432246077
+Current Distance: 11426.979161767762
+***
+Iteration: 573
+Temp: 56.59650918966877
+Current Distance: 11426.979161767762
+***
+Iteration: 574
+Temp: 56.43913717740325
+Current Distance: 11426.979161767762
+***
+Iteration: 575
+Temp: 56.28180818718119
+Current Distance: 11426.979161767762
+***
+Iteration: 576
+Temp: 56.12452212092129
+Current Distance: 11426.979161767762
+***
+Iteration: 577
+Temp: 55.967278880941635
+Current Distance: 11426.979161767762
+***
+Iteration: 578
+Temp: 55.81007836995736
+Current Distance: 11426.979161767762
+***
+Iteration: 579
+Temp: 55.65292049107834
+Current Distance: 11426.979161767762
+***
+Iteration: 580
+Temp: 55.49580514780689
+Current Distance: 11426.979161767762
+***
+Iteration: 581
+Temp: 55.33873224403549
+Current Distance: 11426.979161767762
+***
+Iteration: 582
+Temp: 55.18170168404451
+Current Distance: 11426.979161767762
+***
+Iteration: 583
+Temp: 55.02471337249999
+Current Distance: 11426.979161767762
+***
+Iteration: 584
+Temp: 54.86776721445138
+Current Distance: 11426.979161767762
+***
+Iteration: 585
+Temp: 54.71086311532938
+Current Distance: 11426.979161767762
+***
+Iteration: 586
+Temp: 54.55400098094369
+Current Distance: 11426.979161767762
+***
+Iteration: 587
+Temp: 54.39718071748086
+Current Distance: 11426.979161767762
+***
+Iteration: 588
+Temp: 54.240402231502124
+Current Distance: 11426.979161767762
+***
+Iteration: 589
+Temp: 54.08366542994127
+Current Distance: 11426.979161767762
+***
+Iteration: 590
+Temp: 53.92697022010248
+Current Distance: 11426.979161767762
+***
+Iteration: 591
+Temp: 53.770316509658244
+Current Distance: 11426.979161767762
+***
+Iteration: 592
+Temp: 53.61370420664724
+Current Distance: 11426.979161767762
+***
+Iteration: 593
+Temp: 53.457133219472276
+Current Distance: 11426.979161767762
+***
+Iteration: 594
+Temp: 53.300603456898195
+Current Distance: 11426.979161767762
+***
+Iteration: 595
+Temp: 53.14411482804985
+Current Distance: 11426.979161767762
+***
+Iteration: 596
+Temp: 52.98766724241005
+Current Distance: 11426.979161767762
+***
+Iteration: 597
+Temp: 52.83126060981754
+Current Distance: 11426.979161767762
+***
+Iteration: 598
+Temp: 52.674894840465015
+Current Distance: 11426.979161767762
+***
+Iteration: 599
+Temp: 52.51856984489709
+Current Distance: 11426.979161767762
+***
+Iteration: 600
+Temp: 52.36228553400835
+Current Distance: 11426.979161767762
+***
+Iteration: 601
+Temp: 52.20604181904139
+Current Distance: 11426.979161767762
+***
+Iteration: 602
+Temp: 52.049838611584846
+Current Distance: 11426.979161767762
+***
+Iteration: 603
+Temp: 51.89367582357147
+Current Distance: 11426.979161767762
+***
+Iteration: 604
+Temp: 51.73755336727622
+Current Distance: 11426.979161767762
+***
+Iteration: 605
+Temp: 51.58147115531434
+Current Distance: 11426.979161767762
+***
+Iteration: 606
+Temp: 51.42542910063947
+Current Distance: 11426.979161767762
+***
+Iteration: 607
+Temp: 51.26942711654176
+Current Distance: 11426.979161767762
+***
+Iteration: 608
+Temp: 51.11346511664603
+Current Distance: 11426.979161767762
+***
+Iteration: 609
+Temp: 50.957543014909895
+Current Distance: 11426.979161767762
+***
+Iteration: 610
+Temp: 50.80166072562192
+Current Distance: 11426.979161767762
+***
+Iteration: 611
+Temp: 50.64581816339982
+Current Distance: 11426.979161767762
+***
+Iteration: 612
+Temp: 50.49001524318862
+Current Distance: 11426.979161767762
+***
+Iteration: 613
+Temp: 50.3342518802589
+Current Distance: 11426.979161767762
+***
+Iteration: 614
+Temp: 50.178527990204934
+Current Distance: 11426.979161767762
+***
+Iteration: 615
+Temp: 50.02284348894299
+Current Distance: 11426.979161767762
+***
+Iteration: 616
+Temp: 49.86719829270953
+Current Distance: 11426.979161767762
+***
+Iteration: 617
+Temp: 49.71159231805948
+Current Distance: 11426.979161767762
+***
+Iteration: 618
+Temp: 49.556025481864474
+Current Distance: 11426.979161767762
+***
+Iteration: 619
+Temp: 49.40049770131113
+Current Distance: 11426.979161767762
+***
+Iteration: 620
+Temp: 49.245008893899374
+Current Distance: 11426.979161767762
+***
+Iteration: 621
+Temp: 49.089558977440696
+Current Distance: 11426.979161767762
+***
+Iteration: 622
+Temp: 48.93414787005648
+Current Distance: 11426.979161767762
+***
+Iteration: 623
+Temp: 48.778775490176336
+Current Distance: 11426.979161767762
+***
+Iteration: 624
+Temp: 48.62344175653644
+Current Distance: 11426.979161767762
+***
+Iteration: 625
+Temp: 48.46814658817784
+Current Distance: 11426.979161767762
+***
+Iteration: 626
+Temp: 48.31288990444487
+Current Distance: 11426.979161767762
+***
+Iteration: 627
+Temp: 48.1576716249835
+Current Distance: 11426.979161767762
+***
+Iteration: 628
+Temp: 48.00249166973969
+Current Distance: 11426.979161767762
+***
+Iteration: 629
+Temp: 47.847349958957835
+Current Distance: 11295.159149308362
+***
+Iteration: 630
+Temp: 47.69224641317913
+Current Distance: 11295.159149308362
+***
+Iteration: 631
+Temp: 47.53718095323999
+Current Distance: 11295.159149308362
+***
+Iteration: 632
+Temp: 47.382153500270505
+Current Distance: 11295.159149308362
+***
+Iteration: 633
+Temp: 47.22716397569285
+Current Distance: 11295.159149308362
+***
+Iteration: 634
+Temp: 47.07221230121973
+Current Distance: 11295.159149308362
+***
+Iteration: 635
+Temp: 46.917298398852864
+Current Distance: 11295.159149308362
+***
+Iteration: 636
+Temp: 46.76242219088144
+Current Distance: 11295.159149308362
+***
+Iteration: 637
+Temp: 46.607583599880584
+Current Distance: 11295.159149308362
+***
+Iteration: 638
+Temp: 46.45278254870988
+Current Distance: 11270.079189210039
+***
+Iteration: 639
+Temp: 46.298018960511826
+Current Distance: 11270.079189210039
+***
+Iteration: 640
+Temp: 46.14329275871041
+Current Distance: 11270.079189210039
+***
+Iteration: 641
+Temp: 45.98860386700957
+Current Distance: 11270.079189210039
+***
+Iteration: 642
+Temp: 45.83395220939176
+Current Distance: 11270.079189210039
+***
+Iteration: 643
+Temp: 45.67933771011648
+Current Distance: 11270.079189210039
+***
+Iteration: 644
+Temp: 45.52476029371882
+Current Distance: 11270.079189210039
+***
+Iteration: 645
+Temp: 45.370219885008055
+Current Distance: 11270.079189210039
+***
+Iteration: 646
+Temp: 45.21571640906617
+Current Distance: 11270.079189210039
+***
+Iteration: 647
+Temp: 45.06124979124646
+Current Distance: 11270.079189210039
+***
+Iteration: 648
+Temp: 44.90681995717215
+Current Distance: 11270.079189210039
+***
+Iteration: 649
+Temp: 44.75242683273493
+Current Distance: 11270.079189210039
+***
+Iteration: 650
+Temp: 44.59807034409365
+Current Distance: 11270.079189210039
+***
+Iteration: 651
+Temp: 44.44375041767285
+Current Distance: 11270.079189210039
+***
+Iteration: 652
+Temp: 44.28946698016146
+Current Distance: 11270.079189210039
+***
+Iteration: 653
+Temp: 44.13521995851138
+Current Distance: 11270.079189210039
+***
+Iteration: 654
+Temp: 43.981009279936174
+Current Distance: 11270.079189210039
+***
+Iteration: 655
+Temp: 43.826834871909696
+Current Distance: 11270.079189210039
+***
+Iteration: 656
+Temp: 43.67269666216477
+Current Distance: 11270.079189210039
+***
+Iteration: 657
+Temp: 43.51859457869185
+Current Distance: 11270.079189210039
+***
+Iteration: 658
+Temp: 43.364528549737706
+Current Distance: 11270.079189210039
+***
+Iteration: 659
+Temp: 43.21049850380413
+Current Distance: 11270.079189210039
+***
+Iteration: 660
+Temp: 43.05650436964662
+Current Distance: 11270.079189210039
+***
+Iteration: 661
+Temp: 42.902546076273076
+Current Distance: 11270.079189210039
+***
+Iteration: 662
+Temp: 42.74862355294256
+Current Distance: 11270.079189210039
+***
+Iteration: 663
+Temp: 42.59473672916398
+Current Distance: 11267.083755422338
+***
+Iteration: 664
+Temp: 42.44088553469483
+Current Distance: 11267.083755422338
+***
+Iteration: 665
+Temp: 42.28706989953995
+Current Distance: 11194.1495684591
+***
+Iteration: 666
+Temp: 42.13328975395027
+Current Distance: 11194.1495684591
+***
+Iteration: 667
+Temp: 41.97954502842157
+Current Distance: 11194.1495684591
+***
+Iteration: 668
+Temp: 41.82583565369322
+Current Distance: 11194.1495684591
+***
+Iteration: 669
+Temp: 41.672161560746986
+Current Distance: 11194.1495684591
+***
+Iteration: 670
+Temp: 41.518522680805816
+Current Distance: 11194.1495684591
+***
+Iteration: 671
+Temp: 41.364918945332604
+Current Distance: 11194.1495684591
+***
+Iteration: 672
+Temp: 41.21135028602901
+Current Distance: 11194.1495684591
+***
+Iteration: 673
+Temp: 41.05781663483425
+Current Distance: 11194.1495684591
+***
+Iteration: 674
+Temp: 40.90431792392394
+Current Distance: 11194.1495684591
+***
+Iteration: 675
+Temp: 40.75085408570887
+Current Distance: 11194.1495684591
+***
+Iteration: 676
+Temp: 40.59742505283389
+Current Distance: 11194.1495684591
+***
+Iteration: 677
+Temp: 40.444030758176694
+Current Distance: 11194.1495684591
+***
+Iteration: 678
+Temp: 40.290671134846704
+Current Distance: 11194.1495684591
+***
+Iteration: 679
+Temp: 40.1373461161839
+Current Distance: 11194.1495684591
+***
+Iteration: 680
+Temp: 39.984055635757684
+Current Distance: 11194.1495684591
+***
+Iteration: 681
+Temp: 39.830799627365764
+Current Distance: 11194.1495684591
+***
+Iteration: 682
+Temp: 39.677578025033
+Current Distance: 11194.1495684591
+***
+Iteration: 683
+Temp: 39.5243907630103
+Current Distance: 11194.1495684591
+***
+Iteration: 684
+Temp: 39.371237775773515
+Current Distance: 11194.1495684591
+***
+Iteration: 685
+Temp: 39.21811899802232
+Current Distance: 11194.1495684591
+***
+Iteration: 686
+Temp: 39.06503436467913
+Current Distance: 11194.1495684591
+***
+Iteration: 687
+Temp: 38.911983810887996
+Current Distance: 11194.1495684591
+***
+Iteration: 688
+Temp: 38.75896727201354
+Current Distance: 11194.1495684591
+***
+Iteration: 689
+Temp: 38.60598468363986
+Current Distance: 11194.1495684591
+***
+Iteration: 690
+Temp: 38.45303598156947
+Current Distance: 11194.1495684591
+***
+Iteration: 691
+Temp: 38.300121101822235
+Current Distance: 11194.1495684591
+***
+Iteration: 692
+Temp: 38.14723998063431
+Current Distance: 11194.1495684591
+***
+Iteration: 693
+Temp: 37.99439255445711
+Current Distance: 11194.1495684591
+***
+Iteration: 694
+Temp: 37.84157875995623
+Current Distance: 11194.1495684591
+***
+Iteration: 695
+Temp: 37.68879853401045
+Current Distance: 11194.1495684591
+***
+Iteration: 696
+Temp: 37.53605181371069
+Current Distance: 11194.1495684591
+***
+Iteration: 697
+Temp: 37.38333853635897
+Current Distance: 11194.1495684591
+***
+Iteration: 698
+Temp: 37.23065863946741
+Current Distance: 11194.1495684591
+***
+Iteration: 699
+Temp: 37.07801206075722
+Current Distance: 11194.1495684591
+***
+Iteration: 700
+Temp: 36.92539873815768
+Current Distance: 11194.1495684591
+***
+Iteration: 701
+Temp: 36.77281860980518
+Current Distance: 11194.1495684591
+***
+Iteration: 702
+Temp: 36.620271614042174
+Current Distance: 11194.1495684591
+***
+Iteration: 703
+Temp: 36.467757689416246
+Current Distance: 11194.1495684591
+***
+Iteration: 704
+Temp: 36.31527677467909
+Current Distance: 11194.1495684591
+***
+Iteration: 705
+Temp: 36.16282880878557
+Current Distance: 11194.1495684591
+***
+Iteration: 706
+Temp: 36.01041373089272
+Current Distance: 11194.1495684591
+***
+Iteration: 707
+Temp: 35.85803148035881
+Current Distance: 11194.1495684591
+***
+Iteration: 708
+Temp: 35.705681996742385
+Current Distance: 11194.1495684591
+***
+Iteration: 709
+Temp: 35.5533652198013
+Current Distance: 11194.1495684591
+***
+Iteration: 710
+Temp: 35.4010810894918
+Current Distance: 11194.1495684591
+***
+Iteration: 711
+Temp: 35.248829545967546
+Current Distance: 11194.1495684591
+***
+Iteration: 712
+Temp: 35.09661052957874
+Current Distance: 11194.1495684591
+***
+Iteration: 713
+Temp: 34.94442398087114
+Current Distance: 11194.1495684591
+***
+Iteration: 714
+Temp: 34.792269840585185
+Current Distance: 11194.1495684591
+***
+Iteration: 715
+Temp: 34.640148049655046
+Current Distance: 11194.1495684591
+***
+Iteration: 716
+Temp: 34.48805854920773
+Current Distance: 11194.1495684591
+***
+Iteration: 717
+Temp: 34.336001280562186
+Current Distance: 11194.1495684591
+***
+Iteration: 718
+Temp: 34.183976185228396
+Current Distance: 11194.1495684591
+***
+Iteration: 719
+Temp: 34.03198320490648
+Current Distance: 11194.1495684591
+***
+Iteration: 720
+Temp: 33.880022281485815
+Current Distance: 11194.1495684591
+***
+Iteration: 721
+Temp: 33.728093357044145
+Current Distance: 11194.1495684591
+***
+Iteration: 722
+Temp: 33.57619637384672
+Current Distance: 11194.1495684591
+***
+Iteration: 723
+Temp: 33.42433127434541
+Current Distance: 11194.1495684591
+***
+Iteration: 724
+Temp: 33.27249800117785
+Current Distance: 11194.1495684591
+***
+Iteration: 725
+Temp: 33.12069649716656
+Current Distance: 11194.1495684591
+***
+Iteration: 726
+Temp: 32.96892670531811
+Current Distance: 11194.1495684591
+***
+Iteration: 727
+Temp: 32.81718856882226
+Current Distance: 11194.1495684591
+***
+Iteration: 728
+Temp: 32.66548203105112
+Current Distance: 11194.1495684591
+***
+Iteration: 729
+Temp: 32.5138070355583
+Current Distance: 11194.1495684591
+***
+Iteration: 730
+Temp: 32.36216352607809
+Current Distance: 11194.1495684591
+***
+Iteration: 731
+Temp: 32.21055144652461
+Current Distance: 11164.33771204657
+***
+Iteration: 732
+Temp: 32.058970740991
+Current Distance: 11164.33771204657
+***
+Iteration: 733
+Temp: 31.907421353748596
+Current Distance: 11164.33771204657
+***
+Iteration: 734
+Temp: 31.755903229246112
+Current Distance: 11164.33771204657
+***
+Iteration: 735
+Temp: 31.60441631210883
+Current Distance: 11164.33771204657
+***
+Iteration: 736
+Temp: 31.452960547137803
+Current Distance: 11164.33771204657
+***
+Iteration: 737
+Temp: 31.30153587930903
+Current Distance: 11164.33771204657
+***
+Iteration: 738
+Temp: 31.15014225377269
+Current Distance: 11164.33771204657
+***
+Iteration: 739
+Temp: 30.998779615852328
+Current Distance: 11164.33771204657
+***
+Iteration: 740
+Temp: 30.847447911044085
+Current Distance: 11164.33771204657
+***
+Iteration: 741
+Temp: 30.696147085015898
+Current Distance: 11164.33771204657
+***
+Iteration: 742
+Temp: 30.544877083606735
+Current Distance: 11164.33771204657
+***
+Iteration: 743
+Temp: 30.393637852825822
+Current Distance: 11164.33771204657
+***
+Iteration: 744
+Temp: 30.242429338851863
+Current Distance: 11164.33771204657
+***
+Iteration: 745
+Temp: 30.09125148803229
+Current Distance: 11164.33771204657
+***
+Iteration: 746
+Temp: 29.940104246882502
+Current Distance: 11164.33771204657
+***
+Iteration: 747
+Temp: 29.788987562085094
+Current Distance: 11164.33771204657
+***
+Iteration: 748
+Temp: 29.637901380489126
+Current Distance: 11164.33771204657
+***
+Iteration: 749
+Temp: 29.486845649109366
+Current Distance: 11164.33771204657
+***
+Iteration: 750
+Temp: 29.335820315125552
+Current Distance: 11164.33771204657
+***
+Iteration: 751
+Temp: 29.18482532588165
+Current Distance: 11154.737586213616
+***
+Iteration: 752
+Temp: 29.03386062888513
+Current Distance: 11154.737586213616
+***
+Iteration: 753
+Temp: 28.882926171806226
+Current Distance: 11154.737586213616
+***
+Iteration: 754
+Temp: 28.732021902477218
+Current Distance: 11154.737586213616
+***
+Iteration: 755
+Temp: 28.581147768891707
+Current Distance: 11154.737586213616
+***
+Iteration: 756
+Temp: 28.430303719203906
+Current Distance: 11154.737586213616
+***
+Iteration: 757
+Temp: 28.27948970172792
+Current Distance: 11154.737586213616
+***
+Iteration: 758
+Temp: 28.12870566493704
+Current Distance: 11154.737586213616
+***
+Iteration: 759
+Temp: 27.977951557463044
+Current Distance: 11064.401719803644
+***
+Iteration: 760
+Temp: 27.827227328095486
+Current Distance: 11064.401719803644
+***
+Iteration: 761
+Temp: 27.67653292578101
+Current Distance: 11064.401719803644
+***
+Iteration: 762
+Temp: 27.52586829962266
+Current Distance: 11064.401719803644
+***
+Iteration: 763
+Temp: 27.37523339887917
+Current Distance: 11064.401719803644
+***
+Iteration: 764
+Temp: 27.22462817296432
+Current Distance: 11064.401719803644
+***
+Iteration: 765
+Temp: 27.074052571446217
+Current Distance: 11064.401719803644
+***
+Iteration: 766
+Temp: 26.923506544046635
+Current Distance: 11064.401719803644
+***
+Iteration: 767
+Temp: 26.772990040640344
+Current Distance: 11064.401719803644
+***
+Iteration: 768
+Temp: 26.62250301125444
+Current Distance: 11064.401719803644
+***
+Iteration: 769
+Temp: 26.47204540606768
+Current Distance: 11064.401719803644
+***
+Iteration: 770
+Temp: 26.321617175409813
+Current Distance: 11064.401719803644
+***
+Iteration: 771
+Temp: 26.17121826976094
+Current Distance: 11064.401719803644
+***
+Iteration: 772
+Temp: 26.02084863975084
+Current Distance: 11064.401719803644
+***
+Iteration: 773
+Temp: 25.87050823615834
+Current Distance: 11064.401719803644
+***
+Iteration: 774
+Temp: 25.720197009910652
+Current Distance: 11064.401719803644
+***
+Iteration: 775
+Temp: 25.569914912082744
+Current Distance: 11064.401719803644
+***
+Iteration: 776
+Temp: 25.419661893896688
+Current Distance: 11064.401719803644
+***
+Iteration: 777
+Temp: 25.269437906721034
+Current Distance: 11064.401719803644
+***
+Iteration: 778
+Temp: 25.11924290207018
+Current Distance: 11064.401719803644
+***
+Iteration: 779
+Temp: 24.969076831603733
+Current Distance: 11064.401719803644
+***
+Iteration: 780
+Temp: 24.81893964712589
+Current Distance: 11064.401719803644
+***
+Iteration: 781
+Temp: 24.668831300584827
+Current Distance: 11064.401719803644
+***
+Iteration: 782
+Temp: 24.518751744072063
+Current Distance: 11064.401719803644
+***
+Iteration: 783
+Temp: 24.368700929821856
+Current Distance: 11064.401719803644
+***
+Iteration: 784
+Temp: 24.218678810210594
+Current Distance: 11064.401719803644
+***
+Iteration: 785
+Temp: 24.06868533775618
+Current Distance: 11064.401719803644
+***
+Iteration: 786
+Temp: 23.918720465117435
+Current Distance: 11064.401719803644
+***
+Iteration: 787
+Temp: 23.76878414509349
+Current Distance: 11064.401719803644
+***
+Iteration: 788
+Temp: 23.618876330623205
+Current Distance: 11064.401719803644
+***
+Iteration: 789
+Temp: 23.46899697478455
+Current Distance: 11064.401719803644
+***
+Iteration: 790
+Temp: 23.31914603079403
+Current Distance: 11064.401719803644
+***
+Iteration: 791
+Temp: 23.1693234520061
+Current Distance: 11064.401719803644
+***
+Iteration: 792
+Temp: 23.01952919191257
+Current Distance: 11064.401719803644
+***
+Iteration: 793
+Temp: 22.869763204142032
+Current Distance: 11064.401719803644
+***
+Iteration: 794
+Temp: 22.720025442459278
+Current Distance: 11064.401719803644
+***
+Iteration: 795
+Temp: 22.57031586076473
+Current Distance: 11064.401719803644
+***
+Iteration: 796
+Temp: 22.420634413093865
+Current Distance: 11064.401719803644
+***
+Iteration: 797
+Temp: 22.27098105361664
+Current Distance: 11064.401719803644
+***
+Iteration: 798
+Temp: 22.121355736636946
+Current Distance: 11064.401719803644
+***
+Iteration: 799
+Temp: 21.97175841659202
+Current Distance: 10933.242418531514
+***
+Iteration: 800
+Temp: 21.82218904805191
+Current Distance: 10933.242418531514
+***
+Iteration: 801
+Temp: 21.672647585718902
+Current Distance: 10933.242418531514
+***
+Iteration: 802
+Temp: 21.523133984426977
+Current Distance: 10933.242418531514
+***
+Iteration: 803
+Temp: 21.373648199141257
+Current Distance: 10933.242418531514
+***
+Iteration: 804
+Temp: 21.224190184957457
+Current Distance: 10933.242418531514
+***
+Iteration: 805
+Temp: 21.07475989710134
+Current Distance: 10933.242418531514
+***
+Iteration: 806
+Temp: 20.925357290928186
+Current Distance: 10930.157516940595
+***
+Iteration: 807
+Temp: 20.775982321922235
+Current Distance: 10930.157516940595
+***
+Iteration: 808
+Temp: 20.62663494569617
+Current Distance: 10930.157516940595
+***
+Iteration: 809
+Temp: 20.47731511799058
+Current Distance: 10903.05027859687
+***
+Iteration: 810
+Temp: 20.328022794673423
+Current Distance: 10903.05027859687
+***
+Iteration: 811
+Temp: 20.1787579317395
+Current Distance: 10903.05027859687
+***
+Iteration: 812
+Temp: 20.029520485309945
+Current Distance: 10903.05027859687
+***
+Iteration: 813
+Temp: 19.880310411631687
+Current Distance: 10903.05027859687
+***
+Iteration: 814
+Temp: 19.731127667076944
+Current Distance: 10903.05027859687
+***
+Iteration: 815
+Temp: 19.5819722081427
+Current Distance: 10903.05027859687
+***
+Iteration: 816
+Temp: 19.4328439914502
+Current Distance: 10903.05027859687
+***
+Iteration: 817
+Temp: 19.283742973744424
+Current Distance: 10903.05027859687
+***
+Iteration: 818
+Temp: 19.134669111893604
+Current Distance: 10903.05027859687
+***
+Iteration: 819
+Temp: 18.985622362888698
+Current Distance: 10903.05027859687
+***
+Iteration: 820
+Temp: 18.8366026838429
+Current Distance: 10903.05027859687
+***
+Iteration: 821
+Temp: 18.68761003199114
+Current Distance: 10903.05027859687
+***
+Iteration: 822
+Temp: 18.53864436468958
+Current Distance: 10903.05027859687
+***
+Iteration: 823
+Temp: 18.38970563941513
+Current Distance: 10903.05027859687
+***
+Iteration: 824
+Temp: 18.24079381376495
+Current Distance: 10903.05027859687
+***
+Iteration: 825
+Temp: 18.091908845455958
+Current Distance: 10903.05027859687
+***
+Iteration: 826
+Temp: 17.94305069232436
+Current Distance: 10903.05027859687
+***
+Iteration: 827
+Temp: 17.79421931232515
+Current Distance: 10903.05027859687
+***
+Iteration: 828
+Temp: 17.645414663531636
+Current Distance: 10903.05027859687
+***
+Iteration: 829
+Temp: 17.49663670413496
+Current Distance: 10903.05027859687
+***
+Iteration: 830
+Temp: 17.347885392443626
+Current Distance: 10903.05027859687
+***
+Iteration: 831
+Temp: 17.19916068688302
+Current Distance: 10903.05027859687
+***
+Iteration: 832
+Temp: 17.05046254599494
+Current Distance: 10903.05027859687
+***
+Iteration: 833
+Temp: 16.901790928437137
+Current Distance: 10903.05027859687
+***
+Iteration: 834
+Temp: 16.75314579298284
+Current Distance: 10903.05027859687
+***
+Iteration: 835
+Temp: 16.60452709852029
+Current Distance: 10903.05027859687
+***
+Iteration: 836
+Temp: 16.45593480405229
+Current Distance: 10903.05027859687
+***
+Iteration: 837
+Temp: 16.30736886869574
+Current Distance: 10903.05027859687
+***
+Iteration: 838
+Temp: 16.158829251681173
+Current Distance: 10903.05027859687
+***
+Iteration: 839
+Temp: 16.01031591235232
+Current Distance: 10903.05027859687
+***
+Iteration: 840
+Temp: 15.861828810165633
+Current Distance: 10903.05027859687
+***
+Iteration: 841
+Temp: 15.713367904689864
+Current Distance: 10903.05027859687
+***
+Iteration: 842
+Temp: 15.564933155605598
+Current Distance: 10903.05027859687
+***
+Iteration: 843
+Temp: 15.416524522704812
+Current Distance: 10903.05027859687
+***
+Iteration: 844
+Temp: 15.26814196589044
+Current Distance: 10903.05027859687
+***
+Iteration: 845
+Temp: 15.119785445175927
+Current Distance: 10903.05027859687
+***
+Iteration: 846
+Temp: 14.97145492068479
+Current Distance: 10903.05027859687
+***
+Iteration: 847
+Temp: 14.823150352650188
+Current Distance: 10903.05027859687
+***
+Iteration: 848
+Temp: 14.674871701414485
+Current Distance: 10903.05027859687
+***
+Iteration: 849
+Temp: 14.526618927428819
+Current Distance: 10903.05027859687
+***
+Iteration: 850
+Temp: 14.378391991252677
+Current Distance: 10903.05027859687
+***
+Iteration: 851
+Temp: 14.230190853553461
+Current Distance: 10903.05027859687
+***
+Iteration: 852
+Temp: 14.082015475106074
+Current Distance: 10903.05027859687
+***
+Iteration: 853
+Temp: 13.933865816792487
+Current Distance: 10903.05027859687
+***
+Iteration: 854
+Temp: 13.785741839601327
+Current Distance: 10903.05027859687
+***
+Iteration: 855
+Temp: 13.637643504627453
+Current Distance: 10903.05027859687
+***
+Iteration: 856
+Temp: 13.489570773071549
+Current Distance: 10903.05027859687
+***
+Iteration: 857
+Temp: 13.341523606239697
+Current Distance: 10903.05027859687
+***
+Iteration: 858
+Temp: 13.19350196554298
+Current Distance: 10903.05027859687
+***
+Iteration: 859
+Temp: 13.045505812497062
+Current Distance: 10903.05027859687
+***
+Iteration: 860
+Temp: 12.897535108721785
+Current Distance: 10903.05027859687
+***
+Iteration: 861
+Temp: 12.749589815940764
+Current Distance: 10903.05027859687
+***
+Iteration: 862
+Temp: 12.601669895980981
+Current Distance: 10903.05027859687
+***
+Iteration: 863
+Temp: 12.453775310772388
+Current Distance: 10903.05027859687
+***
+Iteration: 864
+Temp: 12.305906022347502
+Current Distance: 10903.05027859687
+***
+Iteration: 865
+Temp: 12.158061992841013
+Current Distance: 10903.05027859687
+***
+Iteration: 866
+Temp: 12.010243184489388
+Current Distance: 10903.05027859687
+***
+Iteration: 867
+Temp: 11.862449559630475
+Current Distance: 10903.05027859687
+***
+Iteration: 868
+Temp: 11.714681080703114
+Current Distance: 10903.05027859687
+***
+Iteration: 869
+Temp: 11.566937710246748
+Current Distance: 10903.05027859687
+***
+Iteration: 870
+Temp: 11.419219410901036
+Current Distance: 10903.05027859687
+***
+Iteration: 871
+Temp: 11.271526145405463
+Current Distance: 10903.05027859687
+***
+Iteration: 872
+Temp: 11.123857876598965
+Current Distance: 10903.05027859687
+***
+Iteration: 873
+Temp: 10.976214567419541
+Current Distance: 10903.05027859687
+***
+Iteration: 874
+Temp: 10.828596180903874
+Current Distance: 10903.05027859687
+***
+Iteration: 875
+Temp: 10.681002680186957
+Current Distance: 10903.05027859687
+***
+Iteration: 876
+Temp: 10.533434028501711
+Current Distance: 10903.05027859687
+***
+Iteration: 877
+Temp: 10.38589018917862
+Current Distance: 10903.05027859687
+***
+Iteration: 878
+Temp: 10.238371125645347
+Current Distance: 10903.05027859687
+***
+Iteration: 879
+Temp: 10.09087680142638
+Current Distance: 10903.05027859687
+***
+Iteration: 880
+Temp: 9.943407180142643
+Current Distance: 10903.05027859687
+***
+Iteration: 881
+Temp: 9.795962225511149
+Current Distance: 10903.05027859687
+***
+Iteration: 882
+Temp: 9.648541901344624
+Current Distance: 10903.05027859687
+***
+Iteration: 883
+Temp: 9.501146171551145
+Current Distance: 10903.05027859687
+***
+Iteration: 884
+Temp: 9.353775000133783
+Current Distance: 10903.05027859687
+***
+Iteration: 885
+Temp: 9.20642835119024
+Current Distance: 10903.05027859687
+***
+Iteration: 886
+Temp: 9.059106188912494
+Current Distance: 10903.05027859687
+***
+Iteration: 887
+Temp: 8.91180847758644
+Current Distance: 10903.05027859687
+***
+Iteration: 888
+Temp: 8.764535181591539
+Current Distance: 10903.05027859687
+***
+Iteration: 889
+Temp: 8.617286265400462
+Current Distance: 10903.05027859687
+***
+Iteration: 890
+Temp: 8.470061693578748
+Current Distance: 10903.05027859687
+***
+Iteration: 891
+Temp: 8.32286143078444
+Current Distance: 10903.05027859687
+***
+Iteration: 892
+Temp: 8.175685441767754
+Current Distance: 10903.05027859687
+***
+Iteration: 893
+Temp: 8.028533691370722
+Current Distance: 10903.05027859687
+***
+Iteration: 894
+Temp: 7.881406144526854
+Current Distance: 10902.12844556955
+***
+Iteration: 895
+Temp: 7.734302766260792
+Current Distance: 10902.12844556955
+***
+Iteration: 896
+Temp: 7.5872235216879735
+Current Distance: 10902.12844556955
+***
+Iteration: 897
+Temp: 7.440168376014291
+Current Distance: 10902.12844556955
+***
+Iteration: 898
+Temp: 7.293137294535752
+Current Distance: 10902.12844556955
+***
+Iteration: 899
+Temp: 7.146130242638149
+Current Distance: 10902.12844556955
+***
+Iteration: 900
+Temp: 6.999147185796721
+Current Distance: 10902.12844556955
+***
+Iteration: 901
+Temp: 6.852188089575823
+Current Distance: 10902.12844556955
+***
+Iteration: 902
+Temp: 6.705252919628596
+Current Distance: 10902.12844556955
+***
+Iteration: 903
+Temp: 6.558341641696636
+Current Distance: 10902.12844556955
+***
+Iteration: 904
+Temp: 6.4114542216096675
+Current Distance: 10902.12844556955
+***
+Iteration: 905
+Temp: 6.264590625285219
+Current Distance: 10902.12844556955
+***
+Iteration: 906
+Temp: 6.117750818728296
+Current Distance: 10902.12844556955
+***
+Iteration: 907
+Temp: 5.970934768031059
+Current Distance: 10902.12844556955
+***
+Iteration: 908
+Temp: 5.824142439372503
+Current Distance: 10902.12844556955
+***
+Iteration: 909
+Temp: 5.677373799018139
+Current Distance: 10902.12844556955
+***
+Iteration: 910
+Temp: 5.530628813319672
+Current Distance: 10902.12844556955
+***
+Iteration: 911
+Temp: 5.383907448714689
+Current Distance: 10902.12844556955
+***
+Iteration: 912
+Temp: 5.237209671726339
+Current Distance: 10902.12844556955
+***
+Iteration: 913
+Temp: 5.090535448963025
+Current Distance: 10902.12844556955
+***
+Iteration: 914
+Temp: 4.943884747118086
+Current Distance: 10902.12844556955
+***
+Iteration: 915
+Temp: 4.797257532969491
+Current Distance: 10902.12844556955
+***
+Iteration: 916
+Temp: 4.650653773379526
+Current Distance: 10902.12844556955
+***
+Iteration: 917
+Temp: 4.50407343529449
+Current Distance: 10902.12844556955
+***
+Iteration: 918
+Temp: 4.357516485744387
+Current Distance: 10902.12844556955
+***
+Iteration: 919
+Temp: 4.210982891842621
+Current Distance: 10902.12844556955
+***
+Iteration: 920
+Temp: 4.064472620785692
+Current Distance: 10902.12844556955
+***
+Iteration: 921
+Temp: 3.9179856398528963
+Current Distance: 10902.12844556955
+***
+Iteration: 922
+Temp: 3.7715219164060247
+Current Distance: 10902.12844556955
+***
+Iteration: 923
+Temp: 3.6250814178890636
+Current Distance: 10902.12844556955
+***
+Iteration: 924
+Temp: 3.4786641118278965
+Current Distance: 10902.12844556955
+***
+Iteration: 925
+Temp: 3.332269965830009
+Current Distance: 10902.12844556955
+***
+Iteration: 926
+Temp: 3.185898947584194
+Current Distance: 10902.12844556955
+***
+Iteration: 927
+Temp: 3.0395510248602577
+Current Distance: 10902.12844556955
+***
+Iteration: 928
+Temp: 2.8932261655087275
+Current Distance: 10902.12844556955
+
+
+### RESULT ###
+
+Wake Forest --> Duncan         Distance of: 245.0
+Duncan --> Rock Hill         Distance of: 147.05441169852742
+Rock Hill --> Gillette         Distance of: 15.811388300841896
+Gillette --> Truckee         Distance of: 71.58910531638176
+Truckee --> Shelby         Distance of: 241.8677324489565
+Shelby --> Fords         Distance of: 401.9950248448356
+Fords --> Bakersfield         Distance of: 64.03124237432849
+Bakersfield --> Saugus         Distance of: 183.43936327844142
+Saugus --> Plainfield         Distance of: 83.21658488546619
+Plainfield --> Warren         Distance of: 500.89919145472777
+Warren --> Dalton         Distance of: 517.3490117899134
+Dalton --> North Valley Stream         Distance of: 69.6419413859206
+North Valley Stream --> Richmond         Distance of: 35.35533905932738
+Richmond --> Van Buren         Distance of: 50.99019513592785
+Van Buren --> Pasadena         Distance of: 43.01162633521314
+Pasadena --> Elmhurst         Distance of: 76.15773105863909
+Elmhurst --> Melrose Park         Distance of: 416.20307543313515
+Melrose Park --> Fair Lawn         Distance of: 253.03161857759991
+Fair Lawn --> Kansas City         Distance of: 408.0747480548141
+Kansas City --> Montgomery Village         Distance of: 76.15773105863909
+Montgomery Village --> Tullahoma         Distance of: 45.0
+Tullahoma --> Manhattan         Distance of: 390.4484601070927
+Manhattan --> Franklin         Distance of: 1056.184169546202
+Franklin --> Nipomo         Distance of: 205.54804791094466
+Nipomo --> Gadsden         Distance of: 318.90437438203946
+Gadsden --> Sarasota         Distance of: 425.7933771208754
+Sarasota --> Newton         Distance of: 126.19429464123962
+Newton --> Ashland         Distance of: 185.53975315279473
+Ashland --> Monrovia         Distance of: 522.8049349422785
+Monrovia --> Swansea         Distance of: 406.2634613154375
+Swansea --> Urbandale         Distance of: 46.09772228646444
+Urbandale --> Westbrook         Distance of: 206.15528128088303
+Westbrook --> Avon Lake         Distance of: 42.720018726587654
+Avon Lake --> North Port         Distance of: 157.00318468107582
+North Port --> Orangevale         Distance of: 85.44003745317531
+Orangevale --> Concord         Distance of: 15.0
+Concord --> Leisure City         Distance of: 122.98373876248843
+Leisure City --> Canoga Park         Distance of: 151.32745950421557
+Canoga Park --> Punta Gorda         Distance of: 75.0
+Punta Gorda --> Amherst         Distance of: 207.0024154448445
+Amherst --> Auburn Hills         Distance of: 134.6291201783626
+Auburn Hills --> Twinsburg         Distance of: 80.15609770940699
+Twinsburg --> Winchester         Distance of: 152.31546211727817
+Winchester --> Edinburg         Distance of: 94.33981132056604
+Edinburg --> Oakdale         Distance of: 35.35533905932738
+Oakdale --> Newnan         Distance of: 130.38404810405297
+Newnan --> Irvington         Distance of: 132.38202294873727
+Irvington --> Manchester         Distance of: 130.86252328302402
+Manchester --> Kīhei         Distance of: 428.51487722131657
+Kīhei --> Pittsburg         Distance of: 417.6421913552317
+Pittsburg --> Garden City         Distance of: 285.0438562747845
+Garden City --> Wake Forest         Distance of: 188.2153022471871
+Finished with final distance: 10902.12844556955
+***
+Iteration: 929
+Temp: 2.746924337460561
+Current Distance: 10902.12844556955
+***
+Iteration: 930
+Temp: 2.600645508726858
+Current Distance: 10902.12844556955
+***
+Iteration: 931
+Temp: 2.4543896473985716
+Current Distance: 10902.12844556955
+***
+Iteration: 932
+Temp: 2.3081567216462204
+Current Distance: 10902.12844556955
+***
+Iteration: 933
+Temp: 2.161946699719606
+Current Distance: 10902.12844556955
+***
+Iteration: 934
+Temp: 2.015759549947527
+Current Distance: 10902.12844556955
+***
+Iteration: 935
+Temp: 1.8695952407374967
+Current Distance: 10902.12844556955
+***
+Iteration: 936
+Temp: 1.7234537405754617
+Current Distance: 10902.12844556955
+***
+Iteration: 937
+Temp: 1.5773350180255228
+Current Distance: 10902.12844556955
+***
+Iteration: 938
+Temp: 1.431239041729655
+Current Distance: 10902.12844556955
+***
+Iteration: 939
+Temp: 1.285165780407431
+Current Distance: 10902.12844556955
+***
+Iteration: 940
+Temp: 1.139115202855745
+Current Distance: 10902.12844556955
+***
+Iteration: 941
+Temp: 0.9930872779485371
+Current Distance: 10902.12844556955
+***
+Iteration: 942
+Temp: 0.8470819746365211
+Current Distance: 10902.12844556955
+***
+Iteration: 943
+Temp: 0.7010992619469109
+Current Distance: 10902.12844556955
+***
+Iteration: 944
+Temp: 0.5551391089831499
+Current Distance: 10902.12844556955
+***
+Iteration: 945
+Temp: 0.4092014849246416
+Current Distance: 10902.12844556955
+***
+Iteration: 946
+Temp: 0.26328635902648045
+Current Distance: 10902.12844556955
+***
+Iteration: 947
+Temp: 0.11739370061918492
+Current Distance: 10902.12844556955
