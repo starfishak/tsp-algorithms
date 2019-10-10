@@ -13,6 +13,10 @@ class genetic():
         self.original_dataset = vertices
         self.vertices = {}
         self.tours = []
+        self.best_tour = {
+            'best' : [],
+            'distance' : sys.float_info.max
+        }
 
         # Cities Setup
         self.line_num = 0  # For the city selection
@@ -26,8 +30,8 @@ class genetic():
         }
 
         # File output
-        self.init_temp = 170
-        cooldown_schedule = "temp -= 1/log(iteration+2)"
+        self.init_temp = 10
+        cooldown_schedule = "temp -= .5"
 
         # Open output file, init the header
         self.init_print_output(self.init_temp, cooldown_schedule)
@@ -45,7 +49,7 @@ class genetic():
         
         ten_percent = int(len(self.vertices)/10)
         for i in range(1, ten_percent):
-            population_keys = random.sample(range(1, len(self.vertices)), len(self.vertices)-1)
+            population_keys = random.sample(range(1, len(self.vertices)+1), len(self.vertices))
             print('pop keys:', population_keys)
             temp_tour = []
             for j in population_keys:
@@ -63,41 +67,55 @@ class genetic():
         temp = self.init_temp  # Stopping criteria
         iteration = 0
         while temp > 0:
-            print('there are ', str(len(self.tours)), ' tours')
             # Get best tour
-            best_tour_results = self.best_tour()
-            writer.writerow([iteration, best_tour_results[1]])
+            best_tour_results : list = self.find_best_tour()
+            if self.best_tour['distance'] > best_tour_results[1]:
+                self.best_tour['best'] = copy.deepcopy(best_tour_results[0])
+                self.best_tour['distance'] = best_tour_results[1]
 
             # File output
+            writer.writerow([iteration, best_tour_results[1]])
             results.write(
                         '\n***\n'
                         'Iteration: '+str(iteration)+
                         '\nTemp: '+str(temp)+
                         '\nCurrent Distance: '+str(best_tour_results[1]))
             
-            # crossover the best tour
-            new_tour = self.crossover(best_tour_results[0])
+            # Breed a new population with the crossover algorithm
+            new_tours = []
+            new_tours.append(copy.deepcopy(best_tour_results[0]))
+            while len(new_tours) <= int(len(self.vertices)/10):
+                new_tour = self.crossover(best_tour_results[0])
+                # 10% chance of mutation
+                if random.random() <= 0.1:
+                    results.write('\nMutation Accepted')
+                    new_tour = copy.deepcopy(self.mutate(new_tour))
+                new_tours.append(copy.deepcopy(new_tour))
+            
             print('Best Distance this round:',best_tour_results[1])
-
-            # Mutate the new tour
-            new_tours = self.mutate(new_tour)
+            print('Temp:',temp)
             
             # Copy to instance
             self.tours = copy.deepcopy(new_tours)
 
             # Cooling schedule
-            temp = temp - (1/math.log(iteration+2))
+            # temp = temp - (1/math.log(iteration+2))
+            temp = temp - 0.5
             iteration += 1
         
         # Once temp == 0, find best solution
-        best_tour = self.best_tour()
-        print('\nDistance: ', best_tour[1])
-        time.sleep(5)  # pause for 5 seconds to prevent overwriting the printing above
-        self.print_path_output(best_tour[0], best_tour[1])
+        best_tour_results : list = self.find_best_tour()
+        if self.best_tour['distance'] > best_tour_results[1]:
+            self.best_tour['best'] = copy.deepcopy(best_tour_results[0])
+            self.best_tour['distance'] = best_tour_results[1]
         results.close()
+        self.print_path_output(self.best_tour['best'], self.best_tour['distance'])
+        
+        print('\nDistance: ', self.best_tour['distance'])
+        curve.close()
 
     # Calculates the best tour, returns a copy of the tour list and the best distance
-    def best_tour(self):
+    def find_best_tour(self):
         best_distance = sys.float_info.max
         best_tour = None
         for tour in self.tours:
@@ -110,47 +128,48 @@ class genetic():
     # Mutation helper method. Returns n tours, n being 10% of the number of cities
     def mutate(self, tour):
         # Swap Mutation (swap two elements)
-        print('mutate')
         num_cities = len(self.vertices)
-        new_tours = []
-        new_tours.append(copy.deepcopy(tour))
-        
-        # Create n children, n being 10% of number of cities
-        while len(new_tours) <= int(len(self.vertices)/10):
-            tour_copy = copy.deepcopy(tour)
+
+        # Switch variables
+        tour_copy = copy.deepcopy(tour)
+        switch_1 = random.randint(0, num_cities)
+        switch_2 = random.randint(0, num_cities)
+        while (switch_1 == switch_2):
             switch_1 = random.randint(0, num_cities)
             switch_2 = random.randint(0, num_cities)
-            while (switch_1 == switch_2):
-                switch_1 = random.randint(0, num_cities)
-                switch_2 = random.randint(0, num_cities)
-                    
-            # Switch Nodes
-            node_copy = copy.deepcopy(tour_copy[switch_1-1])
-            tour_copy[switch_1-1] = copy.deepcopy(tour_copy[switch_2-1])
-            tour_copy[switch_2-1] = node_copy
-
-            # Append
-            new_tours.append(copy.deepcopy(tour_copy))
+                
+        # Switch Nodes
+        node_copy = copy.deepcopy(tour_copy[switch_1-1])
+        tour_copy[switch_1-1] = copy.deepcopy(tour_copy[switch_2-1])
+        tour_copy[switch_2-1] = node_copy
        
-        return new_tours
+        return tour_copy
 
     # Crossover helper method. Takes a random i to k range of the provided tour and returns
     # a new tour with this range and filler cities between 0 and n not between i and k
     def crossover(self, tour):
-        begin = random.randint(0, len(tour)-1)
-        end = random.randint(0, len(tour)-1)
+        begin = random.randint(0, len(tour))
+        end = random.randint(0, len(tour))
         while begin == end or begin > end:
-            begin = random.randint(0, len(tour)-1)
-            end = random.randint(0, len(tour)-1)
-        crossover_range = range(begin, end)
+            begin = random.randint(0, len(tour))
+            end = random.randint(0, len(tour))
+        crossover_range = range(begin, end+1)
         crossover_index = 0
         new_tour = []
-        for index, city in enumerate(tour):
-            if (index not in crossover_range):
-                new_tour.append(copy.deepcopy(city))
-            else:
+        visited = []
+        for i in range(0,len(tour)):
+            if (i in crossover_range):
                 new_tour.append(copy.deepcopy(tour[crossover_range[crossover_index]]))
                 crossover_index += 1
+            else:
+                while True:
+                    random_index = random.randint(0,len(tour)-1)
+                    if (random_index not in crossover_range):
+                        temp_city = copy.deepcopy(tour[random_index])
+                        if temp_city not in visited:
+                            new_tour.append(copy.deepcopy(temp_city))
+                            visited.append(copy.deepcopy(temp_city))
+                            break
         return new_tour
         
     def calculate_path_distance(self, tour):
@@ -232,5 +251,5 @@ def parse_file(path):
                 points.append(this_line)
         return (points, name)
 
-data = parse_file('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/berlin52.tsp.txt')
+data = parse_file('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/a280.tsp.txt')
 genetic = genetic(data[0], data[1])

@@ -51,7 +51,7 @@ class tsp():
     
     def simulated_annealing(self):
         # Simulation Definitions
-        temp = 500
+        temp = 50
         iteration = 0
         num_cities = len(self.vertices)
         current_distance = self.calculate_path_distance()
@@ -189,7 +189,7 @@ def parse_file(path):
                 points.append(this_line)
         return (points, name)
 
-data = parse_file('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/a280.tsp.txt')
+data = parse_file('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/berlin52.tsp.txt')
 tsp = tsp(data[0], data[1])
 print(tsp.calculate_path_distance())
 print(tsp.vertices)

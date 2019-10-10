@@ -1,0 +1,1531 @@
+## TSP OUTPUT FILE - GENETIC ALGORITHM ##
+Dataset Name: NAME : a280
+
+Initial Temp: 70
+Cooldown Schedule: temp -= 1/log(iteration+2)
+Number of Initial Tours: 0
+***
+Iteration: 0
+Temp: 70
+Current Distance: 2818.621642239474
+***
+Iteration: 1
+Temp: 68.55730495911104
+Current Distance: 2818.621642239474
+***
+Iteration: 2
+Temp: 67.6470657324842
+Current Distance: 2818.621642239474
+***
+Iteration: 3
+Temp: 66.92571821203971
+Current Distance: 2818.621642239474
+***
+Iteration: 4
+Temp: 66.3043832774801
+Current Distance: 2818.621642239474
+***
+Iteration: 5
+Temp: 65.74627265092886
+Current Distance: 2818.621642239474
+***
+Iteration: 6
+Temp: 65.2323743085591
+Current Distance: 2818.621642239474
+***
+Iteration: 7
+Temp: 64.75147596159611
+Current Distance: 2818.621642239474
+***
+Iteration: 8
+Temp: 64.2963563482827
+Current Distance: 2818.621642239474
+***
+Iteration: 9
+Temp: 63.86206186637945
+Current Distance: 2818.621642239474
+***
+Iteration: 10
+Temp: 63.445029474955206
+Current Distance: 2818.621642239474
+***
+Iteration: 11
+Temp: 63.04259987057336
+Current Distance: 2818.621642239474
+***
+Iteration: 12
+Temp: 62.652728625322084
+Current Distance: 2818.621642239474
+***
+Iteration: 13
+Temp: 62.273805443632135
+Current Distance: 2818.621642239474
+***
+Iteration: 14
+Temp: 61.90453607056328
+Current Distance: 2818.621642239474
+***
+Iteration: 15
+Temp: 61.54386231034104
+Current Distance: 2818.621642239474
+***
+Iteration: 16
+Temp: 61.190906186476276
+Current Distance: 2818.621642239474
+***
+Iteration: 17
+Temp: 60.84492993021508
+Current Distance: 2818.621642239474
+***
+Iteration: 18
+Temp: 60.505306658319974
+Current Distance: 2818.621642239474
+***
+Iteration: 19
+Temp: 60.17149845762464
+Current Distance: 2818.621642239474
+***
+Iteration: 20
+Temp: 59.84303971887159
+Current Distance: 2818.621642239474
+***
+Iteration: 21
+Temp: 59.519524265722914
+Current Distance: 2818.621642239474
+***
+Iteration: 22
+Temp: 59.200595276819115
+Current Distance: 2818.621642239474
+***
+Iteration: 23
+Temp: 58.88593729637499
+Current Distance: 2818.621642239474
+***
+Iteration: 24
+Temp: 58.575269829095184
+Current Distance: 2818.621642239474
+***
+Iteration: 25
+Temp: 58.26834215266505
+Current Distance: 2818.621642239474
+***
+Iteration: 26
+Temp: 57.96492907712277
+Current Distance: 2818.621642239474
+***
+Iteration: 27
+Temp: 57.664827448622354
+Current Distance: 2818.621642239474
+***
+Iteration: 28
+Temp: 57.367853244248984
+Current Distance: 2818.621642239474
+***
+Iteration: 29
+Temp: 57.07383914045378
+Current Distance: 2815.5821059075547
+***
+Iteration: 30
+Temp: 56.782632464233814
+Current Distance: 2815.5821059075547
+***
+Iteration: 31
+Temp: 56.49409345605602
+Current Distance: 2815.5821059075547
+***
+Iteration: 32
+Temp: 56.20809378855335
+Current Distance: 2815.5821059075547
+***
+Iteration: 33
+Temp: 55.924515296502015
+Current Distance: 2815.5821059075547
+***
+Iteration: 34
+Temp: 55.64324888243929
+Current Distance: 2815.5821059075547
+***
+Iteration: 35
+Temp: 55.36419356916367
+Current Distance: 2815.5821059075547
+***
+Iteration: 36
+Temp: 55.08725567575481
+Current Distance: 2815.5821059075547
+***
+Iteration: 37
+Temp: 54.812348098012315
+Current Distance: 2815.5821059075547
+***
+Iteration: 38
+Temp: 54.53938967760292
+Current Distance: 2815.5821059075547
+***
+Iteration: 39
+Temp: 54.2683046469211
+Current Distance: 2815.5821059075547
+***
+Iteration: 40
+Temp: 53.99902213885671
+Current Distance: 2815.5821059075547
+***
+Iteration: 41
+Temp: 53.73147575243765
+Current Distance: 2815.5821059075547
+***
+Iteration: 42
+Temp: 53.465603166762804
+Current Distance: 2815.5821059075547
+***
+Iteration: 43
+Temp: 53.20134579682636
+Current Distance: 2815.5821059075547
+***
+Iteration: 44
+Temp: 52.93864848581249
+Current Distance: 2815.5821059075547
+***
+Iteration: 45
+Temp: 52.67745922924827
+Current Distance: 2815.5821059075547
+***
+Iteration: 46
+Temp: 52.417728927076
+Current Distance: 2815.5821059075547
+***
+Iteration: 47
+Temp: 52.15941116026867
+Current Distance: 2812.2819342405546
+***
+Iteration: 48
+Temp: 51.90246198908379
+Current Distance: 2812.2819342405546
+***
+Iteration: 49
+Temp: 51.64683977044846
+Current Distance: 2812.2819342405546
+***
+Iteration: 50
+Temp: 51.39250499230442
+Current Distance: 2812.2819342405546
+***
+Iteration: 51
+Temp: 51.1394201230271
+Current Distance: 2812.2819342405546
+***
+Iteration: 52
+Temp: 50.8875494742754
+Current Distance: 2812.2819342405546
+***
+Iteration: 53
+Temp: 50.636859075836405
+Current Distance: 2812.2819342405546
+***
+Iteration: 54
+Temp: 50.38731656120719
+Current Distance: 2812.2819342405546
+***
+Iteration: 55
+Temp: 50.138891062808725
+Current Distance: 2812.2819342405546
+***
+Iteration: 56
+Temp: 49.89155311585867
+Current Distance: 2812.2819342405546
+***
+Iteration: 57
+Temp: 49.64527457004417
+Current Distance: 2812.2819342405546
+***
+Iteration: 58
+Temp: 49.40002850823434
+Current Distance: 2812.2819342405546
+***
+Iteration: 59
+Temp: 49.15578917155837
+Current Distance: 2812.2819342405546
+***
+Iteration: 60
+Temp: 48.9125318902501
+Current Distance: 2812.2819342405546
+***
+Iteration: 61
+Temp: 48.67023301972542
+Current Distance: 2812.2819342405546
+***
+Iteration: 62
+Temp: 48.42886988141615
+Current Distance: 2812.2819342405546
+***
+Iteration: 63
+Temp: 48.188420707934654
+Current Distance: 2812.2819342405546
+***
+Iteration: 64
+Temp: 47.94886459218763
+Current Distance: 2812.2819342405546
+***
+Iteration: 65
+Temp: 47.710181440096605
+Current Distance: 2812.2819342405546
+***
+Iteration: 66
+Temp: 47.47235192661725
+Current Distance: 2812.2819342405546
+***
+Iteration: 67
+Temp: 47.235357454780335
+Current Distance: 2812.2819342405546
+***
+Iteration: 68
+Temp: 46.99918011750405
+Current Distance: 2812.2819342405546
+***
+Iteration: 69
+Temp: 46.76380266195166
+Current Distance: 2812.2819342405546
+***
+Iteration: 70
+Temp: 46.529208456230045
+Current Distance: 2812.2819342405546
+***
+Iteration: 71
+Temp: 46.29538145824357
+Current Distance: 2812.2819342405546
+***
+Iteration: 72
+Temp: 46.06230618653506
+Current Distance: 2812.2819342405546
+***
+Iteration: 73
+Temp: 45.82996769296094
+Current Distance: 2812.2819342405546
+***
+Iteration: 74
+Temp: 45.59835153706123
+Current Distance: 2812.2819342405546
+***
+Iteration: 75
+Temp: 45.36744376199746
+Current Distance: 2812.2819342405546
+***
+Iteration: 76
+Temp: 45.137230871942805
+Current Distance: 2812.2819342405546
+***
+Iteration: 77
+Temp: 44.90769981081843
+Current Distance: 2812.2819342405546
+***
+Iteration: 78
+Temp: 44.67883794227927
+Current Distance: 2812.2819342405546
+***
+Iteration: 79
+Temp: 44.4506330308606
+Current Distance: 2812.2819342405546
+***
+Iteration: 80
+Temp: 44.223073224203894
+Current Distance: 2812.2819342405546
+***
+Iteration: 81
+Temp: 43.99614703628738
+Current Distance: 2812.2819342405546
+***
+Iteration: 82
+Temp: 43.769843331592625
+Current Distance: 2812.2819342405546
+***
+Iteration: 83
+Temp: 43.54415131014388
+Current Distance: 2812.2819342405546
+***
+Iteration: 84
+Temp: 43.3190604933621
+Current Distance: 2812.2819342405546
+***
+Iteration: 85
+Temp: 43.09456071067989
+Current Distance: 2812.2819342405546
+***
+Iteration: 86
+Temp: 42.87064208686789
+Current Distance: 2812.2819342405546
+***
+Iteration: 87
+Temp: 42.64729503002679
+Current Distance: 2812.2819342405546
+***
+Iteration: 88
+Temp: 42.42451022020276
+Current Distance: 2812.2819342405546
+***
+Iteration: 89
+Temp: 42.20227859858695
+Current Distance: 2812.2819342405546
+***
+Iteration: 90
+Temp: 41.98059135726292
+Current Distance: 2812.2819342405546
+***
+Iteration: 91
+Temp: 41.75943992946825
+Current Distance: 2812.2819342405546
+***
+Iteration: 92
+Temp: 41.53881598033916
+Current Distance: 2812.2819342405546
+***
+Iteration: 93
+Temp: 41.318711398109
+Current Distance: 2812.2819342405546
+***
+Iteration: 94
+Temp: 41.099118285733816
+Current Distance: 2812.2819342405546
+***
+Iteration: 95
+Temp: 40.8800289529197
+Current Distance: 2812.2819342405546
+***
+Iteration: 96
+Temp: 40.661435908528695
+Current Distance: 2812.2819342405546
+***
+Iteration: 97
+Temp: 40.443331853341384
+Current Distance: 2812.2819342405546
+***
+Iteration: 98
+Temp: 40.225709673155876
+Current Distance: 2812.2819342405546
+***
+Iteration: 99
+Temp: 40.00856243220425
+Current Distance: 2812.2819342405546
+***
+Iteration: 100
+Temp: 39.79188336686872
+Current Distance: 2812.2819342405546
+***
+Iteration: 101
+Temp: 39.57566587968096
+Current Distance: 2812.2819342405546
+***
+Iteration: 102
+Temp: 39.35990353358918
+Current Distance: 2812.2819342405546
+***
+Iteration: 103
+Temp: 39.144590046478335
+Current Distance: 2812.2819342405546
+***
+Iteration: 104
+Temp: 38.929719285930034
+Current Distance: 2812.2819342405546
+***
+Iteration: 105
+Temp: 38.71528526420933
+Current Distance: 2812.2819342405546
+***
+Iteration: 106
+Temp: 38.501282133466546
+Current Distance: 2812.2819342405546
+***
+Iteration: 107
+Temp: 38.28770418114286
+Current Distance: 2812.2819342405546
+***
+Iteration: 108
+Temp: 38.07454582556918
+Current Distance: 2812.2819342405546
+***
+Iteration: 109
+Temp: 37.86180161174851
+Current Distance: 2812.2819342405546
+***
+Iteration: 110
+Temp: 37.649466207312344
+Current Distance: 2812.2819342405546
+***
+Iteration: 111
+Temp: 37.43753439864254
+Current Distance: 2812.2819342405546
+***
+Iteration: 112
+Temp: 37.226001087150365
+Current Distance: 2812.2819342405546
+***
+Iteration: 113
+Temp: 37.014861285704974
+Current Distance: 2812.2819342405546
+***
+Iteration: 114
+Temp: 36.80411011520405
+Current Distance: 2812.2819342405546
+***
+Iteration: 115
+Temp: 36.59374280127974
+Current Distance: 2812.2819342405546
+***
+Iteration: 116
+Temp: 36.38375467113336
+Current Distance: 2812.2819342405546
+***
+Iteration: 117
+Temp: 36.17414115049281
+Current Distance: 2812.2819342405546
+***
+Iteration: 118
+Temp: 35.96489776068684
+Current Distance: 2812.2819342405546
+***
+Iteration: 119
+Temp: 35.75602011583081
+Current Distance: 2812.2819342405546
+***
+Iteration: 120
+Temp: 35.547503920118686
+Current Distance: 2812.2819342405546
+***
+Iteration: 121
+Temp: 35.339344965216455
+Current Distance: 2812.2819342405546
+***
+Iteration: 122
+Temp: 35.13153912775231
+Current Distance: 2812.2819342405546
+***
+Iteration: 123
+Temp: 34.92408236689928
+Current Distance: 2812.2819342405546
+***
+Iteration: 124
+Temp: 34.71697072204607
+Current Distance: 2812.2819342405546
+***
+Iteration: 125
+Temp: 34.51020031055235
+Current Distance: 2812.2819342405546
+***
+Iteration: 126
+Temp: 34.30376732558457
+Current Distance: 2812.2819342405546
+***
+Iteration: 127
+Temp: 34.097668034029006
+Current Distance: 2812.2819342405546
+***
+Iteration: 128
+Temp: 33.89189877447847
+Current Distance: 2812.2819342405546
+***
+Iteration: 129
+Temp: 33.68645595528971
+Current Distance: 2812.2819342405546
+***
+Iteration: 130
+Temp: 33.481336052708336
+Current Distance: 2812.2819342405546
+***
+Iteration: 131
+Temp: 33.27653560905849
+Current Distance: 2812.2819342405546
+***
+Iteration: 132
+Temp: 33.072051230994546
+Current Distance: 2812.2819342405546
+***
+Iteration: 133
+Temp: 32.867879587812176
+Current Distance: 2812.2819342405546
+***
+Iteration: 134
+Temp: 32.664017409816445
+Current Distance: 2812.2819342405546
+***
+Iteration: 135
+Temp: 32.46046148674448
+Current Distance: 2812.2819342405546
+***
+Iteration: 136
+Temp: 32.25720866624057
+Current Distance: 2812.2819342405546
+***
+Iteration: 137
+Temp: 32.05425585238153
+Current Distance: 2812.2819342405546
+***
+Iteration: 138
+Temp: 31.851600004250308
+Current Distance: 2812.2819342405546
+***
+Iteration: 139
+Temp: 31.649238134555986
+Current Distance: 2812.2819342405546
+***
+Iteration: 140
+Temp: 31.447167308298223
+Current Distance: 2812.2819342405546
+***
+Iteration: 141
+Temp: 31.245384641474487
+Current Distance: 2812.2819342405546
+***
+Iteration: 142
+Temp: 31.043887299828388
+Current Distance: 2812.2819342405546
+***
+Iteration: 143
+Temp: 30.842672497637466
+Current Distance: 2812.2819342405546
+***
+Iteration: 144
+Temp: 30.64173749653901
+Current Distance: 2812.2819342405546
+***
+Iteration: 145
+Temp: 30.441079604392378
+Current Distance: 2812.2819342405546
+***
+Iteration: 146
+Temp: 30.240696174176463
+Current Distance: 2812.2819342405546
+***
+Iteration: 147
+Temp: 30.040584602921005
+Current Distance: 2812.2819342405546
+***
+Iteration: 148
+Temp: 29.84074233067043
+Current Distance: 2812.2819342405546
+***
+Iteration: 149
+Temp: 29.641166839479077
+Current Distance: 2812.2819342405546
+***
+Iteration: 150
+Temp: 29.441855652436573
+Current Distance: 2812.2819342405546
+***
+Iteration: 151
+Temp: 29.242806332722346
+Current Distance: 2812.2819342405546
+***
+Iteration: 152
+Temp: 29.044016482688136
+Current Distance: 2812.2819342405546
+***
+Iteration: 153
+Temp: 28.84548374296753
+Current Distance: 2812.2819342405546
+***
+Iteration: 154
+Temp: 28.647205791611558
+Current Distance: 2812.2819342405546
+***
+Iteration: 155
+Temp: 28.449180343249385
+Current Distance: 2812.2819342405546
+***
+Iteration: 156
+Temp: 28.251405148273253
+Current Distance: 2812.2819342405546
+***
+Iteration: 157
+Temp: 28.053877992046797
+Current Distance: 2812.2819342405546
+***
+Iteration: 158
+Temp: 27.856596694135902
+Current Distance: 2812.2819342405546
+***
+Iteration: 159
+Temp: 27.659559107561357
+Current Distance: 2812.2819342405546
+***
+Iteration: 160
+Temp: 27.462763118072523
+Current Distance: 2812.2819342405546
+***
+Iteration: 161
+Temp: 27.2662066434413
+Current Distance: 2812.2819342405546
+***
+Iteration: 162
+Temp: 27.069887632775718
+Current Distance: 2812.2819342405546
+***
+Iteration: 163
+Temp: 26.873804065852447
+Current Distance: 2812.2819342405546
+***
+Iteration: 164
+Temp: 26.677953952467654
+Current Distance: 2812.2819342405546
+***
+Iteration: 165
+Temp: 26.482335331805515
+Current Distance: 2812.2819342405546
+***
+Iteration: 166
+Temp: 26.28694627182387
+Current Distance: 2812.2819342405546
+***
+Iteration: 167
+Temp: 26.091784868656383
+Current Distance: 2812.2819342405546
+***
+Iteration: 168
+Temp: 25.896849246030744
+Current Distance: 2812.2819342405546
+***
+Iteration: 169
+Temp: 25.702137554702308
+Current Distance: 2812.2819342405546
+***
+Iteration: 170
+Temp: 25.507647971902728
+Current Distance: 2812.2819342405546
+***
+Iteration: 171
+Temp: 25.31337870080308
+Current Distance: 2812.2819342405546
+***
+Iteration: 172
+Temp: 25.11932796999101
+Current Distance: 2812.2819342405546
+***
+Iteration: 173
+Temp: 24.925494032961442
+Current Distance: 2812.2819342405546
+***
+Iteration: 174
+Temp: 24.731875167620476
+Current Distance: 2812.2819342405546
+***
+Iteration: 175
+Temp: 24.538469675801984
+Current Distance: 2812.2819342405546
+***
+Iteration: 176
+Temp: 24.34527588279655
+Current Distance: 2812.2819342405546
+***
+Iteration: 177
+Temp: 24.152292136892374
+Current Distance: 2812.2819342405546
+***
+Iteration: 178
+Temp: 23.95951680892775
+Current Distance: 2812.2819342405546
+***
+Iteration: 179
+Temp: 23.76694829185475
+Current Distance: 2812.2819342405546
+***
+Iteration: 180
+Temp: 23.574585000313828
+Current Distance: 2812.2819342405546
+***
+Iteration: 181
+Temp: 23.38242537021894
+Current Distance: 2812.2819342405546
+***
+Iteration: 182
+Temp: 23.190467858352903
+Current Distance: 2812.2819342405546
+***
+Iteration: 183
+Temp: 22.998710941972693
+Current Distance: 2812.2819342405546
+***
+Iteration: 184
+Temp: 22.807153118424335
+Current Distance: 2812.2819342405546
+***
+Iteration: 185
+Temp: 22.615792904767165
+Current Distance: 2812.2819342405546
+***
+Iteration: 186
+Temp: 22.42462883740714
+Current Distance: 2812.2819342405546
+***
+Iteration: 187
+Temp: 22.23365947173894
+Current Distance: 2812.2819342405546
+***
+Iteration: 188
+Temp: 22.0428833817966
+Current Distance: 2812.2819342405546
+***
+Iteration: 189
+Temp: 21.85229915991247
+Current Distance: 2812.2819342405546
+***
+Iteration: 190
+Temp: 21.661905416384172
+Current Distance: 2812.2819342405546
+***
+Iteration: 191
+Temp: 21.47170077914941
+Current Distance: 2812.2819342405546
+***
+Iteration: 192
+Temp: 21.281683893468344
+Current Distance: 2812.2819342405546
+***
+Iteration: 193
+Temp: 21.091853421613383
+Current Distance: 2812.2819342405546
+***
+Iteration: 194
+Temp: 20.902208042566095
+Current Distance: 2812.2819342405546
+***
+Iteration: 195
+Temp: 20.71274645172112
+Current Distance: 2812.2819342405546
+***
+Iteration: 196
+Temp: 20.52346736059683
+Current Distance: 2812.2819342405546
+***
+Iteration: 197
+Temp: 20.334369496552572
+Current Distance: 2812.2819342405546
+***
+Iteration: 198
+Temp: 20.14545160251233
+Current Distance: 2812.2819342405546
+***
+Iteration: 199
+Temp: 19.956712436694577
+Current Distance: 2812.2819342405546
+***
+Iteration: 200
+Temp: 19.768150772348186
+Current Distance: 2812.2819342405546
+***
+Iteration: 201
+Temp: 19.579765397494242
+Current Distance: 2812.2819342405546
+***
+Iteration: 202
+Temp: 19.391555114673558
+Current Distance: 2812.2819342405546
+***
+Iteration: 203
+Temp: 19.203518740699764
+Current Distance: 2812.2819342405546
+***
+Iteration: 204
+Temp: 19.015655106417817
+Current Distance: 2812.2819342405546
+***
+Iteration: 205
+Temp: 18.827963056467794
+Current Distance: 2812.2819342405546
+***
+Iteration: 206
+Temp: 18.64044144905379
+Current Distance: 2812.2819342405546
+***
+Iteration: 207
+Temp: 18.45308915571784
+Current Distance: 2812.2819342405546
+***
+Iteration: 208
+Temp: 18.2659050611187
+Current Distance: 2812.2819342405546
+***
+Iteration: 209
+Temp: 18.078888062815356
+Current Distance: 2812.2819342405546
+***
+Iteration: 210
+Temp: 17.892037071055135
+Current Distance: 2812.2819342405546
+***
+Iteration: 211
+Temp: 17.70535100856635
+Current Distance: 2812.2819342405546
+***
+Iteration: 212
+Temp: 17.518828810355263
+Current Distance: 2812.2819342405546
+***
+Iteration: 213
+Temp: 17.332469423507366
+Current Distance: 2812.2819342405546
+***
+Iteration: 214
+Temp: 17.146271806992775
+Current Distance: 2812.2819342405546
+***
+Iteration: 215
+Temp: 16.960234931475693
+Current Distance: 2812.2819342405546
+***
+Iteration: 216
+Temp: 16.77435777912781
+Current Distance: 2812.2819342405546
+***
+Iteration: 217
+Temp: 16.58863934344556
+Current Distance: 2812.2819342405546
+***
+Iteration: 218
+Temp: 16.403078629071093
+Current Distance: 2812.2819342405546
+***
+Iteration: 219
+Temp: 16.217674651616942
+Current Distance: 2812.2819342405546
+***
+Iteration: 220
+Temp: 16.03242643749423
+Current Distance: 2812.2819342405546
+***
+Iteration: 221
+Temp: 15.847333023744351
+Current Distance: 2812.2819342405546
+***
+Iteration: 222
+Temp: 15.662393457874046
+Current Distance: 2812.2819342405546
+***
+Iteration: 223
+Temp: 15.477606797693783
+Current Distance: 2812.2819342405546
+***
+Iteration: 224
+Temp: 15.292972111159354
+Current Distance: 2812.2819342405546
+***
+Iteration: 225
+Temp: 15.108488476216632
+Current Distance: 2812.2819342405546
+***
+Iteration: 226
+Temp: 14.924154980649375
+Current Distance: 2812.2819342405546
+***
+Iteration: 227
+Temp: 14.739970721930046
+Current Distance: 2812.2819342405546
+***
+Iteration: 228
+Temp: 14.555934807073546
+Current Distance: 2812.2819342405546
+***
+Iteration: 229
+Temp: 14.372046352493797
+Current Distance: 2812.2819342405546
+***
+Iteration: 230
+Temp: 14.188304483863114
+Current Distance: 2812.2819342405546
+***
+Iteration: 231
+Temp: 14.004708335974296
+Current Distance: 2812.2819342405546
+***
+Iteration: 232
+Temp: 13.82125705260537
+Current Distance: 2812.2819342405546
+***
+Iteration: 233
+Temp: 13.63794978638692
+Current Distance: 2812.2819342405546
+***
+Iteration: 234
+Temp: 13.454785698671966
+Current Distance: 2812.2819342405546
+***
+Iteration: 235
+Temp: 13.271763959408286
+Current Distance: 2812.2819342405546
+***
+Iteration: 236
+Temp: 13.088883747013181
+Current Distance: 2812.2819342405546
+***
+Iteration: 237
+Temp: 12.906144248250582
+Current Distance: 2812.2819342405546
+***
+Iteration: 238
+Temp: 12.723544658110463
+Current Distance: 2812.2819342405546
+***
+Iteration: 239
+Temp: 12.54108417969051
+Current Distance: 2812.2819342405546
+***
+Iteration: 240
+Temp: 12.358762024079986
+Current Distance: 2812.2819342405546
+***
+Iteration: 241
+Temp: 12.176577410245756
+Current Distance: 2812.2819342405546
+***
+Iteration: 242
+Temp: 11.994529564920388
+Current Distance: 2812.2819342405546
+***
+Iteration: 243
+Temp: 11.812617722492341
+Current Distance: 2812.2819342405546
+***
+Iteration: 244
+Temp: 11.630841124898136
+Current Distance: 2812.2819342405546
+***
+Iteration: 245
+Temp: 11.449199021516502
+Current Distance: 2812.2819342405546
+***
+Iteration: 246
+Temp: 11.267690669064432
+Current Distance: 2812.2819342405546
+***
+Iteration: 247
+Temp: 11.086315331495124
+Current Distance: 2812.2819342405546
+***
+Iteration: 248
+Temp: 10.905072279897755
+Current Distance: 2812.2819342405546
+***
+Iteration: 249
+Temp: 10.72396079239905
+Current Distance: 2812.2819342405546
+***
+Iteration: 250
+Temp: 10.542980154066596
+Current Distance: 2812.2819342405546
+***
+Iteration: 251
+Temp: 10.362129656813893
+Current Distance: 2812.2819342405546
+***
+Iteration: 252
+Temp: 10.181408599307066
+Current Distance: 2812.2819342405546
+***
+Iteration: 253
+Temp: 10.00081628687323
+Current Distance: 2812.2819342405546
+***
+Iteration: 254
+Temp: 9.82035203141046
+Current Distance: 2812.2819342405546
+***
+Iteration: 255
+Temp: 9.64001515129934
+Current Distance: 2812.2819342405546
+***
+Iteration: 256
+Temp: 9.459804971316037
+Current Distance: 2812.2819342405546
+***
+Iteration: 257
+Temp: 9.279720822546906
+Current Distance: 2812.2819342405546
+***
+Iteration: 258
+Temp: 9.09976204230454
+Current Distance: 2812.2819342405546
+***
+Iteration: 259
+Temp: 8.919927974045292
+Current Distance: 2812.2819342405546
+***
+Iteration: 260
+Temp: 8.740217967288189
+Current Distance: 2812.2819342405546
+***
+Iteration: 261
+Temp: 8.560631377535245
+Current Distance: 2812.2819342405546
+***
+Iteration: 262
+Temp: 8.381167566193122
+Current Distance: 2812.2819342405546
+***
+Iteration: 263
+Temp: 8.201825900496114
+Current Distance: 2812.2819342405546
+***
+Iteration: 264
+Temp: 8.022605753430437
+Current Distance: 2812.2819342405546
+***
+Iteration: 265
+Temp: 7.8435065036597855
+Current Distance: 2812.2819342405546
+***
+Iteration: 266
+Temp: 7.664527535452145
+Current Distance: 2812.2819342405546
+***
+Iteration: 267
+Temp: 7.485668238607811
+Current Distance: 2812.2819342405546
+***
+Iteration: 268
+Temp: 7.3069280083886134
+Current Distance: 2812.2819342405546
+***
+Iteration: 269
+Temp: 7.128306245448309
+Current Distance: 2812.2819342405546
+***
+Iteration: 270
+Temp: 6.949802355764125
+Current Distance: 2812.2819342405546
+***
+Iteration: 271
+Temp: 6.771415750569421
+Current Distance: 2812.2819342405546
+***
+Iteration: 272
+Temp: 6.593145846287457
+Current Distance: 2812.2819342405546
+***
+Iteration: 273
+Temp: 6.41499206446624
+Current Distance: 2812.2819342405546
+***
+Iteration: 274
+Temp: 6.23695383171443
+Current Distance: 2812.2819342405546
+***
+Iteration: 275
+Temp: 6.059030579638281
+Current Distance: 2812.2819342405546
+***
+Iteration: 276
+Temp: 5.8812217447796
+Current Distance: 2812.2819342405546
+***
+Iteration: 277
+Temp: 5.7035267685547
+Current Distance: 2812.2819342405546
+***
+Iteration: 278
+Temp: 5.525945097194338
+Current Distance: 2812.2819342405546
+***
+Iteration: 279
+Temp: 5.348476181684599
+Current Distance: 2812.2819342405546
+***
+Iteration: 280
+Temp: 5.171119477708727
+Current Distance: 2812.2819342405546
+***
+Iteration: 281
+Temp: 4.993874445589875
+Current Distance: 2812.2819342405546
+***
+Iteration: 282
+Temp: 4.816740550234759
+Current Distance: 2812.2819342405546
+***
+Iteration: 283
+Temp: 4.639717261078194
+Current Distance: 2812.2819342405546
+***
+Iteration: 284
+Temp: 4.4628040520285
+Current Distance: 2812.2819342405546
+***
+Iteration: 285
+Temp: 4.286000401413764
+Current Distance: 2812.2819342405546
+***
+Iteration: 286
+Temp: 4.109305791928931
+Current Distance: 2812.2819342405546
+***
+Iteration: 287
+Temp: 3.9327197105837204
+Current Distance: 2812.2819342405546
+***
+Iteration: 288
+Temp: 3.75624164865134
+Current Distance: 2812.2819342405546
+***
+Iteration: 289
+Temp: 3.579871101617995
+Current Distance: 2812.2819342405546
+***
+Iteration: 290
+Temp: 3.4036075691331695
+Current Distance: 2812.2819342405546
+***
+Iteration: 291
+Temp: 3.227450554960664
+Current Distance: 2812.2819342405546
+***
+Iteration: 292
+Temp: 3.0513995669303817
+Current Distance: 2812.2819342405546
+***
+Iteration: 293
+Temp: 2.8754541168908467
+Current Distance: 2812.2819342405546
+***
+Iteration: 294
+Temp: 2.699613720662436
+Current Distance: 2812.2819342405546
+***
+Iteration: 295
+Temp: 2.5238778979913206
+Current Distance: 2812.2819342405546
+***
+Iteration: 296
+Temp: 2.3482461725040933
+Current Distance: 2812.2819342405546
+***
+Iteration: 297
+Temp: 2.17271807166308
+Current Distance: 2812.2819342405546
+***
+Iteration: 298
+Temp: 1.9972931267223148
+Current Distance: 2812.2819342405546
+***
+Iteration: 299
+Temp: 1.8219708726841688
+Current Distance: 2812.2819342405546
+***
+Iteration: 300
+Temp: 1.6467508482566222
+Current Distance: 2812.2819342405546
+***
+Iteration: 301
+Temp: 1.4716325958111671
+Current Distance: 2812.2819342405546
+***
+Iteration: 302
+Temp: 1.2966156613413287
+Current Distance: 2812.2819342405546
+***
+Iteration: 303
+Temp: 1.1216995944217947
+Current Distance: 2812.2819342405546
+***
+Iteration: 304
+Temp: 0.9468839481681428
+Current Distance: 2812.2819342405546
+***
+Iteration: 305
+Temp: 0.7721682791971531
+Current Distance: 2812.2819342405546
+***
+Iteration: 306
+Temp: 0.5975521475876976
+Current Distance: 2812.2819342405546
+***
+Iteration: 307
+Temp: 0.42303511684219447
+Current Distance: 2812.2819342405546
+***
+Iteration: 308
+Temp: 0.2486167538486191
+Current Distance: 2812.2819342405546
+
+
+### RESULT ###
+
+Mundelein --> Rome         Distance of: 20.0
+Rome --> North Druid Hills         Distance of: 24.08318915758459
+North Druid Hills --> Keizer         Distance of: 16.1245154965971
+Keizer --> Parma         Distance of: 16.0
+Parma --> Cinco Ranch         Distance of: 10.0
+Cinco Ranch --> Bolingbrook         Distance of: 15.620499351813308
+Bolingbrook --> Melbourne         Distance of: 8.0
+Melbourne --> Bella Vista         Distance of: 8.0
+Bella Vista --> Oxford         Distance of: 11.313708498984761
+Oxford --> Wilmington Island         Distance of: 8.0
+Wilmington Island --> Clarksdale         Distance of: 8.0
+Clarksdale --> Frederickson         Distance of: 8.0
+Frederickson --> Columbia         Distance of: 8.0
+Columbia --> Newberg         Distance of: 11.313708498984761
+Newberg --> Brighton         Distance of: 17.88854381999832
+Brighton --> Spring Hill         Distance of: 16.0
+Spring Hill --> Henderson         Distance of: 8.0
+Henderson --> Pomona         Distance of: 8.0
+Pomona --> Bozeman         Distance of: 8.0
+Bozeman --> Easton         Distance of: 8.0
+Easton --> Blue Springs         Distance of: 25.298221281347036
+Blue Springs --> Cape Coral         Distance of: 16.0
+Cape Coral --> Framingham Center         Distance of: 8.0
+Framingham Center --> Milwaukee         Distance of: 16.0
+Milwaukee --> Anderson         Distance of: 16.0
+Anderson --> Hawthorne         Distance of: 8.0
+Hawthorne --> Smithfield         Distance of: 8.0
+Smithfield --> Pikesville         Distance of: 11.313708498984761
+Pikesville --> Red Wing         Distance of: 14.422205101855956
+Red Wing --> Hillside         Distance of: 8.0
+Hillside --> Delano         Distance of: 8.0
+Delano --> Desert Hot Springs         Distance of: 14.560219778561036
+Desert Hot Springs --> Santa Rosa         Distance of: 12.806248474865697
+Santa Rosa --> Romulus         Distance of: 16.0
+Romulus --> Wausau         Distance of: 8.0
+Wausau --> Alexandria         Distance of: 8.94427190999916
+Alexandria --> King of Prussia         Distance of: 8.0
+King of Prussia --> West Coon Rapids         Distance of: 8.0
+West Coon Rapids --> Randolph         Distance of: 8.0
+Randolph --> Melville         Distance of: 8.0
+Melville --> South Ogden         Distance of: 8.0
+South Ogden --> Kuna         Distance of: 8.0
+Kuna --> McMinnville         Distance of: 16.0
+McMinnville --> Morganton         Distance of: 8.0
+Morganton --> Cañon City         Distance of: 8.0
+Cañon City --> East Northport         Distance of: 8.0
+East Northport --> Murray         Distance of: 8.0
+Murray --> Crown Point         Distance of: 8.0
+Crown Point --> Long Island City         Distance of: 8.0
+Long Island City --> Downey         Distance of: 8.0
+Downey --> Portage         Distance of: 8.0
+Portage --> Hamilton         Distance of: 8.0
+Hamilton --> Potomac         Distance of: 8.0
+Potomac --> Germantown         Distance of: 8.0
+Germantown --> Pacifica         Distance of: 8.0
+Pacifica --> Eastpointe         Distance of: 8.0
+Eastpointe --> Des Moines         Distance of: 8.0
+Des Moines --> Kinston         Distance of: 8.0
+Kinston --> Kailua         Distance of: 16.0
+Kailua --> Lindenwold         Distance of: 8.0
+Lindenwold --> Fairborn         Distance of: 10.0
+Fairborn --> Teaneck         Distance of: 8.0
+Teaneck --> Crest Hill         Distance of: 8.246211251235321
+Crest Hill --> Arbutus         Distance of: 8.0
+Arbutus --> Horn Lake         Distance of: 8.0
+Horn Lake --> Four Corners         Distance of: 11.313708498984761
+Four Corners --> Estelle         Distance of: 12.0
+Estelle --> Wilton         Distance of: 8.0
+Wilton --> Dixon         Distance of: 12.0
+Dixon --> Los Altos         Distance of: 8.0
+Los Altos --> Farmington         Distance of: 8.0
+Farmington --> Paducah         Distance of: 8.0
+Paducah --> Flower Mound         Distance of: 8.0
+Flower Mound --> North Arlington         Distance of: 8.0
+North Arlington --> Secaucus         Distance of: 8.0
+Secaucus --> Logan         Distance of: 11.313708498984761
+Logan --> Cleburne         Distance of: 8.0
+Cleburne --> Winchester         Distance of: 16.492422502470642
+Winchester --> Ellicott City         Distance of: 8.94427190999916
+Ellicott City --> Fort Collins         Distance of: 8.0
+Fort Collins --> Fort Pierce         Distance of: 8.0
+Fort Pierce --> Ozark         Distance of: 8.0
+Ozark --> Winter Garden         Distance of: 8.0
+Winter Garden --> Billings         Distance of: 8.0
+Billings --> Franklin Park         Distance of: 8.246211251235321
+Franklin Park --> Ponte Vedra Beach         Distance of: 10.0
+Ponte Vedra Beach --> West Albany         Distance of: 10.0
+West Albany --> Harlingen         Distance of: 12.0
+Harlingen --> North Plainfield         Distance of: 8.94427190999916
+North Plainfield --> Casper         Distance of: 8.0
+Casper --> Ashwaubenon         Distance of: 8.0
+Ashwaubenon --> Lawrence         Distance of: 12.165525060596439
+Lawrence --> Port Hueneme         Distance of: 8.0
+Port Hueneme --> Garden City         Distance of: 8.0
+Garden City --> San Dimas         Distance of: 8.0
+San Dimas --> Elko         Distance of: 8.0
+Elko --> Norman         Distance of: 8.0
+Norman --> Mason         Distance of: 13.416407864998739
+Mason --> Kissimmee         Distance of: 12.165525060596439
+Kissimmee --> Silver Firs         Distance of: 8.0
+Silver Firs --> Harker Heights         Distance of: 8.0
+Harker Heights --> Butte         Distance of: 8.0
+Butte --> Burlington         Distance of: 8.0
+Burlington --> Chanhassen         Distance of: 8.0
+Chanhassen --> McAlester         Distance of: 8.0
+McAlester --> Wyckoff         Distance of: 8.0
+Wyckoff --> Owatonna         Distance of: 16.0
+Owatonna --> Chandler         Distance of: 8.246211251235321
+Chandler --> Yuba City         Distance of: 10.0
+Yuba City --> Eastchester         Distance of: 8.0
+Eastchester --> Fairfield         Distance of: 8.246211251235321
+Fairfield --> Warren Township         Distance of: 10.0
+Warren Township --> Napa         Distance of: 8.0
+Napa --> El Dorado Hills         Distance of: 8.0
+El Dorado Hills --> North Salt Lake         Distance of: 8.246211251235321
+North Salt Lake --> Redan         Distance of: 10.0
+Redan --> Ottawa         Distance of: 8.0
+Ottawa --> Westlake         Distance of: 48.0
+Westlake --> Greenville         Distance of: 8.0
+Greenville --> Aventura         Distance of: 8.0
+Aventura --> Wilmington         Distance of: 8.0
+Wilmington --> Roselle         Distance of: 8.0
+Roselle --> Taylorsville         Distance of: 8.0
+Taylorsville --> Silverdale         Distance of: 8.0
+Silverdale --> Barstow         Distance of: 12.0
+Barstow --> Albany         Distance of: 8.0
+Albany --> Mount Vernon         Distance of: 8.0
+Mount Vernon --> Council Bluffs         Distance of: 8.0
+Council Bluffs --> Oakville         Distance of: 8.0
+Oakville --> North Providence         Distance of: 8.0
+North Providence --> Dracut         Distance of: 8.0
+Dracut --> Irondequoit         Distance of: 8.0
+Irondequoit --> Bixby         Distance of: 14.422205101855956
+Bixby --> Mount Pleasant         Distance of: 8.0
+Mount Pleasant --> Carrollton         Distance of: 8.0
+Carrollton --> Bostonia         Distance of: 8.0
+Bostonia --> Maumelle         Distance of: 8.0
+Maumelle --> Alvin         Distance of: 8.0
+Alvin --> Atascocita         Distance of: 8.0
+Atascocita --> Marblehead         Distance of: 8.0
+Marblehead --> West Bend         Distance of: 8.0
+West Bend --> Birmingham         Distance of: 8.0
+Birmingham --> Chelsea         Distance of: 8.0
+Chelsea --> Troy         Distance of: 8.0
+Troy --> Wesley Chapel         Distance of: 8.0
+Wesley Chapel --> San Bruno         Distance of: 8.0
+San Bruno --> Moses Lake         Distance of: 8.0
+Moses Lake --> Glen Cove         Distance of: 8.94427190999916
+Glen Cove --> Merrimack         Distance of: 16.492422502470642
+Merrimack --> Marrero         Distance of: 24.0
+Marrero --> Gallatin         Distance of: 8.0
+Gallatin --> Amarillo         Distance of: 8.0
+Amarillo --> Cumberland         Distance of: 24.0
+Cumberland --> Baton Rouge         Distance of: 8.0
+Baton Rouge --> White Bear Lake         Distance of: 8.0
+White Bear Lake --> Cooper City         Distance of: 28.284271247461902
+Cooper City --> Smyrna         Distance of: 8.0
+Smyrna --> Ridgewood         Distance of: 8.0
+Ridgewood --> Rancho Cucamonga         Distance of: 8.0
+Rancho Cucamonga --> Bismarck         Distance of: 16.0
+Bismarck --> Leesburg         Distance of: 8.0
+Leesburg --> Davenport         Distance of: 8.0
+Davenport --> Seven Oaks         Distance of: 8.0
+Seven Oaks --> Sycamore         Distance of: 8.0
+Sycamore --> Harrison         Distance of: 14.422205101855956
+Harrison --> South Old Bridge         Distance of: 12.0
+South Old Bridge --> Mercer Island         Distance of: 8.0
+Mercer Island --> Richmond         Distance of: 14.422205101855956
+Richmond --> Colchester         Distance of: 8.94427190999916
+Colchester --> Waterloo         Distance of: 8.0
+Waterloo --> Oregon         Distance of: 0.0
+Oregon --> Bonney Lake         Distance of: 16.0
+Bonney Lake --> Marlboro         Distance of: 11.313708498984761
+Marlboro --> Mankato         Distance of: 17.88854381999832
+Mankato --> San Angelo         Distance of: 23.323807579381203
+San Angelo --> Springfield         Distance of: 8.0
+Springfield --> Hinesville         Distance of: 8.94427190999916
+Hinesville --> Safety Harbor         Distance of: 17.88854381999832
+Safety Harbor --> Chickasha         Distance of: 8.94427190999916
+Chickasha --> North Las Vegas         Distance of: 8.0
+North Las Vegas --> Wadsworth         Distance of: 8.0
+Wadsworth --> Hays         Distance of: 8.0
+Hays --> Belton         Distance of: 8.0
+Belton --> Glassmanor         Distance of: 8.0
+Glassmanor --> Augusta         Distance of: 11.313708498984761
+Augusta --> Homer Glen         Distance of: 8.0
+Homer Glen --> Carbondale         Distance of: 12.649110640673518
+Carbondale --> Lenexa         Distance of: 8.0
+Lenexa --> Blaine         Distance of: 8.0
+Blaine --> Alpharetta         Distance of: 12.0
+Alpharetta --> Onalaska         Distance of: 14.0
+Onalaska --> Morristown         Distance of: 17.08800749063506
+Morristown --> Boca Del Mar         Distance of: 16.492422502470642
+Boca Del Mar --> Copiague         Distance of: 8.0
+Copiague --> Hinsdale         Distance of: 8.0
+Hinsdale --> Mesquite         Distance of: 8.0
+Mesquite --> Orange         Distance of: 8.0
+Orange --> Lents         Distance of: 8.0
+Lents --> Oak Ridge         Distance of: 8.0
+Oak Ridge --> Prescott Valley         Distance of: 8.0
+Prescott Valley --> Crawfordsville         Distance of: 8.94427190999916
+Crawfordsville --> Evansville         Distance of: 11.313708498984761
+Evansville --> Valparaiso         Distance of: 11.313708498984761
+Valparaiso --> Burbank         Distance of: 11.313708498984761
+Burbank --> Ashland         Distance of: 11.313708498984761
+Ashland --> Cottage Grove         Distance of: 8.94427190999916
+Cottage Grove --> North Platte         Distance of: 8.0
+North Platte --> Pinellas Park         Distance of: 8.0
+Pinellas Park --> Maitland         Distance of: 8.0
+Maitland --> Duncanville         Distance of: 8.0
+Duncanville --> Meads         Distance of: 8.0
+Meads --> Ridgeland         Distance of: 8.0
+Ridgeland --> Saint Andrews         Distance of: 8.0
+Saint Andrews --> Carmichael         Distance of: 8.0
+Carmichael --> Spokane Valley         Distance of: 8.0
+Spokane Valley --> Jackson         Distance of: 8.0
+Jackson --> Colton         Distance of: 8.0
+Colton --> Radcliff         Distance of: 8.0
+Radcliff --> Ames         Distance of: 8.0
+Ames --> Garfield Heights         Distance of: 8.0
+Garfield Heights --> Altus         Distance of: 8.0
+Altus --> South Orange         Distance of: 16.0
+South Orange --> San Luis         Distance of: 11.313708498984761
+San Luis --> Coronado         Distance of: 8.0
+Coronado --> Greer         Distance of: 8.0
+Greer --> Iron River         Distance of: 8.0
+Iron River --> Lawrence         Distance of: 8.0
+Lawrence --> Yarmouth         Distance of: 8.0
+Yarmouth --> Encinitas         Distance of: 8.0
+Encinitas --> Naples         Distance of: 16.0
+Naples --> Detroit         Distance of: 8.0
+Detroit --> Setauket-East Setauket         Distance of: 8.0
+Setauket-East Setauket --> Alsip         Distance of: 8.0
+Alsip --> Clarksville         Distance of: 8.0
+Clarksville --> Fort Leonard Wood         Distance of: 8.0
+Fort Leonard Wood --> South Gate         Distance of: 8.0
+South Gate --> Pendleton         Distance of: 8.0
+Pendleton --> Sayville         Distance of: 8.0
+Sayville --> Sterling Heights         Distance of: 8.0
+Sterling Heights --> York         Distance of: 8.0
+York --> Newton         Distance of: 8.94427190999916
+Newton --> Claremont         Distance of: 8.0
+Claremont --> Agawam         Distance of: 8.94427190999916
+Agawam --> Fountain Hills         Distance of: 8.0
+Fountain Hills --> Merritt Island         Distance of: 8.0
+Merritt Island --> Montgomery         Distance of: 14.422205101855956
+Montgomery --> Union Hill-Novelty Hill         Distance of: 14.422205101855956
+Union Hill-Novelty Hill --> Montgomery Village         Distance of: 11.313708498984761
+Montgomery Village --> Baldwin         Distance of: 11.313708498984761
+Baldwin --> La Vista         Distance of: 8.0
+La Vista --> Broadview Heights         Distance of: 24.0
+Broadview Heights --> Tarpon Springs         Distance of: 8.0
+Tarpon Springs --> West Warwick         Distance of: 8.0
+West Warwick --> Chillum         Distance of: 8.0
+Chillum --> Millcreek         Distance of: 8.0
+Millcreek --> Hanover         Distance of: 8.0
+Hanover --> Galt         Distance of: 8.0
+Galt --> Rye         Distance of: 8.0
+Rye --> Jackson         Distance of: 8.0
+Jackson --> Manteca         Distance of: 8.0
+Manteca --> Blytheville         Distance of: 11.313708498984761
+Blytheville --> Apache Junction         Distance of: 11.313708498984761
+Apache Junction --> Mauldin         Distance of: 11.313708498984761
+Mauldin --> Hereford         Distance of: 11.313708498984761
+Hereford --> Stoughton         Distance of: 8.0
+Stoughton --> Elgin         Distance of: 8.0
+Elgin --> Yorkville         Distance of: 8.0
+Yorkville --> Palm Bay         Distance of: 8.0
+Palm Bay --> Winchester         Distance of: 8.0
+Winchester --> Flint         Distance of: 25.612496949731394
+Flint --> Elmwood Park         Distance of: 8.0
+Elmwood Park --> Hanahan         Distance of: 8.0
+Hanahan --> Cloverleaf         Distance of: 8.0
+Cloverleaf --> Boston         Distance of: 8.0
+Boston --> Royal Oak         Distance of: 8.0
+Royal Oak --> Hendersonville         Distance of: 10.770329614269007
+Hendersonville --> Parkland         Distance of: 17.08800749063506
+Parkland --> Santa Clarita         Distance of: 8.94427190999916
+Santa Clarita --> Kaysville         Distance of: 20.396078054371138
+Kaysville --> Mundelein         Distance of: 8.94427190999916
+Finished with final distance: 2812.2819342405546
+***
+Iteration: 309
+Temp: 0.07429662884306001
+Current Distance: 2812.2819342405546
