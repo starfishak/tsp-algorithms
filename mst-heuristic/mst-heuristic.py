@@ -53,7 +53,7 @@ class Graph():
         return distance
 
     def tsp_init(self):
-        results = open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/mst-heuristic/output/output.txt', 'w+')
+        results = open('./output/output.txt', 'w+')
         results.write("## TSP OUTPUT FILE - APPROXIMATION ALGORITHM ##\n")
         print("\n\nTSP")
         prior_city = self.vertices[1]['city']
@@ -63,7 +63,7 @@ class Graph():
         self.tsp(self.vertices[1]['edges'][0], prior_city)
 
     def tsp(self, node, prior_city):
-        results = open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/mst-heuristic/output/output.txt', 'a+')
+        results = open('./output/output.txt', 'a+')
         node_id = node[0]
         distance = node[1]
         self.total_distance += distance
@@ -79,7 +79,7 @@ class Graph():
             self.end_tsp(self.vertices[node_id])
 
     def end_tsp(self, prior_city_node):
-        with open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/mst-heuristic/output/output.txt', 'a+') as results:
+        with open('./output/output.txt', 'a+') as results:
             home_node = self.vertices[1]
             distance = self.calculateDistance(home_node['point'], prior_city_node['point'])
             self.total_distance += distance
@@ -96,7 +96,7 @@ class Graph():
         # Choose some random number between 1 and 20000
         if (self.line_num == 0):
             self.line_num = random.randint(1, 20000)
-        city_data = linecache.getline('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/world-cities_shuffle.csv', self.line_num)
+        city_data = linecache.getline('../datasets/world-cities_shuffle.csv', self.line_num)
         city_list = city_data.strip().split(',')
         print(city_list[1])
         if (city_list[1] != 'United States'):
@@ -106,11 +106,11 @@ class Graph():
         return city_list[0]
     
     def shuffleCities(self):
-        fid = open("/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/world-cities_csv.csv", "r")
+        fid = open("../datasets/world-cities_csv.csv", "r")
         li = fid.readlines()
         fid.close()
         random.shuffle(li)
-        fid = open("/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/world-cities_shuffle.csv", "w")
+        fid = open("../datasets/world-cities_shuffle.csv", "w")
         fid.writelines(li)
         fid.close()
 
@@ -128,6 +128,6 @@ def parse_file(path):
                 points.append(this_line)
         return (points, name)
 
-data = parse_file('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/test.txt')
+data = parse_file('../datasets/test.txt')
 graph = Graph(data[0], data[1])
 graph.tsp_init()

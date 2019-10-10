@@ -59,8 +59,8 @@ class genetic():
     
     def genetic_algo(self):
         # File opens
-        results = open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/genetic/output/output.txt', 'a+')
-        curve = open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/genetic/output/curve.csv', 'w+')
+        results = open('./output/output.txt', 'a+')
+        curve = open('./output/curve.csv', 'w+')
         writer = csv.writer(curve)
         writer.writerow(['Iteration', 'Distance'])
         
@@ -194,7 +194,7 @@ class genetic():
         # Choose some random number between 1 and 20000
         if (self.line_num == 0):
             self.line_num = random.randint(1, 20000)
-        city_data = linecache.getline('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/world-cities_shuffle.csv', self.line_num)
+        city_data = linecache.getline('../datasets/world-cities_shuffle.csv', self.line_num)
         city_list = city_data.strip().split(',')
         if (city_list[1] != 'United States'):
             self.line_num+=1
@@ -204,17 +204,17 @@ class genetic():
     
     # Shuffles the city dataset to give a new city list for each program run
     def shuffleCities(self):
-        fid = open("/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/world-cities_csv.csv", "r")
+        fid = open("../datasets/world-cities_csv.csv", "r")
         li = fid.readlines()
         fid.close()
         random.shuffle(li)
-        fid = open("/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/world-cities_shuffle.csv", "w")
+        fid = open("../datasets/world-cities_shuffle.csv", "w")
         fid.writelines(li)
         fid.close()
 
     # inits the file output, creates file if it does not exist
     def init_print_output(self, temp, cooldown_schedule):
-        results = open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/genetic/output/output.txt', 'w+')
+        results = open('./output/output.txt', 'w+')
         results.write("## TSP OUTPUT FILE - GENETIC ALGORITHM ##\n")
         results.write('Dataset Name: '+self.data_set_name+'\n')
         results.write('Initial Temp: '+str(temp)+'\n')
@@ -223,7 +223,7 @@ class genetic():
 
     # Prints result path
     def print_path_output(self, tour, total_distance):
-        results = open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/genetic/output/output.txt', 'a+')
+        results = open('./output/output.txt', 'a+')
         results.write('\n\n\n### RESULT ###\n')
         l = len(tour)
         for index, city in enumerate(tour):
@@ -251,5 +251,5 @@ def parse_file(path):
                 points.append(this_line)
         return (points, name)
 
-data = parse_file('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/a280.tsp.txt')
+data = parse_file('../datasets/a280.tsp.txt')
 genetic = genetic(data[0], data[1])

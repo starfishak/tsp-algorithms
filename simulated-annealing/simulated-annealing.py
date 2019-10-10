@@ -59,8 +59,8 @@ class tsp():
 
         # Open output file, init the header
         self.init_print_output(temp, cooldown_schedule)
-        results = open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/simulated-annealing/output/output.txt', 'a+')
-        curve = open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/simulated-annealing/output/curve.csv', 'w+')
+        results = open('./output/output.txt', 'a+')
+        curve = open('./output/curve.csv', 'w+')
         writer = csv.writer(curve)
         writer.writerow(['Iteration', 'Distance'])
 
@@ -137,7 +137,7 @@ class tsp():
         # Choose some random number between 1 and 20000
         if (self.line_num == 0):
             self.line_num = random.randint(1, 20000)
-        city_data = linecache.getline('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/world-cities_shuffle.csv', self.line_num)
+        city_data = linecache.getline('../datasets/world-cities_shuffle.csv', self.line_num)
         city_list = city_data.strip().split(',')
         if (city_list[1] != 'United States'):
             self.line_num+=1
@@ -146,16 +146,16 @@ class tsp():
         return city_list[0]
     
     def shuffleCities(self):
-        fid = open("/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/world-cities_csv.csv", "r")
+        fid = open("../datasets/world-cities_csv.csv", "r")
         li = fid.readlines()
         fid.close()
         random.shuffle(li)
-        fid = open("/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/world-cities_shuffle.csv", "w")
+        fid = open("../world-cities_shuffle.csv", "w")
         fid.writelines(li)
         fid.close()
 
     def init_print_output(self,temp, cooldown_schedule):
-        results = open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/simulated-annealing/output/output.txt', 'w+')
+        results = open('./output/output.txt', 'w+')
         results.write("## TSP OUTPUT FILE - LOCAL SEARCH ##\n")
         results.write('Initial Temp: '+str(temp)+'\n')
         results.write('Cooldown Schedule: '+cooldown_schedule+'\n')
@@ -163,7 +163,7 @@ class tsp():
         results.write(self.data_set_name+"Start City: "+ start_city+'\n')
 
     def print_path_output(self):
-        results = open('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/simulated-annealing/output/output.txt', 'a+')
+        results = open('./output/output.txt', 'a+')
         results.write('\n\n\n### RESULT ###\n')
         l = len(self.tour)
         for index, city in enumerate(self.tour):
@@ -189,7 +189,7 @@ def parse_file(path):
                 points.append(this_line)
         return (points, name)
 
-data = parse_file('/Users/brice/Desktop/Classes/COMP361/Assignment4/tsp-algorithms/datasets/berlin52.tsp.txt')
+data = parse_file('../datasets/berlin52.tsp.txt')
 tsp = tsp(data[0], data[1])
 print(tsp.calculate_path_distance())
 print(tsp.vertices)
